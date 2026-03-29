@@ -1,17 +1,10 @@
-# .github/workflows/news-aggregator.yml
-#
-# Runs Reapax News Aggregator twice daily (07:00 + 19:00 Swedish time)
-# Fetches RSS, categorizes, uploads news.json to Hostinger via FTP
-# NO API costs — everything runs locally in the action.
-
 name: Reapax News Aggregator
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # 05:00 UTC = 07:00 Swedish time
-    - cron: '0 17 * * *'  # 17:00 UTC = 19:00 Swedish time
-
-  workflow_dispatch:  # Manual trigger button
+    - cron: '0 5 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
 
 jobs:
   aggregate:
@@ -31,15 +24,20 @@ jobs:
         run: pip install feedparser requests beautifulsoup4
 
       - name: Run aggregator
-        env:
-          FTP_HOST: ${{ secrets.FTP_HOST }}
-          FTP_USER: ${{ secrets.FTP_USER }}
-          FTP_PASS: ${{ secrets.FTP_PASS }}
-          FTP_REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
-          FTP_USE_TLS: ${{ secrets.FTP_USE_TLS }}
         run: python aggregator.py
 
-      - name: Backup news.json
+      - name: Upload via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./
+          server-dir: /public_html/news/
+          include: '["news.json"]'
+          dangerous-clean-slate: false
+
+      - name: Backup
         if: always()
         uses: actions/upload-artifact@v4
         with:
