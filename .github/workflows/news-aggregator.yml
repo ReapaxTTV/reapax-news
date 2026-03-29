@@ -33,21 +33,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add news.json
-          git commit -m "Update news.json $(date -u +%Y-%m-%d_%H:%M)" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update news.json"
           git push
-```
-
-**Commit changes.**
-
-**Steg 2: Uppdatera frontend**
-
-Vi behöver ändra en rad i `index.html` på Hostinger så den hämtar från GitHub istället.
-
-1. Gå till **File Manager** → `/public_html/news/` → öppna `index.html`
-2. Sök efter raden (Ctrl+F):
-```
-var res = await fetch('./news.json?t=' + Date.now());
-```
-3. Ändra den till:
-```
-var res = await fetch('https://raw.githubusercontent.com/ReapaxTTV/reapax-news/main/news.json?t=' + Date.now());
