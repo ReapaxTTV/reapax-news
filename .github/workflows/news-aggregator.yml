@@ -26,16 +26,25 @@ jobs:
       - name: Run aggregator
         run: python aggregator.py
 
-      - name: Upload via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASS }}
-          local-dir: ./
-          server-dir: /public_html/news/
-          include: '["news.json"]'
-          dangerous-clean-slate: false
+      - name: Debug - check file exists
+        run: |
+          echo "Files in current dir:"
+          ls -la news.json
+          echo "File size:"
+          wc -c news.json
+
+      - name: Upload news.json via lftp
+        run: |
+          lftp -e "
+            set ssl:verify-certificate no;
+            set ftp:ssl-allow yes;
+            open ${{ secrets.FTP_HOST }};
+            user ${{ secrets.FTP_USER }} ${{ secrets.FTP_PASS }};
+            cd /public_html/news;
+            put news.json;
+            ls;
+            bye;
+          "
 
       - name: Backup
         if: always()
