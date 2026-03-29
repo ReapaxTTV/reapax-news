@@ -10,6 +10,8 @@ jobs:
   aggregate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -26,17 +28,26 @@ jobs:
       - name: Run aggregator
         run: python aggregator.py
 
-      - name: Upload news.json via curl FTP
+      - name: Commit news.json to repo
         run: |
-          curl -v --ftp-create-dirs \
-            -T news.json \
-            -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASS }}" \
-            "ftp://${{ secrets.FTP_HOST }}/news/news.json"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add news.json
+          git commit -m "Update news.json $(date -u +%Y-%m-%d_%H:%M)" || echo "No changes"
+          git push
+```
 
-      - name: Backup
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: news-${{ github.run_id }}
-          path: news.json
-          retention-days: 7
+**Commit changes.**
+
+**Steg 2: Uppdatera frontend**
+
+Vi behöver ändra en rad i `index.html` på Hostinger så den hämtar från GitHub istället.
+
+1. Gå till **File Manager** → `/public_html/news/` → öppna `index.html`
+2. Sök efter raden (Ctrl+F):
+```
+var res = await fetch('./news.json?t=' + Date.now());
+```
+3. Ändra den till:
+```
+var res = await fetch('https://raw.githubusercontent.com/ReapaxTTV/reapax-news/main/news.json?t=' + Date.now());
