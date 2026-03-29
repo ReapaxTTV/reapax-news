@@ -2,7 +2,7 @@
 """
 Reapax News Aggregator (API-FREE version)
 Fetches RSS feeds, deduplicates, categorizes, ranks, and summarizes
-articles using smart keyword matching — no paid API needed.
+articles using smart keyword matching - no paid API needed.
 
 Schedule: twice daily via GitHub Actions (07:00 + 19:00 Swedish time)
 """
@@ -41,37 +41,42 @@ MAX_ARTICLES_OUTPUT = 80
 # ══════════════════════════════════════════════════════════════
 
 FEEDS = [
-    # Swedish News
+    # Svenska nyheter
     {"url": "https://www.tv4.se/rss", "name": "TV4", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://feeds.expressen.se/nyheter/", "name": "Expressen", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://feeds.expressen.se/gt", "name": "GT", "lang": "sv", "default_cat": "lokalt"},
-    {"url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss", "name": "Folkhalsomyndigheten", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://www.dn.se/rss/", "name": "Dagens Nyheter", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://www.svt.se/rss.xml", "name": "SVT", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/", "name": "Aftonbladet", "lang": "sv", "default_cat": "sverige"},
     {"url": "https://www.jp.se/feeds/feed.xml", "name": "Jonkopingsposten", "lang": "sv", "default_cat": "lokalt"},
     {"url": "https://www.svd.se/feed/articles.rss", "name": "Svenska Dagbladet", "lang": "sv", "default_cat": "sverige"},
 
-    # Police
+    # Myndigheter
+    {"url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss", "name": "Folkhalsomyndigheten", "lang": "sv", "default_cat": "sverige"},
+
+    # Polis
     {"url": "https://polisen.se/aktuellt/rss/jonkopings-lan/nyheter-rss---jonkopings-lan/", "name": "Polisen Jonkoping", "lang": "sv", "default_cat": "polis"},
     {"url": "https://polisen.se/aktuellt/rss/jonkopings-lan/handelser-rss---jonkoping/", "name": "Polisen Jonkoping", "lang": "sv", "default_cat": "polis"},
     {"url": "https://polisen.se/aktuellt/rss/vastra-gotaland/nyheter-rss---vastra-gotaland/", "name": "Polisen VGR", "lang": "sv", "default_cat": "polis"},
     {"url": "https://polisen.se/aktuellt/rss/vastra-gotaland/handelser-rss---vastra-gotaland/", "name": "Polisen VGR", "lang": "sv", "default_cat": "polis"},
 
-    # International
-    {"url": "http://feeds.bbci.co.uk/news/rss.xml", "name": "BBC News", "lang": "en", "default_cat": "world"},
-    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "New York Times", "lang": "en", "default_cat": "world"},
-    {"url": "http://rss.cnn.com/rss/edition.rss", "name": "CNN", "lang": "en", "default_cat": "world"},
-    {"url": "https://feeds.bloomberg.com/technology/news.rss", "name": "Bloomberg Tech", "lang": "en", "default_cat": "social"},
-    {"url": "https://techcrunch.com/feed/", "name": "TechCrunch", "lang": "en", "default_cat": "social"},
+    # Tech, internet och digital kultur
+    {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge", "lang": "en", "default_cat": "tech"},
+    {"url": "https://feeds.bloomberg.com/technology/news.rss", "name": "Bloomberg Tech", "lang": "en", "default_cat": "tech"},
+    {"url": "https://techcrunch.com/feed/", "name": "TechCrunch", "lang": "en", "default_cat": "tech"},
 
-    # Social Media & Memes
+    # Social media, memes och internetkultur
     {"url": "https://knowyourmeme.com/newsfeed.rss", "name": "KnowYourMeme", "lang": "en", "default_cat": "memes"},
     {"url": "https://www.socialmediatoday.com/feeds/news", "name": "Social Media Today", "lang": "en", "default_cat": "social"},
     {"url": "https://later.com/blog/feed/", "name": "Later", "lang": "en", "default_cat": "social"},
     {"url": "https://socialbee.com/blog/feed/", "name": "SocialBee", "lang": "en", "default_cat": "social"},
-    {"url": "https://napoleoncat.com/blog/feed/", "name": "NapoleonCat", "lang": "en", "default_cat": "memes"},
-    {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge", "lang": "en", "default_cat": "social"},
+    {"url": "https://napoleoncat.com/blog/feed/", "name": "NapoleonCat", "lang": "en", "default_cat": "social"},
+    {"url": "https://www.socialmediaexaminer.com/feed/", "name": "Social Media Examiner", "lang": "en", "default_cat": "social"},
+
+    # Internationella nyheter
+    {"url": "http://feeds.bbci.co.uk/news/rss.xml", "name": "BBC News", "lang": "en", "default_cat": "world"},
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "New York Times", "lang": "en", "default_cat": "world"},
+    {"url": "http://rss.cnn.com/rss/edition.rss", "name": "CNN", "lang": "en", "default_cat": "world"},
 ]
 
 
@@ -108,8 +113,17 @@ CATEGORY_KEYWORDS = {
         "social media", "sociala medier", "influencer", "creator",
         "algoritm", "algorithm", "plattform", "platform",
         "app update", "new feature", "uppdatering",
-        "artificial intelligence", "chatgpt", "openai", "startup",
-        "tech company", "silicon valley", "apple", "google", "microsoft",
+    ],
+    "tech": [
+        "artificial intelligence", "ai ", " ai", "chatgpt", "openai", "anthropic",
+        "startup", "tech company", "silicon valley", "apple", "google", "microsoft",
+        "nvidia", "tesla", "amazon", "samsung", "spacex",
+        "software", "hardware", "chip", "semiconductor", "processor",
+        "cybersecurity", "data breach", "hack", "privacy",
+        "robot", "automation", "machine learning", "neural network",
+        "blockchain", "crypto", "web3",
+        "gadget", "smartphone", "laptop", "wearable",
+        "cloud", "saas", "api", "developer", "open source",
     ],
     "world": [
         "usa", "china", "russia", "ukraine", "eu ", "european union",
