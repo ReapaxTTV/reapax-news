@@ -31,7 +31,7 @@ jobs:
           curl -v --ftp-create-dirs \
             -T news.json \
             -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASS }}" \
-            "ftp://${{ secrets.FTP_HOST }}/public_html/news/news.json"
+            "ftp://${{ secrets.FTP_HOST }}/news/news.json"
 
       - name: Backup
         if: always()
