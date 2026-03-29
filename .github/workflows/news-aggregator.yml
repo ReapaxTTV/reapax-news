@@ -26,25 +26,12 @@ jobs:
       - name: Run aggregator
         run: python aggregator.py
 
-      - name: Debug - check file exists
+      - name: Upload news.json via curl FTP
         run: |
-          echo "Files in current dir:"
-          ls -la news.json
-          echo "File size:"
-          wc -c news.json
-
-      - name: Upload news.json via lftp
-        run: |
-          lftp -e "
-            set ssl:verify-certificate no;
-            set ftp:ssl-allow yes;
-            open ${{ secrets.FTP_HOST }};
-            user ${{ secrets.FTP_USER }} ${{ secrets.FTP_PASS }};
-            cd /public_html/news;
-            put news.json;
-            ls;
-            bye;
-          "
+          curl -v --ftp-create-dirs \
+            -T news.json \
+            -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASS }}" \
+            "ftp://${{ secrets.FTP_HOST }}/public_html/news/news.json"
 
       - name: Backup
         if: always()
