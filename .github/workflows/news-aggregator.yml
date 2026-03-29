@@ -2,8 +2,8 @@ name: Reapax News Aggregator
 
 on:
   schedule:
-    - cron: '0 5 * * *'
-    - cron: '0 17 * * *'
+    - cron: '0 5 * * *'   # 07:00 CEST / 06:00 CET
+    - cron: '0 17 * * *'  # 19:00 CEST / 18:00 CET
   workflow_dispatch:
 
 jobs:
@@ -26,6 +26,12 @@ jobs:
         run: pip install feedparser requests beautifulsoup4
 
       - name: Run aggregator
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_REMOTE_DIR: /public_html/news
+          FTP_USE_TLS: 'true'
         run: python aggregator.py
 
       - name: Commit news.json to repo
