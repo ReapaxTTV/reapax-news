@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-04-14T06:23:44.816557+00:00",
+  "last_updated": "2026-04-14T18:12:14.225380+00:00",
   "article_count": 80,
   "articles": [
-    {
-      "title": "Gais öppnar för värvning i skadekrisen",
-      "summary": "Två allvarliga skador på kort tid. Nu öppnar Gais för att värva – och kontraktslöse Christos Gravius, 28, är högaktuell. – En bra spelare som vi tittat på tidigare.",
-      "category": "lokalt",
-      "importance": 5,
-      "published": "2026-04-12T17:55:58+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/gais-oppnar-for-varvning-i-skadekrisen/"
-        }
-      ]
-    },
     {
       "title": "En anhållen för förberedelse till terrorbrott",
       "summary": "En person har anhållits misstänkt för förberedelse till terroristbrott, deltagande i terroristorganisation, grovt brott och för offentlig uppmaning till terrorism, meddelar åklagarmyndigheten..",
@@ -42,127 +29,6 @@
       ]
     },
     {
-      "title": "Misstänks ha förberett terrordåd i åtta dagar",
-      "summary": "Terrorrazzian genomfördes tidigt på fredagsmorgonen. Säkerhetspolisen, Säpo, grep då en 35-årig man i insatsen.",
-      "category": "polis",
-      "importance": 5,
-      "published": "2026-04-13T12:45:56+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/41iYBU5SWjai1RZ1gRru4J/misstaenks-ha-foerberett-terrordad-i-atta-dagar"
-        }
-      ]
-    },
-    {
-      "title": "BP räddade derbypoäng mot AIK på tilläggstid: ”Otrolig känsla”",
-      "summary": "AIK såg ut att gå mot andra raka segern. Men i den 95:e minuten kvitterade BP till 2–2. – Väldigt skönt, säger BP:s målskytt Alex Timossi Andersson. – Jättetungt, säger AIK:s Kristoffer Nordfeldt.",
-      "category": "tech",
-      "importance": 5,
-      "published": "2026-04-13T18:55:27+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/sport/fotboll/bp-raddade-poang-mot-aik-pa-tillaggstid"
-        }
-      ]
-    },
-    {
-      "title": "Pete Hegseth krigar med stöd av Jesus",
-      "summary": "Inne i kyrkan bakom Kapitolium faller Pete Hegseth på knä och ber om förlåtelse för sina synder. Utanför skriker demonstranter att han är en galen folkmördare.",
-      "category": "memes",
-      "importance": 5,
-      "published": "2026-04-13T19:53:46+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/9p35nE/pete-hegseths-kristna-retorik-far-kritiker-att-varna-for-att-han-vill-skapa-en-evangelisk-kristen-arme"
-        }
-      ]
-    },
-    {
-      "title": "Zoetis CEO: AI Boosts 'Resilient' Animal Health Business",
-      "summary": "Zoetis CEO Kristin Peck discusses animal health innovation, the 'incredibly resilient' animal health industry, and how AI is transforming health care.",
-      "category": "tech",
-      "importance": 5,
-      "published": "2026-04-13T20:10:20+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-04-13/zoetis-ceo-ai-boosts-resilient-animal-health-business-video"
-        }
-      ]
-    },
-    {
-      "title": "Karl Dalén: Den kristna högern får välja mellan Påven och Trump",
-      "summary": "WASHINGTON. Ett bråk har blossat upp mellan två väldigt olika män: USA:s president och påve Leo. Påvens kritik mot kriget i Iran har fått Donald Trump att gå till motangrepp i sociala medier.",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-04-13T20:23:07+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/karl-dalen-den-kristna-hogern-far-valja-mellan-paven-och-trump/"
-        }
-      ]
-    },
-    {
-      "title": "Raseriet inifrån: ”Hade suttit i en fängelsecell nu”",
-      "summary": "PLUS Först var det krigsmotståndarna. Sedan blev de kristna arga. Nu kommer nästa rasande uppror inifrån.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-04-13T22:14:04+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/5p8rP1/interna-kritiken-mot-trump-hade-suttit-i-en-fangelsecell-nu?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Stocks Extend Gains on Trump Comments | The Close 4/13/2026",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street.",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-04-13T22:20:13+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-04-13/the-close-4-13-2026-video"
-        }
-      ]
-    },
-    {
-      "title": "Handgranat exploderade i Göteborg",
-      "summary": "En explosion har skett vid en garageuppfart i ett bostadsområde i Göteborgs kommun. – Vi kan konstatera att det är en handgranat som detonerat vid en fastighet, säger polisens vakthavande befäl Göran Carlbom till TT.",
-      "category": "polis",
-      "importance": 5,
-      "published": "2026-04-14T01:59:11+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/d47rjz/handgranat-exploderat-i-goteborg?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/JOrL3X/handgranat-exploderat-i-goteborg"
-        }
-      ]
-    },
-    {
-      "title": "Professorn om nostalgitrenden: ”Jag tror att nästan alla är retrofiler”",
-      "summary": "Nostalgilängtan handlar inte bara om verklighetsflykt utan även om erotik hävdar Kristina Fjelkestam, professor i genusvetenskap. – Vi vill gärna hångla med historien, säger hon.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-04-14T03:22:45+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/insidan/professorn-om-nostalgitrenden-jag-tror-att-nastan-alla-ar-retrofiler/"
-        }
-      ]
-    },
-    {
       "title": "Trumps försvar efter sågade Jesusbilden: ”Jag som läkare”",
       "summary": "Kristna aktivister rasande • Presidenten: ”Jag får folk att må bättre\"",
       "category": "memes",
@@ -176,180 +42,124 @@
       ]
     },
     {
-      "title": "Kommunen stoppar sociala medier på datorer i skolan",
-      "summary": "Kristianstad sätter ner foten",
+      "title": "Krispig kycklingburgare med kimchidressing",
+      "summary": "Dagens middagstips bjuder på en riktigt krispig kycklingburgare som tar smaklökarna på en resa. Friterad kyckling läggs tillsammans med sallad, tomat, silverlök, kimchidressing och saltgurka i ett mjukt briochebröd.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-04-14T07:37:40+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/451Bvq0dgiY917KLS0oodm/krispig-kycklingburgare-med-kimchidressing"
+        }
+      ]
+    },
+    {
+      "title": "Svaret från Utsikten: ”Ingen orättvisa”",
+      "summary": "Jönköpings Södra har lämnat in en protest efter att Utsikten genomfört sex byten i söndagens ettanmatch på Stadsparksvallen.",
       "category": "lokalt",
       "importance": 5,
-      "published": "2026-04-14T05:30:00+00:00",
+      "published": "2026-04-14T09:30:03+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/sport/svaret-fran-utsikten-ingen-orattvisa/"
+        }
+      ]
+    },
+    {
+      "title": "Tunga frågor när EU möts på Cypern",
+      "summary": "Ukraina, Iran, energikris och nästa långtidsbudget – allt ska avhandlas när EU-ländernas stats- och regeringschefer…",
+      "category": "world",
+      "importance": 5,
+      "published": "2026-04-14T13:27:31+00:00",
       "sources": [
         {
           "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/0pB35B/kristianstad-stoppar-sociala-medier-pa-skoldatorer?utm_medium=rss"
+          "url": "https://www.aftonbladet.se/nyheter/a/rrMG1K/tunga-fragor-nar-eu-mots-pa-cypern?utm_medium=rss"
         }
       ]
     },
     {
-      "title": "Stegra får miljardinvestering",
-      "summary": "Wallenberg Investments går in med 1,4 miljarder euro i svenska ståltillverkaren Stegra, skriver bolaget i ett pressmeddelande. Riskkapitalbolaget Altor blir näst största ägare när investeringen fullföljts.",
+      "title": "Raseriet inifrån: ”Hade suttit i en fängelsecell nu”",
+      "summary": "PLUS Först var det krigsmotståndarna. Sedan blev de kristna arga. Nu kommer nästa rasande uppror inifrån.",
       "category": "sverige",
       "importance": 5,
-      "published": "2026-04-14T06:12:25+00:00",
+      "published": "2026-04-14T13:47:32+00:00",
       "sources": [
         {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/62VYfH06QEit2EDz1OduNZ/stegra-far-miljardinvestering"
-        },
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/5p8rP1/interna-kritiken-mot-trump-hade-suttit-i-en-fangelsecell-nu?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "SD straffade Andersson för vapenutspel efter masskjutningen",
+      "summary": "Sverigedemokraterna ville förbjuda vissa vapen. SD-toppen Tobias Andersson (SD) gick emot partiledningen. Sedan straffades han i tysthet.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-04-14T14:43:37+00:00",
+      "sources": [
         {
           "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/stegra-far-miljardinvestering"
+          "url": "https://www.svt.se/nyheter/inrikes/sd-straffade-andersson-for-vapenutspel-efter-masskjutningen"
         }
       ]
     },
     {
-      "title": "Varnar för ny smäll mot världsekonomin: ”Ytterst allvarligt”",
-      "summary": "Trumps ord spås få marknaden att reagera",
+      "title": "Insändare. Oljekrisen bör få regeringen att göra oss fossilfria",
+      "summary": "INSÄNDARE. Många privatpersoner och företag är snabba på att minska sitt fossila beroende, men regeringen går tyvärr i motsatt riktning.",
       "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-12T20:28:10+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/3FoySSW6teJm9sEAKi6TGB/varnar-foer-ny-smaell-mot-vaerldsekonomin-ytterst-allvarligt"
-        }
-      ]
-    },
-    {
-      "title": "Hexagon to Buy Baker Hughes’ Waygate for $1.45 Billion",
-      "summary": "Hexagon AB, a Swedish company that makes sensors and measurement technology, agreed to buy Waygate Technologies for about $1.45 billion in cash from Baker Hughes Co.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-04-13T06:27:00+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-13/hexagon-to-buy-waygate-from-baker-hughes-for-1-45-billion"
-        }
-      ]
-    },
-    {
-      "title": "Intel’s $100 Billion April Rally Makes It Market’s Hottest Stock",
-      "summary": "Intel Corp. has quickly become one of the hottest stocks in the S&P 500 Index thanks to a nine-day surge that has added more than $100 billion in market value.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-04-13T09:48:28+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-13/intel-s-100-billion-april-rally-makes-it-market-s-hottest-stock"
-        }
-      ]
-    },
-    {
-      "title": "Euphoria is back with more shock and scandal, but mixed reviews",
-      "summary": "Many critics say the third season of the hit HBO drama doesn't live up to its previous heights.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-04-13T12:03:12+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cr51lzjljnyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Antalet ransomwareattacker ökar kraftigt: ”Digital utpressning”",
-      "summary": "Förra veckan utsattes både Dorotea och Vilhelmina kommun för allvarliga it-attacker som påverkade deras datasystem på olika sätt.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-04-13T12:15:41+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/65hiypoupXV8jFJJ302eGb/antalet-ransomwareattacker-oekar-kraftigt-digital-utpressning"
-        }
-      ]
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-g...",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-04-13T15:22:29+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
-        }
-      ]
-    },
-    {
-      "title": "Halliburton Wins Multibillion-Dollar YPF Fracking Contract in Argentina",
-      "summary": "Halliburton Co. said it won an exclusive, multibillion-dollar contract from Argentina’s state-run oil company YPF to provide bundled fracking services in the Vaca Muerta shale patch.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-04-13T15:32:06+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-13/halliburton-wins-multibillion-dollar-ypf-contract-in-argentina"
-        }
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Regeringen nöjer sig inte med valfläsk – den vill även bjuda på ”gratis” lunch",
-      "summary": "I mandatperiodens sista budget ägnar sig regeringen åt valfläsk, som ingen behöver betala i dag. Väljarna måste fråga sig vad som händer i morgon.",
-      "category": "memes",
-      "importance": 4,
-      "published": "2026-04-13T17:37:08+00:00",
+      "importance": 5,
+      "published": "2026-04-14T16:32:49+00:00",
       "sources": [
         {
           "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/ledare/susanne-nystrom-regeringen-nojer-sig-inte-med-valflask-den-vill-aven-bjuda-pa-gratis-lunch/"
+          "url": "https://www.dn.se/insandare/oljekrisen-bor-fa-regeringen-att-gora-oss-fossilfria/"
         }
       ]
     },
     {
-      "title": "DN Debatt. ”Stockholms hyresmarknad hotar hela landets tillväxt”",
-      "summary": "DN DEBATT. Om Sverige ska växa måste Stockholm fungera, men stadens hyresmarknad är ett haveri.",
+      "title": "Hur redo är Sverige för en ny kris?",
+      "summary": "PODD | 14 april. Står vi väl rustade eller riskerar vi att bli tagna på sängen?",
       "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-13T18:00:00+00:00",
+      "importance": 5,
+      "published": "2026-04-14T16:47:46+00:00",
       "sources": [
         {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/debatt/stockholms-hyresmarknad-hotar-hela-landets-tillvaxt/"
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/7p7Q3W/hur-redo-ar-sverige-for-en-ny-kris"
         }
       ]
     },
     {
-      "title": "Vill att förbundet prövar frågan: ”Regler är regler”",
-      "summary": "Utsikten gjorde sex byten mot J-Södra. Man får bara göra fem. Nu har J-Södra lämnat in en skrivelse till Svenska Fotbollförbundet.",
-      "category": "lokalt",
-      "importance": 4,
-      "published": "2026-04-13T18:18:49+00:00",
+      "title": "Här kommer nya cykelbron till Slussen",
+      "summary": "Under tisdagen samlades åskådare vid Viktoriaslussen för att se när den första brodelen av nya cykel- och gångbron bogserades in till Söderström.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-04-14T17:07:36+00:00",
       "sources": [
         {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/sport/vill-att-forbundet-provar-fragan-regler-ar-regler/"
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/har-kommer-nya-cykelbron-till-slussen"
         }
       ]
     },
     {
-      "title": "Bubbel i klippstolen – frisörerna redo om matkravet slopas",
-      "summary": "Ett glas bubbel till klippningen? Det kan snart bli verklighet – och redan nu går snacket varmt bland stadens frisörer. Regeringens förslag möts av jubel på flera salonger.",
-      "category": "lokalt",
-      "importance": 4,
-      "published": "2026-04-13T18:38:54+00:00",
+      "title": "Wallenberg och Kamprad tar en kula för Sverige",
+      "summary": "Familjerna Wallenberg och Kamprad räddar krisande stålbolaget Stegra och gör att risken för en krasch minskar…",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-04-14T17:27:23+00:00",
       "sources": [
         {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/jonkoping/bubbel-i-klippstolen-frisorerna-redo-om-matkravet-slopas/"
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/OkgmzE/andreas-cervenka-om-stegras-miljardstod?utm_medium=rss"
         }
       ]
     },
     {
-      "title": "Nemetschek Strikes Deal to Acquire Thoma Software Firm HCSS",
+      "title": "Nemetschek to Buy Thoma Bravo’s HCSS in €2 Billion-Plus Deal",
       "summary": "Nemetschek SE agreed to acquire construction management software provider Heavy Construction Systems Specialists from Thoma Bravo.",
       "category": "tech",
       "importance": 4,
@@ -362,33 +172,7 @@
       ]
     },
     {
-      "title": "Barnhjärtläkarens första ord om vårdskandalen",
-      "summary": "I en 24 sidor lång skrivelse till Inspektionen för vård och omsorg, IVO, svarar barnhjärtläkaren på kritik som framförts mot honom.",
-      "category": "lokalt",
-      "importance": 4,
-      "published": "2026-04-13T19:09:29+00:00",
-      "sources": [
-        {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/barnhjartlakarens-forsta-ord-om-vardskandalen/"
-        }
-      ]
-    },
-    {
-      "title": "Tusental protesterade mot regeringen: ”De här barnen är inga monster”",
-      "summary": "GÖTEBORG. Barn ska inte sitta i fängelse. Så lät budskapet när ett drygt tusental personer över hela landet…",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-13T19:17:06+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/7p7jP3/manifestation-mot-barn-i-fangelse?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Google Faces Mass Arbitration by Advertisers Seeking Billions",
+      "title": "Google Faces Mass Arbitration as Advertisers Seek Billions",
       "summary": "Alphabet Inc.’s Google is facing billions of dollars in potential damage claims as part of mass arbitration tied to the company’s online search and advertising technology businesses, which courts have ruled were illeg...",
       "category": "tech",
       "importance": 4,
@@ -401,72 +185,7 @@
       ]
     },
     {
-      "title": "Domstol avvisar Trumps stämning mot Murdoch",
-      "summary": "Krävde tio miljarder dollar",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-04-13T20:29:21+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=fe20ac9e-5f7e-46f9-a651-5ab777c02245"
-        }
-      ]
-    },
-    {
-      "title": "Damberg (S): ”Exploderande underskott i offentliga finanserna”",
-      "summary": "Finansminister Elisabeth Svantesson (M) anser att Sverige måste låna flera miljarder för att ”få hjulen att rulla”. ”Oansvarigt”, säger Socialdemokraternas Mikael Damberg när de möts i SVT:s debatt.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-04-13T21:03:54+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/inrikes/damberg-s-exploderande-underskott-i-offentliga-finanserna"
-        }
-      ]
-    },
-    {
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-      "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-04-13T21:29:23+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Är läkarna skyldiga till Maradonas död?",
-      "summary": "Kort efter att Diego Maradona hittats svullen och orörlig i en säng, blir hans läkare misstänkta för hans död. De anklagas för att ha gett fotbollslegenden undermålig vård, och måste försvara sig inför domstol.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-13T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/podd/spotlight/ar-lakarna-skyldiga-till-maradonas-dod/"
-        }
-      ]
-    },
-    {
-      "title": "Doctors' strikes can have surprising benefits - but are they sustainable?",
-      "summary": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
-      "category": "memes",
-      "importance": 4,
-      "published": "2026-04-13T23:06:45+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Lebanon enters talks with Israel but with no cards to play",
+      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
       "summary": "The Lebanese government go into peace talks with limited influence over the group.",
       "category": "world",
       "importance": 4,
@@ -479,76 +198,11 @@
       ]
     },
     {
-      "title": "About 90 People Detained at N.Y.C. Protest Over Arms Sales to Israel",
-      "summary": "The protesters sat in the middle of Third Avenue in Midtown Manhattan and blocked traffic for about an hour.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-04-14T00:58:33+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/13/nyregion/nyc-protest-arrests-israel-arms.html"
-        }
-      ]
-    },
-    {
-      "title": "Vance Says Pope Leo Should Stay Out of U.S. Affairs",
-      "summary": "The vice president, a Catholic, defended President Trump, who had accused the pope of being too liberal and “weak on crime.” The pontiff has said that he has “no fear of the Trump administration.”",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-04-14T01:08:55+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/13/us/politics/jd-vance-pope-leo-trump.html"
-        }
-      ]
-    },
-    {
-      "title": "Varningen: Svensk teknologi kan läcka till Kina – efter JAS-affär",
-      "summary": "Den 25 augusti förra året undertecknades avtalet av Thailands flygvapenchef och generaldirektör Mikael Granholm på Försvarets Materielverk, FMV, vid en ceremoni på Grand hotell i Stockholm.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-14T04:15:28+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/3QfKRgsC8USHmluuRSrYiZ/saekerhetsrisker-med-jas-foersaeljning-till-thailand-ignorerades"
-        }
-      ]
-    },
-    {
-      "title": "Kraven på Andersson inifrån S",
-      "summary": "Magdalena Andersson får internt stöd i att nobba V, C och MP före valet, visar Expressens rundringning. I stället kräver partiet tydliga politiska reformer.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-14T04:21:03+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/politik/kraven-pa-andersson-inifran-s/"
-        }
-      ]
-    },
-    {
-      "title": "Anonyma mejl till regeringen – skickas inifrån S partikansli",
-      "summary": "En pseudonym kopplad till Socialdemokraternas partikansli har under flera år begärt ut en stor mängd handlingar från Regeringskansliet. Alla begäranden har gjorts på vardagar, under kontorstid, visar DN:s granskning.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-04-14T04:29:10+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/sverige/anonyma-mejl-till-regeringen-skickas-inifran-s-partikansli/"
-        }
-      ]
-    },
-    {
       "title": "Canada Special Elections 2026 Results: Carney’s Liberal Party Gains Majority",
       "summary": "Prime Minister Mark Carney, constrained by leading a minority government for the past year, gained a majority in the House of Commons after special elections on Monday.",
       "category": "world",
       "importance": 4,
-      "published": "2026-04-14T05:13:01+00:00",
+      "published": "2026-04-14T05:13:02+00:00",
       "sources": [
         {
           "name": "New York Times",
@@ -557,15 +211,469 @@
       ]
     },
     {
-      "title": "Digital Realty Plans €2 Billion Data Center Investments in Italy",
-      "summary": "Data-center operator Digital Realty Trust Inc. plans to invest €2 billion ($2.3 billion) in Italy over the next five years as part of a Mediterranean-focused build-out in Europe.",
+      "title": "AI-entreprenören Lukas Saari: Man måste vara bekväm med osäkerheten",
+      "summary": "På bara ett par år har Lukas Saaris startup gått från fyramannakontor runt köksbordet till ett internationellt bolag med 120 anställda – och en värdering på 2–3 miljarder kronor.",
+      "category": "lokalt",
+      "importance": 4,
+      "published": "2026-04-14T10:02:23+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/uutiset/svenska/ai-entreprenoren-lukas-saari-man-maste-vara-bekvam-med-osakerheten"
+        }
+      ]
+    },
+    {
+      "title": "Veolia Sees €1 Billion Sales to AI Industries by 2030",
+      "summary": "France’s Veolia Environnement SA plans to nearly double revenue from artificial intelligence industries to €1 billion ($1.2 billion) by 2030 as it provides new services to the booming sector.",
       "category": "tech",
       "importance": 4,
-      "published": "2026-04-14T06:13:04+00:00",
+      "published": "2026-04-14T10:09:28+00:00",
       "sources": [
         {
           "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-14/digital-realty-plans-2-billion-data-center-investments-in-italy"
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/veolia-sees-1-billion-in-revenue-from-ai-industries-by-2030"
+        }
+      ]
+    },
+    {
+      "title": "Två åtalas för pojkes död i explosion i Stockholm",
+      "summary": "En 22-årig man och en 15-årig pojke åtalas för grovt vållande till annans död efter att en 15-årig pojke dött när han skulle utföra ett sprängdåd i Stockholm förra året.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T10:14:05+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/tva-atalas-for-pojkes-dod-i-explosion-i-stockholm"
+        }
+      ]
+    },
+    {
+      "title": "Pojke dog i explosion – två åtalas",
+      "summary": "Personerna åtalas även för anstiftan till grov allmänfarlig ödeläggelse, anstiftan till brott mot lagen om brandfarliga och explosiva varor, grovt brott, samt involverande av en underårig i brottslighet.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T10:46:41+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/tt-260414-ostbergaexplosion1-ac007115/pojke-dog-i-explosion-tva-atalas"
+        }
+      ]
+    },
+    {
+      "title": "Riksdagens EKR-råd fick inte ta ställning till Jas-affären med Thailand",
+      "summary": "Martin Lundmark, forskare vid försvarshögskolan, anser att riksdagens exportkontrollråd borde ha fått tycka till om den senaste vapenexporten till Thailand.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T11:28:29+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/wtuGBUB0OqOfZYGNQE5d3/riksdagen-fick-inte-ta-staellning-till-jas-affaeren-med-thailand"
+        }
+      ]
+    },
+    {
+      "title": "Explosion i Geneta – igen",
+      "summary": "En explosion har inträffat vid en butik i Geneta, Södertälje. Det är inga personskador men är tredje explosionen på bara några dagar i Södertälje.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T12:32:20+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/sodertalje/okanda-smallar-har-horts-i-geneta-polis-pa-plats"
+        }
+      ]
+    },
+    {
+      "title": "Orbáns fall öppnar dörren för von der Leyens stora reform",
+      "summary": "Viktor Orbáns valfiasko kan bana väg för en historisk maktförskjutning inom EU. Med ”vetokungen” undanröjd ser kommissionens ordförande Ursula von der Leyen nu sin chans att skrota vetorätten i utrikespolitiken.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T12:34:36+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/orbans-fall-oppnar-dorren-for-von-der-leyens-stora-reform/"
+        }
+      ]
+    },
+    {
+      "title": "Fler dömda till döden för protester i Iran",
+      "summary": "Ytterligare fyra personer har dömts till döden för protester i Iran i januari i år, meddelar människorättsgrupper.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T12:52:03+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/d47bpw/fler-domda-till-doden-for-protester-i-iran?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Liberalerna missade deadline för riksdagslistor för fyra norrlandslän",
+      "summary": "I fyra norrlandslän kommer det inte att finnas lokala riksdagslistor för Liberalerna. I Norrbotten, Västernorrland, Jämtland och Gävleborg blir det en rikslista för riksdagsvalet.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T13:08:11+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/inrikes/liberalerna-missade-deadline-for-riksdagslistor-for-fyra-norrlandslan"
+        }
+      ]
+    },
+    {
+      "title": "Burglars who used Rightmove to target homes and steal £1m of valuables jailed",
+      "summary": "The gang gloated about their crimes while two of them referred to themselves as Bonnie and Clyde.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-04-14T13:08:50+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c8jxe9npzdlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party",
+      "summary": "The rising star in global centrist politics has secured a majority in the Canadian Parliament. Critics are crying foul.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-04-14T13:27:10+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"
+        }
+      ]
+    },
+    {
+      "title": "Larm om explosion i Geneta i Södertälje",
+      "summary": "En ny explosion har inträffat i Södertäljestadsdelen Geneta. Föremålet som exploderat har orsakat skador på en byggnad och en bil.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T13:27:39+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/2RtpDr0UbzQuySENiGdYgD/ny-explosion-i-soedertaelje"
+        },
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=8664f70e-61f3-4829-8173-1b2722fa448a"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ExlLKl/uppgifter-larm-om-explosion-i-sodertalje?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/q6y73g/uppgifter-explosion-i-sodertalje"
+        }
+      ]
+    },
+    {
+      "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+      "summary": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T13:55:42+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/"
+        }
+      ]
+    },
+    {
+      "title": "V och MP: Utvisade ungdomar i livsfara ska kunna evakueras",
+      "summary": "MP och V fortsätter att sätta press på regeringen i frågan om tonårsutvisningarna. Nu hoppas de kunna ena oppositionen kring ett nytt förslag om att bland annat kunna hämta hem utvisade ungdomar tillbaka till Sverige.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T13:59:27+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/v-och-mp-utvisade-ungdomar-i-livsfara-ska-kunna-evakueras/"
+        }
+      ]
+    },
+    {
+      "title": "Explosion i Södertälje – tredje dådet på kort tid",
+      "summary": "En explosion har inträffat vid en butik i Södertälje – det tredje dådet i området sedan i fredags. Nu söker polisen efter en misstänkt gärningsperson.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T14:12:45+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/e7Gyna/explosion-utanfor-butik-i-geneta-centrum-i-sodertalje"
+        }
+      ]
+    },
+    {
+      "title": "Jane Street in Talks to Back Fluidstack at $18 Billion Valuation",
+      "summary": "The cloud-computing startup Fluidstack Ltd. is holding funding talks with investors to bring in about $1 billion at a target valuation of $18 billion, according to people briefed on the matter.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T14:41:58+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/jane-street-in-talks-to-back-fluidstack-at-18-billion-valuation"
+        }
+      ]
+    },
+    {
+      "title": "Så blev miljardbadet i Kiruna – familj får provbada",
+      "summary": "Så var det dags för premiärbad i Sveriges just nu mest berömda badhus. Invigningen är fortfarande någon månad bort, men här hoppas det i plurret i Kirunas 1,5-miljardersbad.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T14:52:48+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-blev-miljardbadet-i-kiruna-harlig-kansla-att-snart-fa-oppna"
+        }
+      ]
+    },
+    {
+      "title": "Pappa åtalas för kidnappning – dottern skulle föras till Mellanöstern",
+      "summary": "Natten till den 21 november blev en tvåårig flicka bortförd från en lägenhet i Jönköping.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T14:52:56+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/jonkoping/pappa-atalas-for-kidnappning-dottern-skulle-foras-till-mellanostern/"
+        }
+      ]
+    },
+    {
+      "title": "Telesat’s Rebuild Gets Boost From Canada’s Defense War Chest",
+      "summary": "Prime Minister Mark Carney has opened the spigot for Canada to invest tens of billions of dollars more on defense, which means the country — very belatedly — just hit its North Atlantic Treaty Organization commitment ...",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-04-14T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/telesat-turnaround-gets-boost-from-canada-s-defense-spending"
+        }
+      ]
+    },
+    {
+      "title": "Hur ska Tidö locka mittenväljare?",
+      "summary": "Regeringen har lagt fram sin vårändringsbudget och Victor Orbán har förlorat valet i Ungern. Hur kommer det att påverka det svenska valet i höst?",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T15:00:39+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/BxMvxe/svd-podd-politiken-ebba-busch-vill-locka-valjare-over-blockgransen"
+        }
+      ]
+    },
+    {
+      "title": "Klimataktivisten Isabelle deltog i protest – nekades medborgarskap i Sverige",
+      "summary": "Två klimataktivister sprutade rödfärg på Bromma flygplats hösten 2023 – men åklagaren åtalade totalt 17 personer för skadegörelsen.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T15:01:11+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/klimataktivisten-isabelle-deltog-i-protest-nekades-medborgarskap-i-sverige/"
+        }
+      ]
+    },
+    {
+      "title": "Stegra blir smäll för pensionssparare - ”Inte följt plan”",
+      "summary": "Idag blev det känt att ett konsortium med familjen Wallenberg i spetsen investerar 15,1 miljarder kronor i problemtyngda ståltillverkaren Stegra.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T15:04:56+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/1Vk346LaX1Br52Lvwk0Uqg/stegra-blir-smaell-foer-pensionssparare-inte-foeljt-plan"
+        }
+      ]
+    },
+    {
+      "title": "IMF Urges Nations to Stay at Frontier of Mounting AI Risks",
+      "summary": "Governments and regulators must “stay at the frontier” of rising threats from artificial intelligence, a top official at the International Monetary Fund warned on Tuesday, as fears about the destructive potential of A...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T15:29:28+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/imf-urges-nations-to-stay-at-frontier-of-mounting-ai-risks"
+        }
+      ]
+    },
+    {
+      "title": "The Griffin Family Booking It Downstairs Becomes A Meme About Running Away On Twitter, TikTok",
+      "summary": "Family Guy Running Down Stairs or Griffin Family Running Downstairs is a series of memes based on a scene from Family Guy where the Griffin family runs down the stairs into the basement with serious expressions on the...",
+      "category": "social",
+      "importance": 4,
+      "published": "2026-04-14T15:30:52+00:00",
+      "sources": [
+        {
+          "name": "KnowYourMeme",
+          "url": "https://knowyourmeme.com/memes/family-guy-running-down-stairs"
+        }
+      ]
+    },
+    {
+      "title": "Amazon to Buy Satellite Operator Globalstar for $11.6 Billion",
+      "summary": "Amazon has agreed to buy satellite operator Globalstar in a deal worth roughly $11.6 billion, marking its largest acquisition since the 2017 purchase of Whole Foods.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T15:54:21+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-04-14/amazon-to-buy-globalstar-for-11-6-billion-video"
+        }
+      ]
+    },
+    {
+      "title": "”Mötet i Washington i kväll är historiskt”",
+      "summary": "Att libanesiska och israeliska diplomater möts ansikte mot ansikte i formella samtal har inte skett på årtionden.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T15:58:10+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/utrikes/motet-i-washington-i-kvall-ar-historiskt"
+        }
+      ]
+    },
+    {
+      "title": "Ska ha kört mordmisstänkt 16-åring –  jobbade åt Örebro kommun trots tidigare dom",
+      "summary": "En av de åtalade i utredningen av mordet vid Örebro moské i augusti förra året arbetade som timvikarie inom Örebro kommun – trots att han tidigare dömts för grovt penningtvättbrott och narkotikabrott, vilket P4 Örebro...",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-04-14T15:58:14+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/orebro/ska-ha-kort-mordmisstankt-16-aring-jobbade-at-orebro-kommun-trots-tidigare-dom"
+        }
+      ]
+    },
+    {
+      "title": "As former Nato chief warns about defence spending, how much has the military shrunk?",
+      "summary": "BBC Verify looks at the size of the UK military after Lord Robertson criticises the government over defence spending.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-04-14T16:53:25+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c6244zqnk16o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Bjud in den demokratiska oppositionen till riksdagen",
+      "summary": "INSÄNDARE. När SD och KD bjöd in den iranske exilprinsen Reza Pahlavi att tala i riksdagen i måndags satte de många iranier i baksätet.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T17:02:04+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/insandare/svar-bjud-in-den-demokratiska-oppositionen-till-riksdagen/"
+        }
+      ]
+    },
+    {
+      "title": "Häktad toppchef vill byta försvarare:  ”Hela hennes framtid står på spel”",
+      "summary": "Tingsrätten har tagit emot ett nödrop från Kronobergshäktet. Det är styrelseproffset som vädjar om att få byta advokat. Kvinnan sitter isolerad i en cell, misstänkt för grovt insiderbrott.",
+      "category": "lokalt",
+      "importance": 4,
+      "published": "2026-04-14T17:26:10+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/ekonomi/aktier-och-bors/haktad-toppchef-vill-byta-forsvarare--hela-hennes-framtid-star-pa-spel/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic’s Mythos Claims Questioned by Cybersecurity Insider",
+      "summary": "The ability of Anthropic’s Mythos AI model to uncover cyber vulnerabilities has the government and institutions worried, with a limited group of firms testing the model internally.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T17:31:22+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-04-14/mythos-claims-questioned-by-cybersecurity-insider-video"
+        }
+      ]
+    },
+    {
+      "title": "”Nya betyg införs under falsk flagg”",
+      "summary": "Istället för att korrigera problemen med det betygs­system vi har föreslår regeringen nu ett mättekniskt monster. Det skriver Anna Insulander, lärare och specialpedagog.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T17:45:00+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/vrlwn5/regeringen-infor-relativa-betyg-under-falsk-flagg-skriver-anna-insulander"
+        }
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Demokratin är redan hotad – riksdagen får inte göra det värre”",
+      "summary": "DN DEBATT. På flera sätt gör riksdagen ett bättre jobb i dag än förr. Men när lagstiftarna, från höger till vänster, återkommande ignorerar allvarlig kritik från landets mest kvalificerade domare stiftas bristande lag...",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-04-14T18:00:00+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/debatt/demokratin-ar-redan-hotad-riksdagen-far-inte-gora-det-varre/"
+        }
+      ]
+    },
+    {
+      "title": "London gets closer to its first robotaxi service as Waymo begins testing",
+      "summary": "Waymo's commercial service will eventually follow testing if the UK government approves.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-04-14T18:00:09+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/"
+        }
+      ]
+    },
+    {
+      "title": "Number of asylum hotels falls to 185 after 11 close",
+      "summary": "The government says the fall is partly due to housing people in alternative sites such as military barracks.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-04-14T18:01:17+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c4gllpll2rno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -648,32 +756,6 @@
       ]
     },
     {
-      "title": "Who Is 'Doorbell Chud?' Viral Ring Doorbell Footage Explained",
-      "summary": "Doorbell Chud refers to a viral video of Jason Thomas Nichols, who attempted to break into his neighbor's house in April 2026 while identifying himself as \"Harry Dresden\", and was later arrested.",
-      "category": "memes",
-      "importance": 3,
-      "published": "2026-04-13T16:21:39+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/doorbell-chud-jason-thomas-nichols"
-        }
-      ]
-    },
-    {
-      "title": "The Latest Anti-Scientology Trend Involves Treating A Scientology Center Like A Roguelike Video Game",
-      "summary": "A Scientology Run or Scientology Speedrun is a trend where a person runs into a Scientology center to see how far they can get into the building before being kicked out.",
-      "category": "memes",
-      "importance": 3,
-      "published": "2026-04-13T16:32:30+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/scientology-run"
-        }
-      ]
-    },
-    {
       "title": "13 april 18.12, Mordbrand, Borås",
       "summary": "Patrull beordras till Boråshallen på Bockasjögatan med anledning av en brand.",
       "category": "polis",
@@ -683,19 +765,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/april/13/13-april-18.12-mordbrand-boras/"
-        }
-      ]
-    },
-    {
-      "title": "Where Did These Elvis Presley Brainrot Memes Come From? Hound Dog house Remix Videos Explained",
-      "summary": "You Aint Nothin' But A Hound Dog or Hound Dog House Remix refers to a viral sound on TikTok featuring a House Music remix of \"Hound Dog\" by Elvis Presley.",
-      "category": "memes",
-      "importance": 3,
-      "published": "2026-04-13T18:06:54+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/you-aint-nothin-but-a-hound-dog-hound-dog-house-remix"
         }
       ]
     },
@@ -713,19 +782,6 @@
       ]
     },
     {
-      "title": "Sabrina Carpenter's Reaction To A 'Zaghrouta' Cheer Inspires Controversy, An Apology, And Memes",
-      "summary": "Sabrina Carpenter Yodeling Reaction or Sabrina Carpenter Zaghrouta Reaction is a reaction image of musical artist Sabrina Carpenter with a confused look on her face after hearing someone in the crowd of her Coachella ...",
-      "category": "memes",
-      "importance": 3,
-      "published": "2026-04-13T18:30:31+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/sabrina-carpenter-yodeling-zaghrouta-reaction"
-        }
-      ]
-    },
-    {
       "title": "Därför skapar rosa mjölk hysteri runt om i landet",
       "summary": "Den rosa mjölken har lett till att många konsumenter nu jagar produkten i butiker runt om i landet. På sociala medier delas klipp där personer testar mjölken.",
       "category": "sverige",
@@ -735,19 +791,6 @@
         {
           "name": "TV4",
           "url": "https://www.tv4.se/artikel/26yPprm5eCRW2ysU7SXdxN/daerfoer-skapar-rosa-mjoelk-hysteri-runt-om-i-landet"
-        }
-      ]
-    },
-    {
-      "title": "Sirius fick revansch på Hammarby: ”Härligt att ge dem en omgång”",
-      "summary": "Det var tufft, bråkigt och hårt. Men efter en kämpainsats vann Sirius sin hemmapremiär mot de allsvenska favoriterna Hammarby i Uppsala.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-04-13T18:57:53+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/sport/publikrekord-nar-sirius-fick-sin-revansch-besegrade-favoriterna-hammarby/"
         }
       ]
     },
@@ -778,32 +821,6 @@
       ]
     },
     {
-      "title": "Smärtstillande fungerar på havskräftor",
-      "summary": "En studie visar att vanliga smärtstillande läkemedel har effekt på havskräftor – ett fynd som stärker teorin att…",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-04-13T20:09:37+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/bO849l/smartstillande-fungerar-pa-havskraftor?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
-      "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-04-13T20:20:47+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
-        }
-      ]
-    },
-    {
       "title": "An AI GIF Of A Pig Getting Zapped Goes Viral On X, Inspiring Non-AI Recreations",
       "summary": "The Pig Electrocuted GIF or the Exploding Pig GIF is an AI-generated reaction GIF of a pig touching an electrical transformer with its snout and getting electrocuted, causing it to fly backwards through the air.",
       "category": "tech",
@@ -830,176 +847,6 @@
       ]
     },
     {
-      "title": "Viktig gränsövergång för Gaza återöppnas",
-      "summary": "Gränsövergången Zikim i norra delen av Gaza mot Israel har öppnats för första gången på 40 dagar, uppger FN.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-04-13T20:42:10+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/XM9ago/viktig-gransovergang-for-gaza-ateroppnas?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/3p1xJq/viktig-gransovergang-for-gaza-ateroppnas"
-        }
-      ]
-    },
-    {
-      "title": "Irans grova hot – orden till Trump",
-      "summary": "”Sista varningen”",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-04-13T21:46:20+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/irans-grova-hot-orden-till-trump"
-        }
-      ]
-    },
-    {
-      "title": "USA:s vicepresident JD Vance: Ledsen att Orbán förlorade",
-      "summary": "USA:s vicepresident JD Vance är besviken över att Ungerns avgående premiärminister Viktor Orbán förlorade valet i helgen.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-04-13T23:09:46+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/utrikes/vance-ledsen-att-orban-forlorade"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wr3V35/vance-ledsen-att-orban-forlorade?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/K8rarX/vance-ledsen-att-orban-forlorade"
-        }
-      ]
-    },
-    {
-      "title": "USA: Två döda i attack mot knarkbåt",
-      "summary": "USA:s militär uppger att den har dödat två personer i en attack mot en båt som anklagas vara inblandad i droghandel.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-04-13T23:54:00+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Gxr5B4/usa-tva-doda-i-attack-mot-knarkbat?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/k0vBpA/usa-tva-doda-i-attack-mot-knarkbat"
-        }
-      ]
-    },
-    {
-      "title": "Taiwan’s Stocks Shrug Off Iran War to Hit Record on AI Comeback",
-      "summary": "Taiwanese stocks rose to a new record as investors returned to the pre-Iran war trading theme of chasing AI shares amid hopes for easing tensions in the Middle East.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-04-14T01:05:52+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-14/taiwanese-stocks-refresh-record-high-on-ai-trade-comeback"
-        }
-      ]
-    },
-    {
-      "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
-      "summary": "Local and federal prosecutors filed attempted murder and other criminal charges against the man arrested Friday for allegedly throwing a Molotov cocktail at the home of OpenAI Chief Executive Officer Sam Altman.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-04-14T01:05:54+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-13/texas-man-charged-with-throwing-molotov-cocktail-at-altman-home"
-        },
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Oasis among record number of British acts entering Rock & Roll Hall of Fame",
-      "summary": "Sade, Phil Collins, Billy Idol and Joy Division/New Order are also among the recipients.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-04-14T01:09:49+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c9qd5537zxpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Handgranat har exploderat på uppfart i Göteborg",
-      "summary": "En handgranat har detonerat i anslutning till ett bostadshus i området Utby i Göteborg tidigt på tisdagen. Ingen har kommit till skada.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-04-14T02:58:32+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=106ed0c3-1b08-49a7-b0db-61846634bf9a"
-        },
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=106ed0c3-1b08-49a7-b0db-61846634bf9a"
-        },
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/handgranat-har-exploderat-i-goteborg"
-        }
-      ]
-    },
-    {
-      "title": "Barn stal buss i Norge – stoppades i Sverige",
-      "summary": "En stadsbuss stals från Trafikverket i Oslo. Några timmar senare stoppades den i Stenungssund.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-04-14T04:01:55+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=568ff44e-8221-46e6-ae89-dbac9b210068"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/XM9aAo/barn-stal-buss-i-norge-stoppades-i-sverige?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Pensionskritiken mot bankerna: Skrämmer unga",
-      "summary": "Bankers budskap om att tidigt börja spara till pensionen bidrar till onödig oro hos unga, menar Pensionsmyndigheten. – Jag skulle säga att det är skrämsel, säger pensionsexperten Monica Zettervall.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-04-14T05:07:07+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/ekonomi/privatekonomi/pensionskritiken-mot-bankerna-skrammer-unga/"
-        },
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/ekonomi/pensionskritiken-mot-bankerna-skrammer-unga/"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/M7Aak0/pensionskritiken-mot-bankerna-skrammer-unga"
-        }
-      ]
-    },
-    {
       "title": "14 april 07.00, Sammanfattning kväll och natt, Västra Götalands län",
       "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
       "category": "polis",
@@ -1017,84 +864,209 @@
       ]
     },
     {
-      "title": "Roblox inför nya konton för barn",
-      "summary": "God morgon! Roblox lanserar barnkonton, Mythos blir först att klara hackingtest, och svenskar litar inte på AI-regleringar.",
-      "category": "tech",
+      "title": "14 april 06.00, Våld/hot mot tjänsteman, Göteborg",
+      "summary": "En busschaufför kontaktar polisen och uppger att han blivit slagen av en passagerare vid Frölunda torg.",
+      "category": "polis",
       "importance": 3,
-      "published": "2026-04-14T05:38:02+00:00",
+      "published": "2026-04-14T06:42:00+00:00",
       "sources": [
         {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/ExlBOa/roblox-infor-nya-konton-for-barn"
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/april/14/14-april-06.00-valdhot-mot-tjansteman-goteborg/"
         }
       ]
     },
     {
-      "title": "Uppgifter: Uranet fick Iransamtal att stjälpa",
-      "summary": "Stötestenen som fick helgens förhandlingar mellan USA och Iran att bryta samman var Irans anspråk på anrikning av uran. USA vill se ett förbud på 20 år – Iran kan tänka sig fem år, rapporterar The New York Times.",
+      "title": "Uppdaterad 2026-04-14 10:09:40 14 april 08.41, Trafikolycka, Jönköping",
+      "summary": "Lastbil och personbil i krock.",
       "category": "polis",
       "importance": 3,
-      "published": "2026-04-14T05:47:27+00:00",
+      "published": "2026-04-14T07:05:16+00:00",
       "sources": [
         {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/bO8jpg/uppgifter-uranet-fick-iransamtal-att-stjalpa?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/e7G6jM/uppgifter-uranet-fick-iransamtal-att-stjalpa"
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/april/14/14-april-08.41-trafikolycka-jonkoping/"
         }
       ]
     },
     {
-      "title": "Trump gick på UFC-gala – medan ”världen står i brand”",
-      "summary": "Kritiseras för valet – mitt under fredssamtalen i Islamabad • Applåder och burop",
+      "title": "Tydliga skillnader i hur mycket olika grupper vistas i naturen",
+      "summary": "Att vara i naturen kan påverka möjligheten till en god allmän hälsa och ett gott psykiskt välbefinnande. Men en ny rapport från Folkhälsomyndigheten visar på tydliga skillnader i hur ofta olika grupper i befolkningen…",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-04-14T07:11:36+00:00",
+      "sources": [
+        {
+          "name": "Folkhalsomyndigheten",
+          "url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/april/tydliga-skillnader-i-hur-mycket-olika-grupper-vistas-i-naturen/"
+        }
+      ]
+    },
+    {
+      "title": "14 april 08.38, Räddningsinsats, Öckerö",
+      "summary": "SOS får larm om att en person kan befinna sig i vattnet vid Öckerö. En sökinsats inleds.",
       "category": "polis",
-      "importance": 2,
-      "published": "2026-04-12T06:31:51+00:00",
+      "importance": 3,
+      "published": "2026-04-14T07:42:02+00:00",
+      "sources": [
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/april/14/14-april-08.38-raddningsinsats-ockero/"
+        }
+      ]
+    },
+    {
+      "title": "14 april 10.45, Trafikolycka, singel, Mullsjö",
+      "summary": "Singelolycka på väg 47.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-04-14T08:47:22+00:00",
+      "sources": [
+        {
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/april/14/14-april-10.45-trafikolycka-singel-mullsjo/"
+        }
+      ]
+    },
+    {
+      "title": "Lärare i Göteborg frias – tejpade elevers munnar",
+      "summary": "Den kvinnliga lärarens agerande ska enligt polisutredningen ha pågått i flera månader på en skola i Göteborg. Det uppdagades förra året när ett barn i lågstadiet berättade för en ur skolpersonalen.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-04-14T09:01:51+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/4wVpyfoLvohBM5yZZiXOuj/trump-gick-pa-ufc-gala-medan-vaerlden-star-i-brand"
-        }
-      ]
-    },
-    {
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-04-12T15:07:08+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-        }
-      ]
-    },
-    {
-      "title": "Malmö gick på knock mot Gais",
-      "summary": "Malmö FF ledde med 1-0. Då bjöd Kees Sims på nästa mål. – Jag blev chockad, säger 2-0-skytten Oscar Sjöstrand.",
-      "category": "lokalt",
-      "importance": 2,
-      "published": "2026-04-12T15:25:25+00:00",
-      "sources": [
+          "url": "https://www.tv4.se/artikel/6RhNoPvh3ckOVg4BuW6e4p/laerare-tejpade-foer-elevers-munnar-frias"
+        },
         {
           "name": "GT",
-          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/jatteblundern-klappar-om-honom/"
+          "url": "https://www.expressen.se/nyheter/krim/dom-mot-larare-tejpade-elevers-munnar/"
         }
       ]
     },
     {
-      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-04-12T16:06:00+00:00",
+      "title": "A Divided America Processes a War With Iran",
+      "summary": "As the war in Iran extends into its seventh week and a truce feels increasingly shaky, many Americans expressed bewilderment about a conflict that came with little warning.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-04-14T09:02:22+00:00",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/"
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
+        }
+      ]
+    },
+    {
+      "title": "BE Semiconductor Hits Record High as BofA Says Market is Underestimating Demand",
+      "summary": "BE Semiconductor Industries NV shares scaled new highs on Tuesday as Bank America Corp.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-04-14T10:10:09+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/be-semiconductor-hits-record-high-as-bofa-says-market-is-underestimating-demand"
+        }
+      ]
+    },
+    {
+      "title": "ASML Shares Get Harder to Value as Firm Stops Disclosing Orders",
+      "summary": "ASML Holding NV will omit the one metric that has driven its share price more than any other when it reports earnings Wednesday, injecting uncertainty into a stock nearing record highs.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-04-14T10:20:07+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-14/asml-shares-get-harder-to-value-as-firm-stops-disclosing-orders"
+        }
+      ]
+    },
+    {
+      "title": "Supersug efter virala mjölken: ”Plundrat”",
+      "summary": "Kunderna frågar efter den virala rosa mjölken som Arla släppt och som snabbt blivit en trend på Tiktok. Men i Mullsjö har de gått bet. Fram till idag.",
+      "category": "memes",
+      "importance": 3,
+      "published": "2026-04-14T11:05:19+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/mullsjo/supersug-efter-virala-mjolken-plundrat/"
+        }
+      ]
+    },
+    {
+      "title": "Oasis among record number of British acts entering Rock & Roll Hall of Fame",
+      "summary": "Sade, Phil Collins, Billy Idol and Joy Division/New Order are also among the recipients.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-04-14T11:27:43+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c9qd5537zxpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Kunder frågar efter virala rosa mjölken varje dag",
+      "summary": "Kunderna frågar efter den virala rosa mjölken som Arla släppt och som snabbt blivit en trend på Tiktok. Men i Mullsjö har de gått bet. Fram till idag.",
+      "category": "memes",
+      "importance": 3,
+      "published": "2026-04-14T12:31:58+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/kunder-fragar-efter-virala-rosa-mjolken-varje-dag/"
+        }
+      ]
+    },
+    {
+      "title": "Norsk 14-åring stal buss – ska ha varit andra gången",
+      "summary": "En 14-årig norsk pojke stal under natten en buss och körde hela vägen till Stenungsund. Nu visar det sig att det inte är första gången pojken slog till, rapporterar NRK.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-04-14T12:44:32+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/norsk-14-aring-stal-buss-ska-ha-varit-andra-gangen/"
+        },
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/nyheter/sverige/norsk-14-aring-stal-buss-ska-ha-varit-andra-gangen/"
+        }
+      ]
+    },
+    {
+      "title": "Rusningen: ”Kan sälja hur mycket som helst”",
+      "summary": "Arlas jordgubbsmjölk har blivit superviral på sociala medier – nu gapar hyllorna tomma. – Vi hade inte i vår vildaste fantasi räknat med det här engagemanget, säger Max Wallenberg, presschef på Arla.",
+      "category": "lokalt",
+      "importance": 3,
+      "published": "2026-04-14T14:09:06+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/rusningen-kan-salja-hur-mycket-som-helst/"
+        }
+      ]
+    },
+    {
+      "title": "Kvinna häktad för mordförsök på barn",
+      "summary": "En kvinna har häktats misstänkt för mordförsök på ett barn i förskoleåldern i Nyköpings kommun i helgen, rapporterar…",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-04-14T14:37:34+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/9pkG2w/kvinna-haktad-for-mordforsok-pa-barn?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/Rj5lWW/kvinna-haktad-for-mordforsok-pa-barn"
         }
       ]
     }
