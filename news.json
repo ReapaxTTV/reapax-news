@@ -1,492 +1,669 @@
 {
-  "last_updated": "2026-05-04T07:41:38.700550+00:00",
+  "last_updated": "2026-05-04T18:22:45.056123+00:00",
   "article_count": 80,
   "articles": [
     {
-      "title": "Ilskan från S – efter Åkessons   nobb: ”Ingenting annat än fegt”",
-      "summary": "Sverigedemokraternas partiledare Jimmie Åkesson gick till hårt angrepp mot Socialdemokraternas partiledare Magdalena Andersson och sa att han inte var intresserad av att debattera med henne.",
+      "title": "Varningen: Här föds nästa generation terrorister",
+      "summary": "De har bevittnat våldtäkter och förstörda skolor – och tvingats bära vapen som barn.",
       "category": "sverige",
       "importance": 5,
-      "published": "2026-05-02T15:13:58+00:00",
+      "published": "2026-05-04T09:47:53+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/V6xAv6/varningen-har-fods-nasta-generation-terrorister?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Kristians körprov ställdes in till följd av teknikstrulet: ”Kind of crazy”",
+      "summary": "Under måndagen har det varit problem runt om i landet med att registrera teori- och körprov. Någon som fick sitt körprov inställt på grund av teknikstrulet är Kristian Lee-Him från Eskilstuna.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T11:30:05+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/sormland/kristians-korprov-stalldes-in-till-foljd-av-teknikstrulet-kind-of-crazy"
+        }
+      ]
+    },
+    {
+      "title": "”Haveriutredning” ska syna journalsystem",
+      "summary": "E-hälsomyndigheten ska på regeringens uppdrag syna upphandlingar och marknaden för journalsystem för vården. Bakgrunden är uppmärksammade misslyckanden som lett till att säkerheten för patienter äventyrats.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T11:58:41+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/politik/haveriutredning-ska-syna-journalsystem/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/xrJqmQ/haveriutredning-ska-syna-journalsystem?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Kristerssons glassbluff: Använde fyra år gammal bild",
+      "summary": "Statsminister Ulf Kristersson försvarar sin kritiserade glassbild från 1 maj. – Hur kan det vara hånfullt att äta glass den första maj? sa han till SVT i går.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T13:31:13+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/politik/kristerssons-glassbluff-postade-gammal-bild/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/GxPWOq/kristerssons-glassbluff-anvande-fyra-ar-gammal-bild?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "SAS ställer in fler avgångar",
+      "summary": "Flygbolaget uppger att en del av deras flygningar framöver kommer att påverkas av den globala drivmedelkrisen. Men SAS ska i huvudsak ändra på rutter där det finns möjligheter för kunderna att omboka.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T14:59:54+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=c7e8affe-bf27-40ba-850e-31ffb9d75610"
+        },
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/utrikes/sas-staller-in-avgangar-2s63c9"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/V6xV8d/sas-fortsatter-stalla-in-avgangar"
+        }
+      ]
+    },
+    {
+      "title": "Efter knivdådet i London: Två politiker gripna för antisemitiska inlägg",
+      "summary": "Underrättelsetjänsten MI5 har höjt terrorhotnivån mot Storbritanniens judar. Men många beskyller Labourpartiet och De gröna för att inte ta antisemitismen i landet på allvar.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-05-04T15:37:41+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/efter-knivdadet-i-london-tva-politiker-gripna-for-antisemitiska-inlagg/"
+        }
+      ]
+    },
+    {
+      "title": "Kris för Moskvas vänner i Västafrika – ryska styrkor pressade",
+      "summary": "JOHANNESBURG. Juntorna i tre västafrikanska länder kastade ut Frankrikes trupper och vände sig till Moskva för att få militärt och ekonomiskt stöd.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T15:40:56+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/kris-for-moskvas-vanner-i-vastafrika-ryska-styrkor-pressade/"
+        }
+      ]
+    },
+    {
+      "title": "Minst två döda – bil körde in i folkmassa på shoppinggata",
+      "summary": "En bil har i hög hastighet kört genom folkmassan mitt på shoppinggatan Grimmaische Straße i centrala Leipzig under eftermiddagen.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-05-04T16:00:57+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/Mj1ciCR7r45UBSMHKjK1a/ilskan-fran-s-efter-akessons-nobb-ingenting-annat-aen-fegt"
+          "url": "https://www.tv4.se/artikel/3RrhAvCTWL02w0txggDDFK/bil-har-koert-in-i-folkmassa-i-tyskland"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/9pB999/bil-korde-in-i-folkmassa-flera-skadade?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/d4JVX1/tva-doda-nar-bil-korde-in-i-folkmassa-i-hog-fart"
         }
       ]
     },
     {
-      "title": "Actor Ben McKenzie Explores Cryptocurrency Fraud in Doc.",
-      "summary": "Actor Ben McKenzie, known for his role in The OC, discusses his transition from acting to investigating cryptocurrency through a new film he wrote and directed: Everyone Is Lying to You for Money.",
+      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "summary": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear.",
+      "category": "world",
+      "importance": 5,
+      "published": "2026-05-04T16:24:50+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "GameStop makes $56 billion offer to acquire eBay",
+      "summary": "GameStop has made an offer to acquire eBay for $56 billion, which comes as part of GameStop CEO Ryan Cohen's plan to transform the online marketplace into a \"legit competitor to Amazon,\" he tells The Wall Street Journ...",
       "category": "tech",
       "importance": 5,
-      "published": "2026-05-02T15:35:23+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-02/actor-ben-mckenzie-explores-cryptocurrency-fraud-in-doc-video"
-        }
-      ]
-    },
-    {
-      "title": "Marmorstein: Här lär partiledardebatten hetta till som mest",
-      "summary": "På söndagskvällen möts riksdagspartiernas partiledare i Agenda-debatt. Ämnena är bland annat energikrisen, sjukvården och migration.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-03T11:12:20+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/inrikes/marmorstein-har-lar-partiledardebatten-hetta-till-som-mest"
-        }
-      ]
-    },
-    {
-      "title": "Därför rusar börsen – trots krig och oljekris: ”Lever på hoppet”",
-      "summary": "Den som tittar på börstavlorna och tar del av omvärldsläget just nu får helt olika verklighetsbeskrivningar.",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-05-03T19:25:04+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/4kcSJ5YL2mcApvo5h5YXxd/daerfoer-rusar-boersen-trots-krig-och-oljekris-lever-pa-hoppet"
-        }
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Debatten blev inte den knall Kristersson behövde",
-      "summary": "Skulle Tidöpartierna gripa tillfället att vända valvinden? Det var frågan inför söndagskvällens partiledardebatt i SVT. Men den stora framgång regeringen så förtvivlat väl hade behövt uteblev.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-03T21:17:53+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/sverige/tomas-ramberg-debatten-blev-inte-den-knall-kristersson-behovde/"
-        }
-      ]
-    },
-    {
-      "title": "Få 20-åringar i politiken: ”Våra röster behövs”",
-      "summary": "I fem av Sörmlands nio kommuner är en majoritet av de förtroendevalda över 65 år gamla. Nyköping är den kommun med flest unga i politiken, 7 procent är mellan 18 och 29.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-04T03:30:03+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/sormland/fa-20-aringar-i-politiken-vara-roster-behovs"
-        }
-      ]
-    },
-    {
-      "title": "Funktionsnedsatta glöms bort i krisplanering – nu ska skyddet ses över i Dalarna",
-      "summary": "I en kris riskerar personer med funktionsnedsättning att drabbas extra hårt. Nu arbetar Länsstyrelsen i Dalarna med att bli bättre på att inkludera utsatta grupper i krisberedskapen.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-04T03:30:03+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/dalarna/funktionsnedsatta-gloms-bort-i-krisplanering-nu-ska-skyddet-ses-over-i-dalarna"
-        }
-      ]
-    },
-    {
-      "title": "Andersson: Kristersson ”behöver lektioner”",
-      "summary": "Ulf Kristersson och Magdalena Andersson rök ihop om ekonomin. När kamerorna slocknat i SVT:s studio fortsatte munhugget. – Han behöver uppenbarligen lektioner i ekonomi, säger S-ledaren om statsministern.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-04T03:59:57+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/politik/andersson-kristersson-behover-lektioner/"
-        }
-      ]
-    },
-    {
-      "title": "Kriserna följer Starmer: ”Den värsta synden”",
-      "summary": "Kritiken pyr runt Keir Starmer – och kan blossa upp i en stor förtroendekris. Som Storbritanniens sjätte premiärminister på ett årtionde skulle han bringa ordning.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-05-04T04:00:29+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/k0Moyk/kriserna-foljer-starmer-den-varsta-synden?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/d4JAbX/kriserna-foljer-starmer-den-varsta-synden"
-        }
-      ]
-    },
-    {
-      "title": "Explosion vid bostadshus i Södertälje",
-      "summary": "En explosion har inträffat vid ett bostadshus i centrala Södertälje sent under söndagskvällen, uppger polisen.",
-      "category": "polis",
-      "importance": 5,
-      "published": "2026-05-04T04:15:57+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JOn9a4/explosion-vid-bostadshus?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/Rj1M8a/explosion-vid-bostadshus-i-sodertalje"
-        }
-      ]
-    },
-    {
-      "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
-      "summary": "Generative AI has turned coding from a specialized skill into something anyone can do with a simple prompt.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-05-02T14:04:46+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video"
-        }
-      ]
-    },
-    {
-      "title": "Han blev förlamad efter IBK Lunds bussolycka",
-      "summary": "I januari förra året kraschade innebandylaget IBK Lund med sin spelarbuss. Flera spelare skadades allvarligt. Allra värst gick det för Pontus Linde som blev förlamad efter olyckan.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T09:28:04+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/sport/innebandy/han-blev-forlamad-efter-ibk-lunds-bussolycka"
-        }
-      ]
-    },
-    {
-      "title": "Misstänkt grovt brott i Örbyhus – bostad avspärrad",
-      "summary": "Polisen utreder ett misstänkt grovt brott i Örbyhus i norra Uppland. En bostad är avspärrad – men polisen är förtegen.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T11:44:24+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-grovt-brott-i-orbyhus-omrade-avsparrat"
-        }
-      ]
-    },
-    {
-      "title": "Beordrade bränder i Jönköping från hotellrum i Thailand",
-      "summary": "En 20-åring från Höglandet har agerat som spindeln i nätet i minst tre mordbränder. Han är nu åtalad för att ha förmått barn att begå brotten.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T12:00:01+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/jonkoping/beordrade-brander-i-jonkoping-fran-hotellrum-i-thailand"
-        }
-      ]
-    },
-    {
-      "title": "Pekar ut tre orsaker – därför föredrar kriminella bombdåd",
-      "summary": "Det fortsätter att sprängas på flera håll i Sverige, inte minst under helgen då två trapphus utsattes i Malmö.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T12:18:11+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/1wP6GoVDQnHqsyUXsgDDMT/gw-om-spraengningarna-ekonomiskt-saett-att-foera-krig"
-        }
-      ]
-    },
-    {
-      "title": "Se Truls utbrott mot domaren: ”Så jävla dålig är du”",
-      "summary": "Dramatiskt i femte och avgörande set. Då fick Truls Möregårdh ett utbrott på domaren. – Men lägg ner! Så jävla dålig är du, ropade han.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T14:05:08+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/sport/bordtennis/se-truls-utbrott-mot-domaren-sa-javla-dalig-ar-du"
-        }
-      ]
-    },
-    {
-      "title": "Strömavbrott i västra delarna av Uppsala",
-      "summary": "Ett större strömavbrott inträffade i de västra delarna av Uppsala. Som mest var drygt 10 000 abonnenter hos Vattenfall utan el under söndagskvällen.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T15:27:32+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/uppsala/stromavbrott-i-vastra-delarna-av-uppsala"
-        }
-      ]
-    },
-    {
-      "title": "Anja blev av med sin personliga hjälp redan dagen efter beslutet: ”Brottsligt att behandla människor så här”",
-      "summary": "Mullsjöbon Anja Samuelsson tillbringade, precis som vanligt, delar av sin måndag på dagverksamheten hon går till.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T18:28:55+00:00",
-      "sources": [
-        {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/tv-se-fredrik-beratta-sa-tankte-han-nar-han-lamnade-sin-syster-anja-pa-kommunhuset-de-har-ansvaret-har/"
-        }
-      ]
-    },
-    {
-      "title": "Pizzabagarna efter helgens inbrott: ”Det här är mitt holy space – varför kan man inte låta grejerna vara ifred?”",
-      "summary": "Under natten mot lördag utsattes pizzeriorna Amigo och Viking för inbrott. – Vi har hållit på sedan 1998 och aldrig varit med om sådan skadegörelse, säger Elias Alpsoy på pizzeria Amigo.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T18:29:34+00:00",
-      "sources": [
-        {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/pizzabagarna-efter-helgens-inbrott-det-har-ar-mitt-holy-space-varfor-kan-man-inte-lata-grejerna-vara-ifred/"
-        }
-      ]
-    },
-    {
-      "title": "10-årig flicka påkörd av fyrhjuling i Botkyrka – förd med helikopter till sjukhus",
-      "summary": "En 10-årig flicka har skadats allvarligt och förts till sjukhus med ambulanshelikopter efter att ha blivit påkörd av en fyrhjuling. En man i 20-årsåldern är misstänkt för drograttfylleri.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-05-03T18:34:17+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/stockholm/fyrhjulingsolycka-i-botkyrka-ambulanshelikopter-larmad"
-        }
-      ]
-    },
-    {
-      "title": "Explosion i Tensta – stor polisinsats",
-      "summary": "Polisen genomför ”en omfattande insats” sedan ett okänt föremål exploderat vid en port i…",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T20:55:40+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8pPdMr/explosion-i-tensta-stor-polisinsats?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "8 Arrested at Protest Over ICE Detention Outside Brooklyn Hospital",
-      "summary": "Protesters clashed with the police outside Wyckoff Heights Medical Center, where federal immigration agents brought a detainee for evaluation and later dragged him to a waiting car.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T22:24:52+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/03/nyregion/ice-arrest-protest-nyc-hospital.html"
-        }
-      ]
-    },
-    {
-      "title": "Trumps nya besked om sundet",
-      "summary": "Trump uppger att man kommer att hjälpa länder att få loss fartyg som sitter fast i det stängda Hormuzsundet. ”Vi ska hjälpa deras fartyg att säkert komma ut”, skriver Trump.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-05-03T23:10:01+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-besked-om-sundet/"
-        }
-      ]
-    },
-    {
-      "title": "Irans varning om Hormuzsundet: Vi attackerar",
-      "summary": "Om ni ger er in i Hormuzsundet så attackerar vi. Den iranska varningen riktas gentemot alla utländska styrkor, i synnerhet ”USA:s aggressiva militär”, och förs fram av en toppmilitär i statliga medier.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-03T23:14:29+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/pBMag6/iran-varnar-usa-om-hormuz?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/XMomlg/iran-varnar-usa-om-hormuz"
-        }
-      ]
-    },
-    {
-      "title": "Tre döda på kryssning efter misstänkt virusutbrott",
-      "summary": "Tre personer har avlidit i ett misstänkt utbrott av det ovanliga Hantaviruset ombord på ett kryssningsfartyg i Atlanten, meddelar Sydafrikas hälsodepartementet.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-04T02:00:09+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/tre-doda-pa-kryssning-efter-misstankt-virusutbrott/"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Exb8jK/ovanligt-virus-brot-ut-pa-kryssning-tre-doda?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/rr8ade/ovanligt-virus-brot-ut-pa-kryssning-tre-doda"
-        }
-      ]
-    },
-    {
-      "title": "Insändare. Socialdemokraterna sviker oss migranter som har jobb",
-      "summary": "INSÄNDARE. Tidöpartiernas beslut att avskaffa lagen om spårbyte med retroaktiv verkan är ett allvarligt angrepp på rättssäkerheten.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-04T03:00:00+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/insandare/socialdemokraterna-sviker-oss-migranter-som-har-jobb/"
-        }
-      ]
-    },
-    {
-      "title": "Han väntas avgå: ”Starmergeddon”",
-      "summary": "Labour väntas göra ett uruselt lokalval nästa vecka. Många brittiska politiker menar att det ”bara är en tidsfråga” innan premiärminister Keir Starmer kastar in handduken, rapporterar Sky News.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-05-04T03:34:27+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/han-vantas-avga-starmergeddon/"
-        }
-      ]
-    },
-    {
-      "title": "Matpriskollen: Sänkningen av matmomsen gav lägre priser",
-      "summary": "Regeringens sänkning av matmomsen i april fick fullt genomslag på priserna i butikerna. Den största prissänkningen på årtionden enligt Matpriskollens granskning, som presenteras i dag.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-05-04T04:00:20+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/ekonomi/matpriskollen-sankningen-av-matmomsen-gav-lagre-priser/"
-        }
-      ]
-    },
-    {
-      "title": "Chizi, Standup Comic Exiled in China, Wants to Be More Than Just ‘a Rebel Comedian’",
-      "summary": "Having gotten into trouble for making jokes critical of the Chinese government, the standup comic Chizi now lives in self-imposed exile. He’s finding that freedom imposes its own constraints.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-05-04T04:01:20+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/04/business/chizi-comedian-china-censorship.html"
-        }
-      ]
-    },
-    {
-      "title": "Nattliga attacker mot Putins lyxskrapa",
-      "summary": "Explosioner i centrala Moskva • Vrakdelar på gatorna",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-05-04T04:03:28+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/nattliga-attacker-mot-putins-lyxskrapa"
-        }
-      ]
-    },
-    {
-      "title": "55-åring misstänkt för krigsbrott  vid ”dödens vägspärr”",
-      "summary": "I dag kommer domen mot en 55-årig svensk medborgare som står åtalad för två fall av folkrättsbrott i Syrien – och som suttit häktad i 21 månader.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-04T04:15:37+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/krim/55-aring-misstankt-for-krigsbrott--vid-dodens-vagsparr/"
-        }
-      ]
-    },
-    {
-      "title": "Operation Epic Fury, Meet Operation Colossal Blunder",
-      "summary": "With the threat of a future closing of the Strait of Hormuz a drone strike away, the Iranians appear to actually hold the cards.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-05-04T05:00:04+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html"
-        }
-      ]
-    },
-    {
-      "title": "Samsung Shares Lag SK Hynix’s Rally as Analysts Cite Strike Risk",
-      "summary": "Samsung Electronics Co. shares’ recent underperformance against SK Hynix Inc. may intensify as a looming workers’ strike weighs on South Korea’s most valuable company versus its rival chipmaker.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-05-04T05:59:08+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-04/samsung-shares-lag-sk-hynix-s-rally-as-analysts-cite-strike-risk"
-        }
-      ]
-    },
-    {
-      "title": "Trumps nya drag i Iran: ”Brott mot vapenvilan”",
-      "summary": "USA ska hjälpa strandade fartyg i Hormuzsundet. Trumps besked möter nu starka reaktioner i Iran. ”All amerikansk inblandning kommer att ses som ett brott mot vapenvilan”",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-05-04T06:22:46+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-drag-i-iran-brott-mot-vapenvilan/"
-        }
-      ]
-    },
-    {
-      "title": "Uppdaterad 2026-05-02 14:01:24 02 maj 12.58, Trafikolycka, personskada, Göteborg",
-      "summary": "En trafikolycka ska ha inträffat på Härskogsvägen. Det ska röra sig om en singelolycka med en mc.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-05-02T15:32:24+00:00",
-      "sources": [
-        {
-          "name": "Polisen VGR",
-          "url": "https://polisen.se/aktuellt/handelser/2026/maj/2/02-maj-17.22-trafikolycka-harryda/"
-        }
-      ]
-    },
-    {
-      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
-      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-05-02T17:51:04+00:00",
+      "published": "2026-05-04T17:00:11+00:00",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown"
+          "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid"
+        },
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-04/gamestop-makes-56-billion-bid-for-ebay-video"
+        }
+      ]
+    },
+    {
+      "title": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
+      "summary": "The health ministry says 77 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
+      "category": "world",
+      "importance": 5,
+      "published": "2026-05-04T17:18:05+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Two arrested over arson attack at Golders Green memorial",
+      "summary": "A memorial wall was damaged by fire on 27 April in north London, with counter-terror police involved in the investigation.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-05-04T17:21:47+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c9v3kvjxr4mo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Kristina Lindquist: Förlåt men vilket år är det, Jonas Gardell?",
+      "summary": "Jonas Gardell har varit på teater men lyckas inte berätta för sina vänner vad föreställningen ”handlade om”.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T17:25:17+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/kultur/kristina-lindquist-forlat-men-vilket-ar-ar-det-jonas-gardell/"
+        }
+      ]
+    },
+    {
+      "title": "Ledare: SD-kuppen avslöjar att något stort har skett i svensk politik",
+      "summary": "I Sveriges riksdag måste man kunna räkna till 175, men Tidöpartierna samlar nu bara 174 mandat. Ulf Kristersson är helt beroende av två SD-vildar.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-05-04T18:04:34+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/ledare/sd-kuppen-avslojar-att-nagot-stort-har-skett-i-svensk-politik/"
+        }
+      ]
+    },
+    {
+      "title": "Stora mängder avloppsvatten har runnit ut i Åre",
+      "summary": "Det har läckt ut stora mängder avloppsvatten i skogen nedanför Rödkullen i Åre. – Vi ser väldigt allvarligt på att det här har hänt. Det är ett stort område som har påverkats, säger Anna Linde, VA-chef i Åre kommun.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T08:22:02+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/jamtland/stora-mangder-avloppsvatten-har-runnit-ut-i-are"
+        }
+      ]
+    },
+    {
+      "title": "Sant och falskt i Trustorserien Golden boys",
+      "summary": "Den 1 maj släpptes de två första avsnitten av TV4:s nya serie ”Golden boys” på TV4 Play.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T08:47:21+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/12icQjogG3HCiOSlJHPDUW/sant-och-falskt-i-trustorserien-golden-boys"
+        }
+      ]
+    },
+    {
+      "title": "Meme Stock GameStop Pitches $56 Billion eBay Takeover",
+      "summary": "GameStop is proposing to buy eBay for about $56 billion in cash and stock, offering $125 per share in cash and stock for the online marketplace, or about a 20% premium to its Friday close.",
+      "category": "memes",
+      "importance": 4,
+      "published": "2026-05-04T09:47:12+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-04/meme-stock-gamestop-pitches-56-billion-ebay-takeover-video"
+        }
+      ]
+    },
+    {
+      "title": "Virusprofessorn: ”Läskigt – det finns inget läkemedel”",
+      "summary": "Omkring 150 passagerare och ett 70-tal besättningsmedlemmar befann sig ombord på kryssningsfartyget MV Hondius då virusutbrottet tros ha skett. Minst tre personer har nu dött.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T09:47:40+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/1meQ10Tk2opd9eqAkBKy0w/virusprofessorn-laeskigt-det-finns-inget-laekemedel"
+        }
+      ]
+    },
+    {
+      "title": "S vill se prisgaranti för svenska gruvmineraler",
+      "summary": "Socialdemokraterna vill att regeringen ska driva på för ett EU-gemensamt prisgolv för kritiska kritiska råmaterial.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T09:55:57+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/s-vill-se-prisgaranti-for-svenska-gruvmineraler"
+        }
+      ]
+    },
+    {
+      "title": "04 maj 11.00, Trafikbrott, Vänersborg",
+      "summary": "I korsningen Belfragegatan/Torpavägen kolliderar en moped och en lätt lastbil.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T09:59:35+00:00",
+      "sources": [
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/maj/4/04-maj-11.00-trafikbrott-vanersborg/"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia Rival Cerebras Seeks to Raise $3.5 Billion in US IPO",
+      "summary": "Cerebras Systems Inc. is seeking to raise as much as $3.5 billion in an initial public offering, as the artificial intelligence chipmaker and data center operator looks to counter rivals in the red-hot sector.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T10:16:38+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/nvidia-rival-cerebras-seeks-to-raise-3-5-billion-in-us-ipo"
+        }
+      ]
+    },
+    {
+      "title": "Musk Sketches Apocalyptic Vision in Bid to Block OpenAI’s Transition",
+      "summary": "Warnings about various risks to humankind are a typical part of the billionaire’s rhetoric",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T11:02:01+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-04/musk-says-fate-of-humanity-at-risk-in-openai-lawsuit"
+        }
+      ]
+    },
+    {
+      "title": "Blackstone Data Center REIT Seeks to Raise $1.75 Billion in IPO",
+      "summary": "Blackstone Digital Infrastructure Trust Inc. is seeking to raise as much as $1.75 billion in a US initial public offering, offering investors the chance to capitalize on a surge in building artificial intelligence inf...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T11:28:11+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/blackstone-data-center-reit-seeks-to-raise-1-75-billion-in-ipo"
+        }
+      ]
+    },
+    {
+      "title": "Klimataktivisten Björn döms efter färgaktionen: ”Kampen inte över”",
+      "summary": "Totalt sjutton klimataktivister deltog i september 2023 när en icke tillståndsgiven aktion genomfördes på Bromma flygplats.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T11:30:14+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/167o6Wancw2p7NlvSPBNJk/klimataktivisten-bjoern-doems-efter-faergaktionen-kampen-inte-oever"
+        }
+      ]
+    },
+    {
+      "title": "Massavhopp från radions debatt",
+      "summary": "Sveriges Radio tvingas ställa in sin partiledardebatt på onsdag. Detta efter att kvittningsbråket gör att partiledare har hoppat av för att i stället vara i riksdagen.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T12:30:44+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/politik/massavhopp-fran-radions-debatt/"
+        }
+      ]
+    },
+    {
+      "title": "Tre aktivister avrättade i Iran",
+      "summary": "Tre män som deltog i protester mot den iranska regimen i januari har avrättats genom…",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T12:30:57+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/5p35jb/tre-aktivister-avrattade-i-iran?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI",
+      "summary": "OpenAI and Anthropic PBC are both forming joint ventures with some of world’s most recognizable financial institutions in a race to drive more adoption of their artificial intelligence tools.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T12:31:00+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai"
+        }
+      ]
+    },
+    {
+      "title": "Kör från polisen – i 200 km/h: ”Idiotiskt”",
+      "summary": "Dramatisk biljakt utanför Norrköping • Misstänks för brott",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T12:40:44+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/tv/nyheter/sverige/dramatisk-biljakt-utanfor-norrkoping"
+        }
+      ]
+    },
+    {
+      "title": "Reform pledges to open migrant detention centres in Green-voting areas",
+      "summary": "The Green Party has accused Reform of \"making abhorrent announcements in attempts to distract voters\".",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T13:03:45+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c362e9p385yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Efter Åkessons anklagelse – hör vildarnas förklaring",
+      "summary": "Det hettade till när frågan om kvittningssystemet i riksdagen togs upp i SVT:s partiledardebatt. Jimmie Åkesson (SD) anklagar Miljöpartiet för att ha ”köpt” vildarnas röster.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T13:23:28+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/inrikes/efter-akessons-anklagelse-hor-vildarnas-forklaring"
+        }
+      ]
+    },
+    {
+      "title": "Pojkar häktas för valborgsmordet",
+      "summary": "Två tonårspojkar har nu häktats misstänkta för mordet på en man i 20‑årsåldern i Norrköping under valborgsmässoafton. Pojkarna, som är 15 och 16 år gamla, misstänks även för ett mord i Oslo.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T13:34:43+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/6TPd1RTZWOnoTi6NeviOpM/pojke-haektas-foer-valborgsmordet"
+        }
+      ]
+    },
+    {
+      "title": "Watch: Moment United Airlines flight strikes vehicle during landing",
+      "summary": "Flight 169 from Venice, Italy, landed safely at Newark Airport with no reported injuries among the 231 passengers and crew. The lorry driver sustained minor injuries.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T13:39:18+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/videos/cr7pvgl9dpeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Åtalet: Flicka våldtogs på  fyra offentliga toaletter",
+      "summary": "En 17-åring åtalas och bevistalan väcks mot en 14-åring för grov våldtäkt mot barn. De ska under våldsamma former ha våldtagit en flicka med funktionsnedsättning – och filmat övergreppet.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T13:48:15+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/atalet-flicka-valdtogs-pa--fyra-offentliga-toaletter/"
+        }
+      ]
+    },
+    {
+      "title": "Crypto Investor Haun Raises $1 Billion for New Funds, Expands to AI Agents",
+      "summary": "Katie Haun, a former Andreessen Horowitz general partner and federal prosecutor who made her name investigating digital assets before investing in crypto startups, has raised $1 billion for new venture funds.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T14:00:18+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/crypto-investor-haun-raises-1-billion-for-funds-expands-to-ai-agents"
+        }
+      ]
+    },
+    {
+      "title": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
+      "summary": "We've crossed yet another one of Elon Musk's self-driving thresholds. Tesla's fleet of vehicles using the company's Full Self-Driving (Supervised) system has driven over 10 billion miles, according to the company's up...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T14:28:01+00:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk"
+        }
+      ]
+    },
+    {
+      "title": "MP slår tillbaka: Vi har inte köpt några röster",
+      "summary": "SD-ledaren Jimmie Åkesson anklagar Miljöpartiet för att ha ”köpt” två av riksdagsvildarnas röster inför förra veckans omröstning om medborgarskap. – Det är helt grundlösa lögner, säger MP:s gruppledare Annika Hirvonen.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T15:05:49+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/mp-slar-tillbaka-vi-har-inte-kopt-nagra-roster/"
+        }
+      ]
+    },
+    {
+      "title": "SD-anklagelser om köpta röster tillbakavisas",
+      "summary": "Miljöpartiet har inte ”köpt” röster av vildar i riksdagen. Det säger både MP och vildarna efter…",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T15:50:16+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/9pB9PE/sd-anklagelser-om-kopta-roster-tillbakavisas?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "The Return for These Investors Isn’t Money, It’s More Affordable Housing",
+      "summary": "Local governments are trying to create housing that is permanently affordable by investing directly in construction. They are rewriting how housing programs have traditionally operated.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-05-04T16:06:11+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/04/business/economy/affordable-housing-return-on-investment.html"
+        }
+      ]
+    },
+    {
+      "title": "The Met Gala’s Embrace of Jeff Bezos Causes a Backlash",
+      "summary": "Protesters have found a perfect foil in Amazon’s founder, the gala’s lead sponsor this year.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-05-04T16:20:03+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html"
+        }
+      ]
+    },
+    {
+      "title": "Åklagarens utbrott mot polisen: ”Respektlöst mot målsägandena i Thailand”",
+      "summary": "Åklagare anklagar polisen för att ”gnälla och gny”. Poliser anser sig ha blivit arrogant bemötta.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-05-04T16:27:48+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/aklagarens-utbrott-mot-polisen-respektlost-mot-malsagandena-i-thailand/"
+        }
+      ]
+    },
+    {
+      "title": "DN Debatt Repliker. ”Vi arbetar för Kry – och vi skäms inte”",
+      "summary": "DN DEBATT REPLIK. Företrädare för nätläkarföretaget Kry: Tillgänglighet är inte problemet i svensk primärvård, men systemet för utomlänsersättning behöver reformeras.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T16:35:21+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/debatt/vi-arbetar-for-kry-och-vi-skams-inte/"
+        }
+      ]
+    },
+    {
+      "title": "Sluta klaga – nu har vi chansen att bygga en bättre järnväg",
+      "summary": "JLT:s ledning och flera (S)urmulna politiker kallar regeringens beslut ett bakslag för länet. Men inget konkret visar att en ny järnväg hade varit bättre än en upprustad Tabergsbana – tvärtom, skriver Mats Weidman (MP).",
+      "category": "lokalt",
+      "importance": 4,
+      "published": "2026-05-04T16:37:00+00:00",
+      "sources": [
+        {
+          "name": "Jonkopingsposten",
+          "url": "https://www.jp.se/debatt/sluta-klaga-nu-har-vi-chansen-att-bygga-en-battre-jarnvag/"
+        }
+      ]
+    },
+    {
+      "title": "SD vill inkludera vildar i nytt kvittningssystem",
+      "summary": "Sverigedemokraternas gruppledare Linda Lindberg tycker att riksdagen borde införa ett nytt…",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T16:39:14+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/zO0m54/sd-vill-inkludera-vildar-i-nytt-kvittningssystem?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T16:45:55+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T16:57:47+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/"
+        }
+      ]
+    },
+    {
+      "title": "GameStop's Cohen Sees New Target and Big Possible Payday in eBay",
+      "summary": "The CEO who helped define the meme-stock era has proposed a brash, unsolicited $56 billion offer for the online commerce company.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T17:52:02+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/gamestop-s-cohen-sees-new-target-and-big-possible-payday-in-ebay"
+        }
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Staten kan inte kliva in varje gång bensinpriset går upp”",
+      "summary": "DN DEBATT. Med våren kom också ett nytt stödpaket till el- och bensinkunderna. Regeringen vill skydda hushållen, men så här fungerar ju en marknadsekonomi: om tillgången går ner går priserna upp.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-05-04T18:00:00+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/debatt/staten-kan-inte-kliva-in-varje-gang-bensinpriset-gar-upp/"
+        }
+      ]
+    },
+    {
+      "title": "Brockman Says His Stake in OpenAI Worth Nearly $30 Billion",
+      "summary": "OpenAI co-founder and President Greg Brockman said his stake in the startup is now worth nearly $30 billion, making him one of the larger individual shareholders in the ChatGPT maker.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T18:02:19+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-04/brockman-says-his-stake-in-openai-worth-nearly-30-billion"
+        }
+      ]
+    },
+    {
+      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-05-04T18:03:03+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
         }
       ]
     },
@@ -500,19 +677,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/maj/3/03-maj-07.13-motorfordon-stold-goteborg/"
-        }
-      ]
-    },
-    {
-      "title": "Historisk prisökning på förlovnings- och vigselringar",
-      "summary": "Enligt Ola Söderlind, hushållsekonom på Zmarta/uScore, har priset på en klassisk slät guldring i 18 karat och en solitär guldring med en halvkarts diamant ökat med 3 500 kronor på bara ett år.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-05-03T09:00:57+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/4dZI266MGseuFdl1gbfXHi/historisk-prisoekning-pa-foerlovnings-och-vigselringar"
         }
       ]
     },
@@ -543,19 +707,6 @@
       ]
     },
     {
-      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-      "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-05-03T13:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
-        }
-      ]
-    },
-    {
       "title": "03 maj 18.50, Polisinsats/kommendering, Göteborg",
       "summary": "Fotbollsmatchen mellan GAIS och Örgryte IS på Gamla Ullevi är nu avslutad.",
       "category": "polis",
@@ -565,121 +716,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/maj/3/03-maj-18.50-polisinsatskommendering-goteborg/"
-        }
-      ]
-    },
-    {
-      "title": "Trump: Vi kommer att hjälpa fartyg genom Hormuz",
-      "summary": "USA kommer att börja ”vägleda” fartyg från en rad länder genom det blockerade Hormuzsundet från och med måndag, enligt Donald Trump. Han beskriver också samtal med Iran som ”mycket positiva”.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-05-03T20:59:17+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/bOk1Pd/trump-vi-kommer-att-hjalpa-fartyg-genom-hormuz?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/e7znrR/trump-vi-kommer-att-hjalpa-fartyg-genom-hormuz"
-        }
-      ]
-    },
-    {
-      "title": "Iran: USA har svarat på vårt förhandlingsförslag",
-      "summary": "USA:s president Donald Trump har svarat på Irans senaste förhandlingsförslag om att få ett slut på kriget i landet, uppger iranska statliga medier enligt BBC.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-05-03T22:32:30+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wrdBqG/iran-usa-svarat-pa-fredsforslag?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/K8LxV4/iran-usa-svarat-pa-fredsforslag"
-        }
-      ]
-    },
-    {
-      "title": "Rudy Giuliani på sjukhus – tillståndet är kritiskt",
-      "summary": "New Yorks förre borgmästare, Trumplojalisten Rudy Giuliani, är inlagd på sjukhus, uppger hans…",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-05-04T00:44:45+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=86b68652-9e05-42f2-a41d-f7342903789e"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/zO0olw/tidigare-borgmastaren-giuliani-inlagd-pa-sjukhus?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Airi skulle hem – sköts i gängbråk: ”Blodet rann”",
-      "summary": "Airi Iliste låste upp sin cykel när hon hamnade mitt i en skottlossning – och träffades av en kula i knät. Hon är en av 53 utomstående personer som skjutits i gängkonflikter sedan 2023.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-05-04T03:45:27+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/GxP7eJ/airi-skulle-hem-skots-i-gangbrak-blodet-rann?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/k0MoeL/airi-skulle-hem-skots-i-gangbrak-blodet-rann"
-        }
-      ]
-    },
-    {
-      "title": "Samsung family pays off record $8bn inheritance tax bill",
-      "summary": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in October 2020.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-05-04T04:24:22+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nu brådskar det – sista dagen att deklarera",
-      "summary": "Inte lämnat in deklarationen ännu? I så fall börjar det att brådska, i dag – måndag, är egentligen sista dagen. Det finns dock en livlina.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-05-04T04:41:42+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/ekonomi/nu-bradskar-det-sista-dagen-att-deklarera/"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/5p3akm/nu-bradskar-det-sista-dagen-att-deklarera"
-        }
-      ]
-    },
-    {
-      "title": "Till attack mot Åkesson: ”Sluta med falska anklagelser”",
-      "summary": "Då kom debatten in på Sverigedemokraternas agerande i torsdags, då partiet kallade in två utkvittade SD-ledamöter för att Tidöpartierna inte skulle förlora omröstningen om övergångsregler för skärpta medborgarskapskrav.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-05-04T04:47:29+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/tt-260503-partiledardebatt1-ec5b2e45/till-attack-mot-akesson-sluta-med-falska-anklagelser"
-        },
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/politik/rasar-mot-akesson-falska-anklagelser/"
         }
       ]
     },
@@ -701,271 +737,154 @@
       ]
     },
     {
-      "title": "Matpriserna faller – kaffet sticker ut",
-      "summary": "Matpriserna fortsatte att sjunka under april. Bryggkaffe är en av varorna som sticker ut där priset sjönk med 8 procent. Priset på nötkött fortsatte att stiga, enligt sajten Matpriskollen.",
-      "category": "sverige",
+      "title": "Uppdaterad 2026-05-04 12:10:43 04 maj 09.37, Efterlyst person, Vänersborg",
+      "summary": "Polisen söker efter en man i 30-årsåldern som avvikit från Brinkåsens rättspsykiatriska avdelning.",
+      "category": "polis",
       "importance": 3,
-      "published": "2026-05-04T06:10:43+00:00",
+      "published": "2026-05-04T09:16:47+00:00",
       "sources": [
         {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/ekonomi/privatekonomi/matpriserna-faller-kaffet-sticker-ut/"
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/maj/4/04-maj-09.37-efterlyst-person-vanersborg/"
+        }
+      ]
+    },
+    {
+      "title": "Efter avhopp – SR ställer in partiledardebatt",
+      "summary": "Flera partiledare har dragit sig ur Sveriges Radios debatt på onsdag efter kvittningskaoset i…",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-05-04T12:02:08+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/K8LVn4/flera-partiledare-hoppar-av-radions-debatt?utm_medium=rss"
         },
         {
           "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/aJGRdO/matpriserna-faller-kaffet-sticker-ut"
+          "url": "https://www.svd.se/a/n1Lq1Q/sr-staller-in-partiledardebatt"
         }
       ]
     },
     {
-      "title": "23 utomstående ihjälskjutna på tre år",
-      "summary": "53 utomstående personer har skjutits i gängkonflikter i Sverige sedan 2023. 23 av dem dog. Det rapporterar TT.",
+      "title": "Homebridge 2.0 is here, and it speaks Matter",
+      "summary": "Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-05-04T12:35:06+00:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums"
+        }
+      ]
+    },
+    {
+      "title": "Två miljoner flygsäten borta efter oljechocken",
+      "summary": "Irankrigets konsekvenser för flygbranschen blir nu allt tydligare. Under maj månad minskar den globala trafiken med två miljoner flygsäten. För svensk del är dock omfattningen fortsatt begränsad, enligt Swedavia.",
       "category": "sverige",
       "importance": 3,
-      "published": "2026-05-04T06:16:01+00:00",
+      "published": "2026-05-04T15:53:36+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/tva-miljoner-flygsaten-borta-efter-oljechocken/"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/QJrVXQ/tva-miljoner-flygsaten-borta-efter-oljechocken"
+        }
+      ]
+    },
+    {
+      "title": "Uppgifter: Iranska attacker mot Förenade Arabemiraten",
+      "summary": "Förenade Arabemiraten uppger att flera iranska projektiler avfyrats mot landet. Samtidigt hotar Donald Trump med kraftiga militära åtgärder.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-05-04T16:05:24+00:00",
       "sources": [
         {
           "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/23-utomstaende-ihjalskjutna-pa-tre-ar-/"
-        },
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/nyheter/sverige/23-utomstaende-ihjalskjutna-pa-tre-ar-/"
-        }
-      ]
-    },
-    {
-      "title": "Storbritannien vill vara med på Ukrainas biljonlån",
-      "summary": "Inför det bredare toppmötet inom EPC (Europeiska politiska gemenskapen) träffade Starmer på söndagen president Volodymyr Zelenskyj i Jerevan.",
-      "category": "lokalt",
-      "importance": 3,
-      "published": "2026-05-04T06:53:08+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/tt-260504-ukrainalan1-f1ff91fc/storbritannien-vill-vara-med-pa-ukrainas-biljonlan"
+          "url": "https://www.expressen.se/nyheter/varlden/uppgifter-iranska-attacker-mot-forenade-arabemiraten/"
         },
         {
           "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Okyxbq/storbritannien-vill-vara-med-pa-ukrainas-biljonlan?utm_medium=rss"
+          "url": "https://www.aftonbladet.se/nyheter/a/BxrpO0/attacker-mot-forenade-arabemiraten?utm_medium=rss"
         }
       ]
     },
     {
-      "title": "Misstänkt man åtalas för mord på kvinna i Galgamarken i Karlskrona",
-      "summary": "En man i 40-årsåldern åtalas för mord samt överträdelse av kontaktförbud och grovt olaga hot i Karlskrona förra året.",
+      "title": "Temperaturen i Hormuzsundet stiger – vapenvilan kan brytas",
+      "summary": "Risken för att den bräckliga vapenvilan mellan USA och Iran går om intet har ökat, tror USA-experten Jan Hallenberg.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-05-04T16:23:36+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/temperaturen-i-hormuzsundet-stiger-vapenvilan-kan-brytas/"
+        }
+      ]
+    },
+    {
+      "title": "04 maj 17.34, Trafikolycka, personskada, Tjörn",
+      "summary": "SOS larmar om en trafikolycka på länsväg 711 på Tjörn.",
       "category": "polis",
       "importance": 3,
-      "published": "2026-05-04T07:05:31+00:00",
+      "published": "2026-05-04T17:57:16+00:00",
       "sources": [
         {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/blekinge/man-atalas-for-mord-i-karlskrona"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/8pP46w/man-atalas-for-mord-pa-kvinna-i-karlskrona?utm_medium=rss"
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/maj/4/04-maj-17.34-trafikolycka-personskada-tjorn/"
         }
       ]
     },
     {
-      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
-      "summary": "A Chinese court ruled that companies cannot terminate employees just to replace them with artificial intelligence systems, as authorities juggle the need to stabilize the domestic labor market with a global race to de...",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T08:10:51+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds"
-        }
-      ]
-    },
-    {
-      "title": "Inside the Booming Market for Dinosaur Fossils | Odd Lots",
-      "summary": "Two years ago, Citadel's Ken Griffin paid almost $45 million for a stegosaurus skeleton, making it the most expensive fossil ever sold at auction.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T08:12:58+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-02/inside-the-booming-market-for-dinosaur-fossils-video"
-        }
-      ]
-    },
-    {
-      "title": "Valen Timmy är fri – släpptes ut i Nordsjön",
-      "summary": "Timmy är en fri val, rapporterar tyska medier. Den omskrivna knölvalen har på lördagsmorgonen släppts ut i Nordsjön, dit han bogserats med en specialpråm.",
-      "category": "lokalt",
-      "importance": 2,
-      "published": "2026-05-02T08:15:21+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/nyheter/varlden/valen-timmy-ar-fri-slapptes-ut-i-nordsjon/"
-        }
-      ]
-    },
-    {
-      "title": "Motor exploderade på veteranfordonsträff utanför Degerfors – flera skadade",
-      "summary": "Minst tre personer har skadats efter att en motor exploderat på en bilträff i Svartå. Enligt arrangören är det en flygplansmotor som har smällt.",
-      "category": "polis",
-      "importance": 2,
-      "published": "2026-05-02T11:07:25+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/nyheter/sverige/motor-exploderade-pa-veteranfordonstraff-utanfor-degerfors-flera-skadade/"
-        }
-      ]
-    },
-    {
-      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
-      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T12:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam"
-        }
-      ]
-    },
-    {
-      "title": "Smällen inför derbyt  – skadad på träning",
-      "summary": "Målvakten Andreas Hermansen, 22, skadade sig på lördagens träning och missar derbyt mot Örgryte – men Mergim Krasniqi, 33, är tillbaka för Gais. Kanske kan han gå rakt in i startelvan.",
-      "category": "lokalt",
-      "importance": 2,
-      "published": "2026-05-02T13:49:18+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/smallen-infor-derbyt-skadad-pa-traning/"
-        }
-      ]
-    },
-    {
-      "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
-      "summary": "I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T13:56:12+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal"
-        }
-      ]
-    },
-    {
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/"
-        }
-      ]
-    },
-    {
-      "title": "Udda bilderna på domaren – tvingas byta",
-      "summary": "Här tvingas domaren (!) lämna matchen på Stora valla skadad. Joakim Sars, 34, kunde inte fortsätta döma.",
-      "category": "lokalt",
-      "importance": 2,
-      "published": "2026-05-02T14:34:32+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/udda-bilderna-pa-domaren-tvingas-byta/"
-        }
-      ]
-    },
-    {
-      "title": "The best AI dictation apps, tested and ranked",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T16:00:00+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
-        }
-      ]
-    },
-    {
-      "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
-      "summary": "Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T17:00:00+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale"
-        }
-      ]
-    },
-    {
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-02T17:05:41+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/"
-        }
-      ]
-    },
-    {
-      "title": "Flera stora bränder rasar – helikoptrar vattenbombar",
-      "summary": "I uppländska Österbybruk har vad som tros vara gnistor från ett tåg har orsakat en skogsbrand, skriver UNT. Det första larmet kom strax innan klockan 15.",
-      "category": "polis",
-      "importance": 2,
-      "published": "2026-05-02T18:15:26+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/3leKp5DH6iJkULWrH4nlby/brinner-i-hela-landet"
-        }
-      ]
-    },
-    {
-      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
-      "summary": "New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year.",
-      "category": "social",
-      "importance": 2,
-      "published": "2026-05-02T18:25:26+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"
-        }
-      ]
-    },
-    {
-      "title": "Hemlig agent i specialoperation – stora förluster för ryska styrkan",
-      "summary": "Ukrainas militära underrättelsetjänst HUR uppger att man genomfört en flera månader lång specialoperation mot den ryskkopplade paramilitära Akhmat‑styrkan i Sumyregionen.",
+      "title": "Misstänkt för att ha dränkt frun nekar i rätten",
+      "summary": "Mannen som åtalats för att ha dränkt sin fru i Sigtunafjärden för elva år sedan står fast vid sin ståndpunkt: Han nekar till mord.",
       "category": "sverige",
-      "importance": 2,
-      "published": "2026-05-02T20:07:42+00:00",
+      "importance": 3,
+      "published": "2026-05-04T18:06:57+00:00",
       "sources": [
         {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/12AD0eGDYq3zBSrnTs5a5A/hemlig-agent-i-specialoperation-stora-foerluster-foer-ryska-styrkan"
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/misstankt-for-att-ha-drankt-frun-nekar-i-ratten/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/WvmpwG/misstankt-for-att-ha-drankt-frun-nekar-i-ratten?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
+      "summary": "The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter headed to Libya.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-05-04T18:08:55+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Varning för bajsvatten – duschstopp i Malmö",
+      "summary": "Uppmaningen: Duscha helst inte",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-05-04T18:14:26+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=a53c77f8-063d-4f56-8bcb-d3cd6576d303"
         }
       ]
     },
     {
       "title": "Farewell, Jeeves: Ask.com shuts down",
-      "summary": "Owner IAC says it's discontinuing its search business.",
+      "summary": "For most of Ask Jeeves' 30-year history, it's been overshadowed by other search products, especially Google.",
       "category": "tech",
       "importance": 2,
       "published": "2026-05-02T21:11:28+00:00",
@@ -978,7 +897,7 @@
     },
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "summary": "Bad news for Tilly Norwood.",
+      "summary": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.",
       "category": "tech",
       "importance": 2,
       "published": "2026-05-02T21:54:58+00:00",
@@ -986,84 +905,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
-      "summary": "The list of Asian stocks that benefit from business partnership with Nvidia Corp. is getting longer, as the region further integrates into the AI chip giant’s business ecosystem.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-03T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia"
-        }
-      ]
-    },
-    {
-      "title": "Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war",
-      "summary": "Several people told the BBC they experienced delusions after intense conversations with AI.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-03T01:48:55+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Malaysia’s Anti-Graft Agency to Quiz Ex-Minister Over Arm Deal",
-      "summary": "Malaysia’s anti-graft agency said it has summoned former economy minister Rafizi Ramli for questioning following a probe into a deal involving Arm Holdings Plc.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-03T02:42:42+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-03/malaysia-s-anti-graft-agency-to-quiz-ex-minister-over-arm-deal"
-        }
-      ]
-    },
-    {
-      "title": "Öppnar upp för polska kärnvapen: ”Jag gillar tanken”",
-      "summary": "Under årtionden har det varit tabu att ens diskutera frågan – kärnvapen regleras under icke-spridningsavtalet. De är dessutom komplicerade att utveckla och otroligt dyra att underhålla.",
-      "category": "world",
-      "importance": 2,
-      "published": "2026-05-03T04:23:49+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/6lt67L1HkE8E9yj1dTAC0o/oeppnar-upp-foer-polska-kaernvapen-jag-gillar-tanken"
-        }
-      ]
-    },
-    {
-      "title": "Helena, 45, fick framfall: Köra hyrox en seger",
-      "summary": "Styrketräning hyllas som nyckeln till kvinnors hälsa efter 40. Men för många är kroppen förändrad efter barna­födande. Hur reagerar bäckenbotten när vikterna blir tyngre?",
-      "category": "sverige",
-      "importance": 2,
-      "published": "2026-05-03T04:29:33+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/Ok8VLA/helena-45-fick-framfall-kor-hyrox-ar-en-seger"
-        }
-      ]
-    },
-    {
-      "title": "Hackspett stoppar bygge av nya bostäder: ”Akut hotad art”",
-      "summary": "Den vitryggiga hackspetten var tidigare ganska vanlig i Sverige. När lövskogar försvann under 1900-talet förlorade den sin livsmiljö.",
-      "category": "tech",
-      "importance": 2,
-      "published": "2026-05-03T06:02:05+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/78dI5yJpeYzhZSysl6AR58/hackspett-stoppar-bygge-av-nya-bostaeder-akut-hotad-art"
         }
       ]
     },
@@ -1081,28 +922,171 @@
       ]
     },
     {
-      "title": "TV4-cheferna: ”Det här är pressfrihet i praktiken”",
-      "summary": "För TV4 är den undersökande journalistiken en bärande del av vår identitet. Vi avslöjar för våra tittare. Det kan vi därför att vi har modiga och nyfikna journalister, ekonomiska resurser och starka publicistiska ägare.",
-      "category": "sverige",
+      "title": "Blåvitts oro: Max Fenger klev av träningen",
+      "summary": "Max Fenger, 24, lämnade IFK Göteborgs träning i förtid. Nu är måndagens viktiga match mot Djurgården i fara för anfallaren. – Vi ska inte till Östra sjukhuset med honom, säger tränaren Joachim Björklund.",
+      "category": "lokalt",
       "importance": 2,
-      "published": "2026-05-03T06:54:24+00:00",
+      "published": "2026-05-03T09:46:38+00:00",
       "sources": [
         {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/2TVFCOCHLNSTPJdEbzyf8q/tv4-cheferna-det-haer-aer-pressfrihet-i-praktiken"
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/blavitts-oro-max-fenger-klev-av-traningen/"
         }
       ]
     },
     {
-      "title": "Omfattande attack mot oljeanläggningar: ”Putins livlina”",
-      "summary": "I området omkring Sankt Petersburg sköts över 50 drönare ner, enligt guvernören Alexander Drozdenko och i Moskva ska en äldre man ha dödats i en drönarattack strax utanför staden, enligt den ryska nyhetsbyrån TASS.",
-      "category": "world",
+      "title": "Man död – körde ner i å utanför Varberg",
+      "summary": "En bil har kört av en väg och hamnat i en intilliggande å. En man fördes till sjukhus med ambulans men dog senare av sina skador.",
+      "category": "lokalt",
       "importance": 2,
-      "published": "2026-05-03T08:03:43+00:00",
+      "published": "2026-05-03T10:16:29+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/nyheter/sverige/bil-har-kort-ner-i-a-man-allvarligt-skadad/"
+        }
+      ]
+    },
+    {
+      "title": "Bekräftar – sökte till reality-tv: ”Pinsamt”",
+      "summary": "Fredrik Holmbergs gamla ”Robinson”-ansökan avslöjades av hans syster. Nu bekräftar Gais-tränaren att han ville vara med i tv-programmet. – Jag var ung när jag sökte – det måste jag säga till mitt försvar, säger ”Fidde”.",
+      "category": "lokalt",
+      "importance": 2,
+      "published": "2026-05-03T10:18:20+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/bekraftar-sokte-till-reality-tvpinsamt/"
+        }
+      ]
+    },
+    {
+      "title": "Reddit posts strong Q1 results",
+      "summary": "The platform’s ad business drove a 69% year-over-year revenue increase to $663 million for the first quarter of 2026.",
+      "category": "social",
+      "importance": 2,
+      "published": "2026-05-03T10:27:31+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/reddit-posts-strong-q1-results/819150/"
+        }
+      ]
+    },
+    {
+      "title": "Hundraserna som oftast – och sällan – behöver veterinärvård",
+      "summary": "Statistik från Sveland Djurförsäkringar visar tydliga skillnader mellan olika hundrasers vårdbehov.",
+      "category": "sverige",
+      "importance": 2,
+      "published": "2026-05-03T12:33:57+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/M3jP0HA1BS5rJMYvohSVZ/omfattande-attack-mot-oljeanlaeggningar-slar-mot-putins-livlina"
+          "url": "https://www.tv4.se/artikel/6PwRT7U7w5aa4swZXujk7z/hundraserna-som-oftast-och-saellan-behoever-veterinaervard"
+        }
+      ]
+    },
+    {
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-05-03T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/"
+        }
+      ]
+    },
+    {
+      "title": "Sommaren kan ha anlänt – SMHI: ”Goda chanser”",
+      "summary": "Supervärmen över Valborgshelgen gav en rejäl glimt av sommaren. Och sommaren kan faktiskt ha anlänt i delar av landet. – Det finns goda chanser, säger Emma Härenstam, meteorolog på SMHI.",
+      "category": "lokalt",
+      "importance": 2,
+      "published": "2026-05-03T13:49:29+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/nyheter/vader/sommaren-kan-ha-anlant-smhi-goda-chanser/"
+        }
+      ]
+    },
+    {
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-05-03T16:05:00+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/"
+        }
+      ]
+    },
+    {
+      "title": "Yohanna slog till igen – räddade poäng åt AIK",
+      "summary": "Zadok Yohannas succé i AIK-tröjan fortsätter. Mot Elfsborg nickade supertalangen läckert in kvitteringen som gav en poäng. – Ett rättvist skulle jag vilja säga, säger AIK-tränaren José Riveiro.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-05-03T16:22:43+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/yohanna-slog-till-igen-raddade-poang-at-aik/"
+        }
+      ]
+    },
+    {
+      "title": "Analysen efter Gais kross mot Örgryte: Lossnar det på allvar nu?",
+      "summary": "Gais krossade Örgryte med 4–0. Här är analysen efter derbyt på Gamla Ullevi. ✓ Häftig utveckling – stor potential ✓ Superettan-vibbar, Örgryte ✓ Lossnar det på allvar nu, Gais? ✓ Många positiva besked",
+      "category": "lokalt",
+      "importance": 2,
+      "published": "2026-05-03T16:49:13+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/analysen-efter-gais-kross-mot-orgryte-lossnar-det-pa-allvar-nu-/"
+        }
+      ]
+    },
+    {
+      "title": "Analysen efter Elfsborg–AIK: ”Ett smart drag av Hamberg”",
+      "summary": "Elfsborg och AIK spelade 1–1 inför drygt 10 000 åskådare på Borås arena. Här är Hector Junelinds analys direkt efter matchen.",
+      "category": "lokalt",
+      "importance": 2,
+      "published": "2026-05-03T16:52:14+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/analysen-efter-elfsborg-aik-ett-smart-drag-av-hemberg/"
+        }
+      ]
+    },
+    {
+      "title": "Ilskan mot domslutet: ”Förstår det inte alls”",
+      "summary": "Det blev bara en poäng för Elfsborg mot AIK. Efteråt var hemmalägret starkt kritiskt mot ett domslut där AIK:s Aron Csongvai undvek ett andra gult kort.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-05-03T17:42:52+00:00",
+      "sources": [
+        {
+          "name": "GT",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/ilskan-mot-domslutet-forstar-det-inte-alls/"
+        }
+      ]
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-05-03T18:00:09+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
         }
       ]
     }
