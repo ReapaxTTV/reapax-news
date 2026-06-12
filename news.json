@@ -1,120 +1,167 @@
 {
-  "last_updated": "2026-06-12T08:51:47.479654+00:00",
+  "last_updated": "2026-06-12T19:12:56.299271+00:00",
   "article_count": 80,
   "articles": [
     {
-      "title": "Efter flygbladsskandalen – SD-politikern tvingas lämna",
-      "summary": "Tidigare i år avslöjade TV4 Nyheterna att Stina Isaksson, gruppledare och ordförande för Sverigedemokraterna i halländska Hylte, har delat ut flygblad i Halland på svenska, arabiska, somaliska samt albanska med texten...",
-      "category": "sverige",
+      "title": "Ny rapport: Fanns brister i insatsen vid masskjutningen på Risbergska",
+      "summary": "Nu presenteras en ny utredning om masskjutningen på Risbergska skolan i Örebro. Myndigheten för civilt försvar (MCF) har granskat hur andra myndigheter hanterade händelsen.",
+      "category": "polis",
       "importance": 5,
-      "published": "2026-06-11T11:56:07+00:00",
+      "published": "2026-06-12T12:10:49+00:00",
       "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/oyGynew2EnzXBQ2dEZC7Z/efter-flygbladsskandalen-stina-isaksson-far-laemna-sd"
-        }
-      ]
-    },
-    {
-      "title": "Övertalningsförsöken misslyckades – därför tvingades regeringen backa",
-      "summary": "Orsaken till reträtten är att regeringen riskerade att förlora den kommande omröstningen i riksdagen. Det är ett pinsamt nederlag för Tidöpartierna och en seger för Socialdemokraterna.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-11T14:41:59+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/7vZYVGRhtlDOCbDLzyigtT/daerfoer-tvingades-stroemmer-backa"
-        },
         {
           "name": "SVT",
-          "url": "https://www.svt.se/nyheter/inrikes/overtalningsforsoken-misslyckades-darfor-tvingades-regeringen-backa"
+          "url": "https://www.svt.se/nyheter/lokalt/orebro/ny-rapport-fanns-brister-i-insatsen-vid-masskjutningen-pa-risbergska"
         }
       ]
     },
     {
-      "title": "Krissiffrorna  för Trump –  ”det är kört”",
-      "summary": "En kraftig majoritet av amerikanerna är missnöjda med Donald Trumps ekonomiska politik. – Mycket allvarligt för honom, säger USA-experten Eirik Løkke till norska Dagbladet om Trumps ”krissiffror”.",
-      "category": "world",
+      "title": "Kristersson om Aftonbladets granskning ”På alla sätt lögnaktig”",
+      "summary": "Aftonbladet har kommit med avslöjanden om säkerheten runt Kristersson och hans frus stiftelse. Nu slår statsministern tillbaka mot granskningen. – Den är på alla sätt lögnaktig, säger han i Kvartals ”Fredagsintervjun” .",
+      "category": "polis",
       "importance": 5,
-      "published": "2026-06-11T22:03:05+00:00",
+      "published": "2026-06-12T14:07:50+00:00",
       "sources": [
         {
           "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/krissiffrorna--for-trump-det-ar-kort/"
+          "url": "https://www.expressen.se/nyheter/politik/kristersson-om-aftonbladets-granskning-pa-alla-satt-lognaktig/"
         }
       ]
     },
     {
-      "title": "Nicholas Wennö: Sex, skuld och självuppoffring – så utlöste ”Breaking the waves” en känslomässig tsunami",
-      "summary": "För 30 år sedan sköljde en känslomässig tsunami över filmvärlden – Lars von Triers kontroversiella kärleksdrama ”Breaking the waves”. En rå mix av sex, religion och kvinnligt martyrskap som fortfarande väcker debatt.",
-      "category": "world",
+      "title": "Utvärdering efter Risbergska: Mer övning behövs",
+      "summary": "Samhällets hantering av masskjutningen på Campus Risbergska fungerade i flera delar väl. Samtidigt pekas förbättringsområden ut, i en ny utvärdering från Myndigheten för civilt försvar.",
+      "category": "sverige",
       "importance": 5,
-      "published": "2026-06-12T05:14:48+00:00",
+      "published": "2026-06-12T14:10:01+00:00",
       "sources": [
         {
           "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/kultur/nicholas-wenno-sex-skuld-och-sjalvuppoffring-sa-utloste-breaking-the-waves-en-kanslomassig-tsunami/"
-        }
-      ]
-    },
-    {
-      "title": "Regeringen: Fler myndigheter kan få skjuta ner drönare",
-      "summary": "I dag är det bara Polismyndigheten av landets civila myndigheter som får ingripa mot fientliga drönare.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-12T05:43:39+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/37ubk6f6UgVMigCAs7yXFU/regeringen-fler-myndigheter-ska-fa-skjuta-ner-droenare"
+          "url": "https://www.dn.se/sverige/utvardering-efter-risbergska-mer-ovning-behovs/"
         },
         {
           "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/RjOQ52/fler-myndigheter-kan-fa-skjuta-ner-dronare?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "”KD vilseleder om väntetiderna”",
-      "summary": "Socialdemokratiskt ledda Region Stockholm har bland landets kortaste vårdköer. För att få ihop sin debatt­artikel måste Krist­demo­kraterna trolla med siffrorna, skriver Aida Hadžialić (S), gruppledare i Region Stockh...",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-12T06:00:00+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/V6Gee1/kd-vilseleder-om-vantetiderna-i-sjukvarden-skriver-aida-hadzialic-s"
-        }
-      ]
-    },
-    {
-      "title": "Ryssland kan testa Nato i ”relativ närtid”",
-      "summary": "visar Försvarsberedningens analys som presenterades på fredagen. ”Det finns risk för snabb försämring, med allvarliga konsekvenser för Sverige och Europas säkerhet”, säger Försvarsberedningens ordförande Jörgen Berglu...",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-06-12T07:19:03+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=4163e2d7-0610-4a16-9494-df85d8dcc68b"
+          "url": "https://www.aftonbladet.se/nyheter/a/WvkXrL/utvardering-efter-risbergska-mer-ovning-behovs?utm_medium=rss"
         },
         {
           "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/3pm7Q9/forsvarsberedningen-ryssland-kan-testa-nato"
+          "url": "https://www.svd.se/a/n14lza/utvardering-efter-risbergska-mer-ovning-behovs"
         }
       ]
     },
     {
-      "title": "Oppositionen kräver krismöten efter tunnelbanekaoset",
-      "summary": "– Kollektivtrafiken i Stockholm har ju varit en katastrof den här mandatperioden och det som får bägaren att rinna över för mig och många andra stockholmare är ju det som hänt på röda linjen.",
-      "category": "sverige",
+      "title": "Masskjutning i Texas",
+      "summary": "Minst en död – flera skadade, enligt CBS News",
+      "category": "polis",
       "importance": 5,
-      "published": "2026-06-12T08:25:42+00:00",
+      "published": "2026-06-12T16:07:37+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=3357b396-4b03-4e5b-bfab-15f03ded1a39"
+        }
+      ]
+    },
+    {
+      "title": "Svarar på kritiken efter kaoset i tunnelbanan: ”Gammal teknik”",
+      "summary": "Moderaternas Christofer Fjellner och Axel Conradi gick på fredagen ut och krävde krismöten med regionstyrelsens ordförande i Stockholm, Aida Hadzialic (S), för att ställa henne till svars för den senaste tiden kaos i ...",
+      "category": "lokalt",
+      "importance": 5,
+      "published": "2026-06-12T16:12:26+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/14xF0715gd9Z9gFlBseyxg/oppositionen-kraever-krismoeten-efter-tunnelbanekaoset"
+          "url": "https://www.tv4.se/artikel/1l07OJvPSP70Whvb3KH89g/svarar-pa-kritiken-efter-kaoset-i-tunnelbanan-gammal-teknik"
+        }
+      ]
+    },
+    {
+      "title": "Att vara surast vinner inga val",
+      "summary": "PODD | 12 juni. Grinighet, skeva måttstockar, terror, fotboll och Sommar i P1.",
+      "category": "lokalt",
+      "importance": 5,
+      "published": "2026-06-12T16:40:19+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/8pELpE/att-vara-surast-vinner-inga-val"
+        }
+      ]
+    },
+    {
+      "title": "Ny farhåga i Belfast: ”Maxad säkerhet”",
+      "summary": "Kravellerna i Belfast påminner om de mörkaste dagarna under terrorkriget mellan protestanter och katoliker.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-12T17:53:37+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/vrwy1V/valdet-i-belfast-efter-knivdadet-sa-spreds-hatet"
+        }
+      ]
+    },
+    {
+      "title": "Suspect in Fatal Shooting Is Dead After a Standoff in Midland, Texas, Officials Say",
+      "summary": "The man was confirmed to be dead after he had barricaded himself in a building in Midland, following an earlier shooting on Friday that killed one person and injured at least 11 others.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-06-12T17:54:50+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html"
+        }
+      ]
+    },
+    {
+      "title": "Palestine Action activists jailed over factory raid",
+      "summary": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism.",
+      "category": "world",
+      "importance": 5,
+      "published": "2026-06-12T18:32:21+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ce950111xk7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Pojke död – klämdes fast i container",
+      "summary": "Pojken, som är i grundskoleåldern, var ute och lekte när han av okänd anledning klämdes fast i en container. Pojken fördes till sjukhus med ambulans, men hans liv gick inte att rädda. Hans anhöriga är underrättade.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-06-12T18:46:22+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/5U3TtGgaalokNmeGCWUgKI/pojke-doed-klaemdes-fast-i-container"
+        },
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/pojke-dod-fastnade-i-container/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/oE7yeB/pojke-fastklamd-vid-container?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/m08Ey1/pojke-dod-i-olycka-med-container"
+        }
+      ]
+    },
+    {
+      "title": "Domstolen avslår – terrordömd får fortsätta på KTH",
+      "summary": "Trots oro bland studenter och personal får den terrordömde Alexander Holmberg fortsätta studera kemi på KTH.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-12T19:01:33+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/domstolen-avslar-terrordomd-far-fortsatta-pa-kth/"
         }
       ]
     },
@@ -132,58 +179,6 @@
       ]
     },
     {
-      "title": "Vanliga läkemedlen kan ge allvarliga komplikationer i sommar",
-      "summary": "Njurarna är ett av kroppens främsta reningsorgan och hjälper till att utsöndra läkemedelssubstanser i kroppen.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-11T12:44:16+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/4R6VpIKyLkIXF9kqd26S5X/vanliga-laekemedlen-kan-ge-allvarliga-komplikationer-i-sommar"
-        }
-      ]
-    },
-    {
-      "title": "M försökte rädda omstridda lagen – stoppades av S",
-      "summary": "Ett nytt kvittningssystem i riksdagen hade säkrat regeringens omstridda förslag om att sänka straffbarhetsåldern till 13 år. Enligt uppgifter till SVT var S och M mycket nära att nå en uppgörelse under onsdagen.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-11T15:29:52+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/inrikes/m-forsokte-radda-omstridda-lagen-stoppades-av-s"
-        }
-      ]
-    },
-    {
-      "title": "Debatt i riksdagen om kommunalt veto mot uranbrytning",
-      "summary": "Ska uran behandlas som andra gruvprodukter eller ska kommuner ha rätt att säga nej till uranbrytning? Den frågan debatterades i riksdagen under torsdagen. På måndag tas det beslut i frågan.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-06-11T15:35:58+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/jamtland/debatt-i-riksdagen-om-kommunalt-veto-mot-uranbrytning"
-        }
-      ]
-    },
-    {
-      "title": "Coffeezilla Finally Releases Full Investigation Video Into BAM Lego Controversy, Uncovering Some Contentious Details",
-      "summary": "The Bricks and Minifigs $200K Lego Heist Scandal refers to an incident in which a Bricks & Minifigs (BAM) store in Salem, Oregon, was accused of allegedly stealing a Lego Star Wars collection purportedly worth $200,00...",
-      "category": "memes",
-      "importance": 4,
-      "published": "2026-06-11T16:20:29+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/events/bricks-and-minifigs-200k-lego-heist-scandal"
-        }
-      ]
-    },
-    {
       "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
       "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
       "category": "tech",
@@ -193,58 +188,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/"
-        }
-      ]
-    },
-    {
-      "title": "Det stör sig bilisterna mest på i trafiken",
-      "summary": "Ilska och känsloutbrott är vanligt i trafiken, enligt en undersökning som Folksam låtit Sifo göra.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-11T17:18:20+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/rZoke17qPgmYcpdIXC9a3/det-stoer-sig-bilisterna-mest-pa-i-trafiken"
-        }
-      ]
-    },
-    {
-      "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
-      "summary": "Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform act...",
-      "category": "social",
-      "importance": 4,
-      "published": "2026-06-11T17:23:02+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship"
-        }
-      ]
-    },
-    {
-      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-11T17:26:57+00:00",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use"
-        }
-      ]
-    },
-    {
-      "title": "Främlingsfientliga upplopp i Nordirland – detta har hänt",
-      "summary": "Fyra dagar har gått sedan den brutala knivattacken i Belfast i Nordirland där en man skadades allvarligt.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-11T18:24:15+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/framlingsfientliga-upplopp-i-nordirland-detta-har-hant/"
         }
       ]
     },
@@ -262,15 +205,15 @@
       ]
     },
     {
-      "title": "Northern Ireland protests pass off without incident after two nights of unrest",
-      "summary": "After two nights of unrest, pockets of protests held across Northern Ireland have passed off without major incident.",
-      "category": "world",
+      "title": "Founders Fund, Andreessen Poised for Record Returns From SpaceX IPO",
+      "summary": "A small number of firms are set to net tens of billions of dollars in returns from SpaceX’s initial public offering at a nearly $1.8 trillion valuation, marking one of the most significant windfalls in venture capital...",
+      "category": "tech",
       "importance": 4,
-      "published": "2026-06-11T21:25:54+00:00",
+      "published": "2026-06-11T20:27:48+00:00",
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c4gyl9v02y5o?at_medium=RSS&at_campaign=rss"
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo"
         }
       ]
     },
@@ -288,45 +231,6 @@
       ]
     },
     {
-      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
-      "summary": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-06-11T23:37:15+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-11T23:41:14+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Alibaba Bids $1.5 Billion for China Grocer in Meituan Fight",
-      "summary": "Alibaba Group Holding Ltd. is offering $1.5 billion to buy Chinese grocery delivery firm Pupu, initiating a bidding war as part of a broader campaign to wrest market share from online commerce rival Meituan.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-12T00:54:59+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan"
-        }
-      ]
-    },
-    {
       "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
       "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
       "category": "tech",
@@ -336,101 +240,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
-        }
-      ]
-    },
-    {
-      "title": "Ledare: Socialdemokraterna ska inte rädda Tidös revolution",
-      "summary": "Regeringen och SD backar om förslaget att sätta 13-åringar i fängelse. Men de hoppas att Socialdemokraterna ska hjälpa dem med att sänka straffbarhetsåldern till 14 år.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T03:24:59+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/ledare/socialdemokraterna-ska-inte-radda-tidos-revolution/"
-        }
-      ]
-    },
-    {
-      "title": "Anneli, 73, kördes ihjäl i Köping – bilföraren friades",
-      "summary": "Den 26 december 2024 blev Anneli, 73 år, påkörd på ett övergångsställe i Köping och dog. Västmanlands tingsrätt slog fast att det var en bilförare i 30-årsåldern som dödade Anneli.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T03:30:01+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/vastmanland/anneli-73-kordes-ihjal-i-koping-bilforare-friad"
-        }
-      ]
-    },
-    {
-      "title": "Kvinnor utsatta för övergrepp i hemtjänsten i Gällivare – mannen fick jobba kvar",
-      "summary": "Flera kvinnor slog larm om att mannen i hemtjänsten utsatte dem för sexuella övergrepp. Chefen agerade inte utan istället blev mannen tillsvidareanställd. Nu pekar Gällivare kommuns egen utredning på omfattande brister.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T03:30:01+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/man-i-gallivare-hemtjanst-utsatte-fyra-kvinnor-for-overgrepp"
-        }
-      ]
-    },
-    {
-      "title": "Han satsar 250 000 på Space X: ”Besatt”",
-      "summary": "Fansen står i kö inför Space X börsnotering. En av dem som köpt aktier är värmländske Gustav. Men när värderingen närmar sig 2 000 miljarder dollar krävs mer än Musks magi för att få det att lyfta.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T03:40:12+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/43mrER/space-x-gar-till-borsen-gjorde-mig-besatt"
-        }
-      ]
-    },
-    {
-      "title": "Så mår stockholmarna",
-      "summary": "Stockholms län har två och en halv miljon invånare. Det betyder 250 miljarder hjärtslag – varje dag. Men hur länge hjärtat slår skiljer sig dramatiskt åt beroende på var man bor.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T04:00:00+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/sa-mar-stockholmarna/"
-        }
-      ]
-    },
-    {
-      "title": "Infineon to Open German Chip Fab as Part of EU Sovereignty Push",
-      "summary": "Infineon Technologies AG is preparing to open its largest single investment, a €5 billion ($5.8 billion) semiconductor factory built with the help of European Union subsidies, as the bloc seeks to boost chip production.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-12T04:00:21+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push"
-        }
-      ]
-    },
-    {
-      "title": "Förbud och varningar bet på övervikt bland barn",
-      "summary": "Genom att märka onyttiga livsmedel med varningar och förbjuda reklam riktad mot barn och unga har Chile försökt vända ökningen av barnfetma. En ny studie pekar mot att de kan ha lyckats.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-12T04:10:11+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/bO7d5v/forbud-och-varningar-bet-pa-overvikt-bland-barn?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/e7d08g/forbud-och-varningar-bet-pa-overvikt-bland-barn"
         }
       ]
     },
@@ -448,183 +257,335 @@
       ]
     },
     {
-      "title": "LISTA: Campingplatserna med flest anmälda brott",
-      "summary": "833 anmälningar – på 13 campingplatser",
-      "category": "polis",
+      "title": "Regeringen: Fler myndigheter kan få skjuta ner drönare",
+      "summary": "I dag är det bara Polismyndigheten av landets civila myndigheter som får ingripa mot fientliga drönare.",
+      "category": "sverige",
       "importance": 4,
-      "published": "2026-06-12T05:03:19+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/n1vBAQ/lista-campingplatserna-med-flest-anmalda-brott?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Polisen kände till ”attacklista” i Belfast",
-      "summary": "Adresser till fastigheter som har drabbats under de våldsamma protesterna i Belfast de senaste…",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-06-12T05:26:59+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/k0Q1w9/polisen-kande-till-attacklista-i-belfast?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Elis om tuffa tiden: ”Jag har fortfarande symptom”",
-      "summary": "Världscupsegern i Istanbul var på ett sätt bara en i raden för Elis Torhall. På ett annat var den väldigt speciell. Det var comebacken efter att han några månader tidigare slagits medvetslös vid en tävling i England.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-06-12T05:29:16+00:00",
-      "sources": [
-        {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/sport/elis-om-tuffa-tiden-jag-har-fortfarande-symptom/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Raises $2.2 Billion in Japan Slice of Record-Breaking IPO",
-      "summary": "SpaceX raised $2.2 billion from Japanese investors, according to a regulatory filing on Friday, as part of the world’s largest-ever initial public offering.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-12T05:52:50+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-raises-2-2-billion-in-japan-slice-of-record-breaking-ipo"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Makes History With Biggest-Ever IPO",
-      "summary": "SpaceX raised $75 billion in its IPO, pricing 555.6 million shares at $135 each, sending it into the top ranks of the largest public companies and putting founder Elon Musk on the verge of becoming the world’s first t...",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-12T06:22:42+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-makes-history-with-biggest-ever-ipo-video"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Governance Standards Too Weak: Danish Pension CIO",
-      "summary": "Anders Schelde, chief investment officer of AkademikerPension, a $25 billion Danish pension fund, explains his concerns about SpaceX's valuation and governance structure.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-12T06:56:07+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-governance-standards-too-weak-danish-pension-cio-video"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX’s $100 Billion Order Book Is Tiny Versus Hot Chinese IPOs",
-      "summary": "Elon Musk’s SpaceX made history with the biggest initial public offering of all time, but there’s at least one metric where the deal falls short.",
-      "category": "memes",
-      "importance": 4,
-      "published": "2026-06-12T07:27:09+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-s-100-billion-order-book-is-tiny-versus-hot-chinese-ipos"
-        }
-      ]
-    },
-    {
-      "title": "UK Tech Secretary Vows More Action on Pushing Funds to Startups",
-      "summary": "The UK’s Labour government will strengthen efforts to drive institutional funds into British tech companies, Technology Secretary Liz Kendall said, as she pledged more backing for the country’s artificial intelligence...",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-12T07:30:00+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups"
-        }
-      ]
-    },
-    {
-      "title": "Further man charged after violence at Nowak protest",
-      "summary": "A total of 22 people have been charged after violent disorder erupted in Southampton on 2 June.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-12T07:53:31+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cvgqrkd2d4zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
-      "summary": "Oil prices retreated and stocks rallied after President Trump called off plans for another day of strikes on Iran, saying that a peace deal could be within reach.",
-      "category": "polis",
-      "importance": 4,
-      "published": "2026-06-12T08:31:16+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html"
-        }
-      ]
-    },
-    {
-      "title": "Trump i natt: ”Har avslutat kriget”",
-      "summary": "USA:s president Donald Trump påstår att kriget med Iran är ”avslutat” och insisterar att länderna är nära att skriva under en avsiktsförklaring. Avtalet uppges innebära vapenvila och ytterligare samtal.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-12T08:38:57+00:00",
+      "published": "2026-06-12T04:30:06+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/5oZcmH910fHrNxC7fosx3g/trump-avslutat-kriget"
-        },
+          "url": "https://www.tv4.se/artikel/37ubk6f6UgVMigCAs7yXFU/regeringen-fler-myndigheter-ska-fa-skjuta-ner-droenare"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Shares Jump in First Day Following Record $75 Billion IPO",
+      "summary": "Shares of SpaceX climbed in their first day of trading on Friday following a $75 billion IPO that smashed records and instantly turned the crown jewel of Elon Musk’s business empire into one of the most-valuable publi...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T09:00:21+00:00",
+      "sources": [
         {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/trump-har-avslutat-kriget/"
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-ipo-spcx-prepares-for-debut-after-75-billion-ipo-smashes-record"
+        }
+      ]
+    },
+    {
+      "title": "UK Retail Investors Place $1 Billion of Orders in SpaceX IPO",
+      "summary": "Retail investors in the UK bought about $364 million worth of SpaceX shares, a small slice of the world’s largest-ever initial public offering.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T09:54:26+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/uk-retail-investors-took-just-0-5-of-spacex-s-75-billion-ipo"
+        }
+      ]
+    },
+    {
+      "title": "Protestföreningen efter Senior-beskedet: ”Ropar inte hej än”",
+      "summary": "Katti Svedberg, ordförande för föreningen SSUAM som i två års tid protesterat mot Senior Materals fabrik, gläds åt beskedet att methylenklorid inte ska användas i produktionen. Samtidigt är hon försiktig.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T10:23:28+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/sormland/protestforeningen-efter-senior-beskedet-ropar-inte-hej-an"
+        }
+      ]
+    },
+    {
+      "title": "Avtal om kvittning kollapsade i sista stund",
+      "summary": "Moderaterna och Socialdemokraterna har i veckor haft enskilda samtal för att lösa kvittningskaoset i riksdagen. Men när ett avtal skulle skrivas under kollapsade allt. Nu skyller båda sidor på varandra.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T12:37:02+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/ArpB5n/avtal-om-kvittning-kollapsade-i-sista-stund"
+        }
+      ]
+    },
+    {
+      "title": "Air India Crash Report Delayed as Investigation Continues",
+      "summary": "The final report about why an Air India Ltd. jetliner crashed last year won’t be issued by Friday’s mandatory deadline, with a government agency saying the investigation into the country’s worst commercial airline dis...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T12:59:20+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/india-delays-report-on-air-india-crash-as-probe-continues"
+        }
+      ]
+    },
+    {
+      "title": "France’s Mistral in Funding Talks at About €20 Billion Valuation",
+      "summary": "French startup Mistral AI is in talks to raise around €3 billion ($3.5 billion) at a valuation of roughly €20 billion, according to people familiar with the discussions, providing Europe’s artificial intelligence cham...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T13:00:46+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation"
+        }
+      ]
+    },
+    {
+      "title": "Fyra misstänks för grovt fornminnesbrott i Stockholmsområdet",
+      "summary": "Fyra personer som greps i veckan misstänkta för grovt fornminnesbrott i Stockholmsområdet har nu släppts – men misstankarna kvarstår. Enligt medieuppgifter handlar ärendet om en stor skatt på Mörkö utanför Södertälje.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-06-12T13:30:57+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/fyra-misstanks-for-grovt-fornminnesbrott-utanfor-sodertalje/"
+        }
+      ]
+    },
+    {
+      "title": "Studsvik ansöker om statligt stöd till kärnkraft",
+      "summary": "Kärnteknikbolaget Studsvik har ansökt om statligt stöd för att bygga reaktorer i Nyköping och Valdemarsvik, skriver regeringen i ett pressmeddelande.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T14:03:59+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/sormland/studsvik-ansoker-om-statligt-stod-till-karnkraft"
+        }
+      ]
+    },
+    {
+      "title": "Duke's Harvey on Why SpaceX’s IPO Could Distort Passive Flows",
+      "summary": "Shares of SpaceX appear ready to jump when they start trading on Friday after Elon Musk’s company made history with a $75 billion IPO that instantly turned it into one of the biggest public companies in the world.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T14:51:35+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-12/duke-s-harvey-on-why-spacex-ipo-could-distort-fund-flows-video"
+        }
+      ]
+    },
+    {
+      "title": "Watch: Four UFO videos newly declassified by US government",
+      "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-12T14:59:52+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ranelid om norska AI-skandalen: ”Lättsinne och slarv”",
+      "summary": "I boken skildras maktkampen mellan den norska fotbollschefen Lise Klaveness och Fifa-presidenten Gianni Infantino. Men uppenbara spår av AI har gjort att boken nu stoppats av det norska storförlaget Cappelen Damm.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T15:11:44+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/Y3ERYRrOjznZ7lDR3DLa4/ranelid-om-norska-ai-skandalen-laettsinne-och-slarv"
+        }
+      ]
+    },
+    {
+      "title": "Risk för ryskt anfall i ”närtid” – och pengarna räcker inte",
+      "summary": "Riksdagen: Skärpt läge för Sverige",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T15:13:09+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/M7jJQ0/forsvarsberedningen-risk-for-ryskt-anfall-i-nartid?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Three more men jailed for Henry Nowak protest violence",
+      "summary": "A total of 13 men have so far been jailed over the disorder in Southampton last week.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-12T15:13:21+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c0rynjnd2xqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Rings Nasdaq Opening Bell Before SpaceX Begins Trading",
+      "summary": "SpaceX CEO Elon Musk kicked off a dual-listed Nasdaq bell ringing ceremony in both New York and Texas on Friday morning before his company began trading. The rocket company made history with a $75 billion IPO.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T15:20:57+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-12/musk-rings-nasdaq-bell-before-spacex-begins-trading-video"
+        }
+      ]
+    },
+    {
+      "title": "Some Leftists Are Boycotting This Film. Everyone Should Watch It.",
+      "summary": "The inanity of the leftists who’d censor such a film shouldn’t distract us from the right-wing nightmare it reveals.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-12T15:37:48+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk världens första dollarbiljonär",
+      "summary": "Rymdbolaget Space X går från att vara privatägt till att bli ett offentligt bolag – där vem som helst kan köpa aktier. Intresset för aktien från har varit enormt.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T16:10:09+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/755SPiWd2wa2KImQyT7lhS/elon-musk-vaerldens-foersta-dollarbiljonaer"
         },
         {
           "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/6qX1re/trump-vi-har-avslutat-kriget?utm_medium=rss"
+          "url": "https://www.aftonbladet.se/nyheter/a/K8jKp6/musk-ar-varldens-forsta-dollarbiljonar?utm_medium=rss"
         },
         {
           "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/lnOXqy/iran-stoppat-tankfartyg-vid-hormuzsundet"
+          "url": "https://www.svd.se/a/9p6ewd/space-x-borsnoteras-varderas-till-1-8-biljoner-dollar"
         }
       ]
     },
     {
-      "title": "Det viktiga är att straffåldern faktiskt sänks – trots allt",
-      "summary": "Regeringen drar tillbaka förslaget om att 13-åringar kan få fängelse. Det finns uppgifter om att Olofsgård skulle ha röstat nej annars. Mest intressant är att straffåldern ändå lär sänkas, klokt nog.",
-      "category": "lokalt",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with hi...",
+      "category": "tech",
       "importance": 4,
-      "published": "2026-06-12T08:42:03+00:00",
+      "published": "2026-06-12T16:24:39+00:00",
       "sources": [
         {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/ledare/det-viktiga-ar-att-straffaldern-faktiskt-sanks-trots-allt/"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo"
         }
       ]
     },
     {
-      "title": "Uppdaterad 2026-06-10 15:44:49 10 juni 14.34, Trafikolycka, Vänersborg",
-      "summary": "Lastbil i singelolycka.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-10T12:57:27+00:00",
+      "title": "A trillion dollars is a stupid amount of money",
+      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T16:26:29+00:00",
       "sources": [
         {
-          "name": "Polisen VGR",
-          "url": "https://polisen.se/aktuellt/handelser/2026/juni/10/10-juni-14.34-trafikolycka-vanersborg/"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
+        }
+      ]
+    },
+    {
+      "title": "Putin Vows to Expand Starlink Rival With Aim to Step Up Attacks",
+      "summary": "Russian President Vladimir Putin said his country is expanding a constellation of domestically produced satellites as he vowed to step up strikes on Ukrainian infrastructure.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-12T16:44:55+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/putin-vows-to-expand-starlink-rival-with-aim-to-step-up-attacks"
+        }
+      ]
+    },
+    {
+      "title": "Danmark förlänger gränskontroll mot Tyskland",
+      "summary": "Den danska regeringen har beslutat att förlänga gränskontrollen mot Tyskland i ytterligare fyra…",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-12T17:13:30+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/k0QP8A/danmark-forlanger-granskontroll-mot-tyskland?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T17:26:08+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
+        }
+      ]
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T17:38:11+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Surges 11% In Public Debut | Open Interest 6/12/2026",
+      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" SpaceX explodes out of the gate, opening 11% above its IPO price after raising $75 billion and instantly making Elo...",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-12T17:58:07+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-12/open-interest-6-12-2026-video"
+        }
+      ]
+    },
+    {
+      "title": "Rick Jackson, Georgia Governor Candidate, Is Also a Film Producer Battling the IRS",
+      "summary": "Rick Jackson, a billionaire, wants to be Georgia’s next governor. But the I.R.S. has questioned how his low-budget movies turned into tax windfalls.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-12T18:53:52+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/12/us/elections/rick-jackson-georgia-governor-movies-tax.html"
         }
       ]
     },
@@ -638,19 +599,6 @@
         {
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com/news/linkedin-launches-its-eighth-puzzle-game/822571/"
-        }
-      ]
-    },
-    {
-      "title": "Irans hot: ”Kommer förvandla regionen till ett helvete”",
-      "summary": "Amerikansk attackvåg i natt • Trumps varning",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-11T05:05:24+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/kc2ofNLP5xGk1tKRDVjQL/irans-hot-kommer-foervandla-regionen-till-ett-helvete"
         }
       ]
     },
@@ -694,19 +642,6 @@
       ]
     },
     {
-      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
-      "summary": "South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-06-11T13:18:51+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/"
-        }
-      ]
-    },
-    {
       "title": "Ny rekommendation: Vänta med smarta telefoner till det år då barnet fyller 13 år",
       "summary": "Vänta med smarta telefoner till det år då barnet fyller 13 år. Det rekommenderar Folkhälsomyndigheten. Syftet är främst att minska risken för att barn utsätts för skadligt innehåll, får sömnproblem…",
       "category": "sverige",
@@ -729,19 +664,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/juni/11/11-juni-17.08-brand-goteborg/"
-        }
-      ]
-    },
-    {
-      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
-      "summary": "Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-06-11T16:00:23+00:00",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/"
         }
       ]
     },
@@ -772,19 +694,6 @@
       ]
     },
     {
-      "title": "Viral Redraw Meme Offers The Only Answer To Someone Calling You Out When Your Bra Strap Is Showing",
-      "summary": "Your Bra Strap Is Showing is a redraw meme format based on a comic where someone tells a girl wearing an off-the-shoulder shirt, \"Your bra strap is showing,\" and the girl, annoyed, lifts her shirt to show her whole br...",
-      "category": "memes",
-      "importance": 3,
-      "published": "2026-06-11T16:21:06+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/your-bra-strap-is-showing"
-        }
-      ]
-    },
-    {
       "title": "A 'Teen Titans GO' Meme Referencing A Classic 'Planes, Trains And Automobiles' Scene Goes Viral",
       "summary": "Robin Brushing His Teeth is a series of memes based on a scene from Teen Titans GO! where Robin turns into the devil while getting into a near-car accident while driving with Cyborg, then starts brushing his teeth whi...",
       "category": "memes",
@@ -798,19 +707,6 @@
       ]
     },
     {
-      "title": "What Is The 'Grubverse' And Why has this tiktok User Been Posting About it For Five Years? Salad Woman Explained",
-      "summary": "Salad Woman or The Grubverse refers to a fictional fandom surrounding characters depicted in the Grubhub 'Delivery Dance' Ad that went viral in 2020.",
-      "category": "social",
-      "importance": 3,
-      "published": "2026-06-11T18:39:03+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/salad-woman-the-grubverse"
-        }
-      ]
-    },
-    {
       "title": "11 juni 21.31, Övrigt, Västra Götalands län",
       "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
       "category": "polis",
@@ -820,19 +716,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/juni/11/11-juni-21.31-ovrigt-vastra-gotalands-lan/"
-        }
-      ]
-    },
-    {
-      "title": "USA:s ekonomi hotas av smäll – om sex år",
-      "summary": "WASHINGTON. Trots tullkaos och krig går den amerikanska ekonomin som tåget. Bnp växer med två procent per år och börserna slår nya rekord.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-06-11T19:40:37+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/usas-ekonomi-hotas-av-small-om-sex-ar/"
         }
       ]
     },
@@ -863,23 +746,6 @@
       ]
     },
     {
-      "title": "SpaceX Prices IPO Shares in Biggest Debut Ever | The Close 6/11/2026",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-06-11T22:23:24+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-11/the-close-6-11-2026-video"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
-        }
-      ]
-    },
-    {
       "title": "LinkedIn outlines effective B2B marketing strategies",
       "summary": "A new report in partnership with Bain & Company suggested that brands need to win over key decision makers to drive revenue.",
       "category": "polis",
@@ -889,87 +755,6 @@
         {
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com/news/linkedin-outlines-effective-b2b-marketing-strategies/822753/"
-        }
-      ]
-    },
-    {
-      "title": "Svenskar kastade sten mot Ryssland – straffas",
-      "summary": "Tre svenska medborgare har bötfällts i Norge efter att ha kastat sten över gränsen till Ryssland.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-11T23:17:27+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/utrikes/svenskar-kastade-sten-mot-ryssland-straffas"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/k0QXjQ/svenskar-kastade-sten-mot-ryssland?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/d4kP9q/svenskar-kastade-sten-mot-ryssland"
-        }
-      ]
-    },
-    {
-      "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
-      "summary": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-06-11T23:30:00+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender"
-        }
-      ]
-    },
-    {
-      "title": "Flera barn döda i olycka i Nederländerna",
-      "summary": "Fyra personer, varav tre barn, har omkommit i en trafikolycka i Nederländerna under torsdagen, rapporterar RTL.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-12T03:15:10+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JOBM94/flera-barn-doda-i-nederlanderna?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/JOBMKP/flera-barn-doda-i-olycka-i-nederlanderna"
-        }
-      ]
-    },
-    {
-      "title": "Thailändsk prinsessa död efter tre år i koma",
-      "summary": "Bajrakitiyabha Narendiradebyavati sågs som arvtagare till Thailands tron. Sedan kollapsade prinsessan. Efter fyra år i koma har 47-åringen nu avlidit, skriver Bangkok Post .",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-12T03:57:06+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/PRINSESSAN%20KNÄ"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/lnOXdy/thailandsk-prinsessa-dod-efter-tre-ar-i-koma?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "China's Regulatory Ceasefire Is Over, Gavekal Says",
-      "summary": "Tilly Zhang, China technology and industrial policy analyst at Gavekal Dragonomics, says Beijing's latest regulatory actions differ from its 2021 campaign, with greater emphasis on law enforcement.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-06-12T04:44:08+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-12/china-s-regulatory-ceasefire-is-over-gavekal-says-video"
         }
       ]
     },
@@ -987,15 +772,15 @@
       ]
     },
     {
-      "title": "Svenskan överlägsen i collegemästerskapen",
-      "summary": "Hon satte svenskt rekord för en knapp månad sedan. I collegemästerskapen i USA vann Axelina Johansson från Skillingaryd överlägset.",
-      "category": "lokalt",
+      "title": "Grooming survivors left with criminal records still being failed, BBC told",
+      "summary": "Victims who were abused and prosecuted as children are still being failed, says grooming report author.",
+      "category": "world",
       "importance": 3,
-      "published": "2026-06-12T05:20:20+00:00",
+      "published": "2026-06-12T05:03:32+00:00",
       "sources": [
         {
-          "name": "Jonkopingsposten",
-          "url": "https://www.jp.se/sport/svenskan-overlagsen-i-collegemasterskapen/"
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -1013,96 +798,311 @@
       ]
     },
     {
-      "title": "Bulgarien stoppar vapenleveranser till Ukraina",
-      "summary": "Bulgarien har beslutat att stoppa vapenleveranserna från sin egen armés lager till Ukraina.",
-      "category": "polis",
+      "title": "What do Puerto Ricans think of the viral song about their homeland?",
+      "summary": "People from Puerto Rico reflect on how the catchy tune has attracted attention to where they live.",
+      "category": "memes",
       "importance": 3,
-      "published": "2026-06-12T05:32:25+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=3a3b4127-f4df-4930-809a-d7132f990838"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/JOBGOJ/bulgarien-stoppar-vapenleveranser-till-ukraina?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Krigsslut ”nära” igen – så har Trump svängt",
-      "summary": "Ena dagen sades ett avtal vara nära. Nästa föll bomberna i Mellanöstern igen. Nu påstår Donald Trump, återigen, att kriget är slut.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-06-12T05:35:12+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ArpWrM/krigsslut-nara-igen-sa-har-trump-svangt?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/pBGmBj/krigsslut-nara-igen-sa-har-trump-svangt"
-        }
-      ]
-    },
-    {
-      "title": "EU:s asylpakt träder i kraft – svensk lag saknas",
-      "summary": "Fingeravtryck från alla som söker asyl och kollektiva boenden på mottagnings- och återvändandecenter. Nu införs EU:s nya migrations- och asylpakt, men i Sverige släpar delar av den nationella lagstiftningen efter.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-12T05:44:29+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/XMdn97/eu-s-asylpakt-trader-i-kraft-svensk-lag-saknas?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/j0KMve/eu-s-asylpakt-trader-i-kraft-svensk-lag-saknas"
-        }
-      ]
-    },
-    {
-      "title": "”Brist på kompetens” inom försvarsindustrin",
-      "summary": "Försvarsindustrin håller inte måttet, enligt Försvarsberedningen. Kvaliteten och kompetensen måste höjas och försvaret måste hitta fler leverantörer, uppger beredningen i en rapport.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-12T06:38:10+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/wrK5nG/geopolitisk-maktkamp-har-tilltagit?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/K8jkW4/geopolitisk-maktkamp-har-tilltagit"
-        }
-      ]
-    },
-    {
-      "title": "Blodiga skräcken i  vattnet – attackeras",
-      "summary": "Desperata skriken: ”Hjälp!!!” • Varning för starka bilder",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-12T07:15:56+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/tv/nyheter/varlden/blodiga-skracken-i-vattnet-attackeras/"
-        }
-      ]
-    },
-    {
-      "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-      "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
-      "category": "tech",
-      "importance": 3,
-      "published": "2026-06-12T08:45:05+00:00",
+      "published": "2026-06-12T05:34:56+00:00",
       "sources": [
         {
           "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Rapport: Ryska framstötar mot Nato ”i relativ närtid”",
+      "summary": "Enligt Försvarsberedningen finns en risk för en snabb försämring av det säkerhetspolitiska läget, uppger de i en ny rapport.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-06-12T08:59:55+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/47qfvYyG6oDWQMfUQHxVnL/rapport-ryska-framstoetar-mot-nato-i-relativ-naertid"
+        }
+      ]
+    },
+    {
+      "title": "Senior Material skrotar metylenklorid – lanserar ny teknik",
+      "summary": "Senior Material i Eskilstuna skrotar planerna på att använda den omstridda kemikalien metylenklorid. Det meddelar företaget på fredagen. Istället ska man lansera en ny teknik.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-12T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/sormland/senior-material-skrotar-metylenklorid-lanserar-ny-teknik"
+        }
+      ]
+    },
+    {
+      "title": "Här jagar Idriz världsrekordet – måste äta över 200 sushibitar",
+      "summary": "Han är Mönsteråskillen som har gjort att äta sushi till en sport. SVT fick följa med när han gav sig på att slå det inofficiella världsrekordet på 201 bitar sushi. Se i klippet ovan hur det går.",
+      "category": "memes",
+      "importance": 3,
+      "published": "2026-06-12T09:45:53+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/smaland/har-jagar-idriz-varldsrekordet-maste-ata-over-200-sushibitar"
+        }
+      ]
+    },
+    {
+      "title": "Uppdaterad 2026-06-12 13:10:52 12 juni 13.05, Trafikolycka, Jönköping",
+      "summary": "Trafikolycka E4 norrgående Huskvarna",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T13:16:34+00:00",
+      "sources": [
+        {
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-13.05-trafikolycka-jonkoping/"
+        },
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-15.16-trafikolycka-falkoping/"
+        }
+      ]
+    },
+    {
+      "title": "Problem med Facebook",
+      "summary": "Metas tjänster låg nere",
+      "category": "social",
+      "importance": 3,
+      "published": "2026-06-12T14:14:29+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=1136fa76-9281-4f59-879a-20670c587827"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/6qXe2W/problem-med-facebook"
+        }
+      ]
+    },
+    {
+      "title": "12 juni 14.37, Trafikhinder, Trollhättan",
+      "summary": "Personbil fått stopp på Stallbackabron.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T15:34:20+00:00",
+      "sources": [
+        {
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-16.52-trafikhinder-jonkoping/"
+        },
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-14.37-trafikhinder-trollhattan/"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Begins Trading on the Nasdaq After Record IPO",
+      "summary": "SpaceX is now trading. The stock sold for $150 in its opening trade on Nasdaq at 11:46 a.m. in New York, 11% above its $135 offering price, and climbed as high as $168.75 in the first few minutes.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-06-12T16:16:17+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-begins-trading-on-the-nasdaq-after-record-ipo-video"
+        }
+      ]
+    },
+    {
+      "title": "Medlare: Iran och USA överens om detaljer i fredsavtal",
+      "summary": "USA och Iran är överens om detaljerna i ett utkast till ett fredsavtal, det meddelar medlarlandet Pakistan. ”Freden har aldrig varit så nära som den är nu” skriver Pakistans premiärminister Shehbaz Sharif på X.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T16:29:39+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/3vElZVqQ51eQP0enmhqumV/trump-rasar-mot-iran-mycket-ohederliga-maenniskor"
+        },
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/trump-avfardar-uppgifter-iran-ar-oarliga/"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/PdjLpJ/pakistan-fredsavtal-klart-mellan-usa-och-iran"
+        }
+      ]
+    },
+    {
+      "title": "13-årsgräns för smarta telefoner: ”Exkluderande”",
+      "summary": "Barn under 13 år bör inte ha en smart telefon, enligt Folkhälsomyndigheten. Den nya rekommendationen är inte enbart bra, menar Internetstiftelsen.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T16:58:16+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/3pmKBP/13-arsgrans-for-smarta-telefoner-exkluderande?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/j0Kn3w/13-arsgrans-for-smarta-telefoner-exkluderande"
+        }
+      ]
+    },
+    {
+      "title": "12 juni 17.53, Trafikolycka, Gislaved",
+      "summary": "Larm inkommer om en trafikolycka på länsväg 190 vid Rågården. Det ska vara två personbilar som kolliderat.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T16:58:25+00:00",
+      "sources": [
+        {
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-17.53-trafikolycka-gislaved/"
+        },
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/12/12-juni-11.02-trafikolycka-goteborg/"
+        }
+      ]
+    },
+    {
+      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+      "summary": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-06-12T17:05:06+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/"
+        }
+      ]
+    },
+    {
+      "title": "Avtal mellan Iran och USA uppges vara klart",
+      "summary": "Ett avtal mellan USA och Iran har aldrig varit närmare, enligt Irans utrikesminister Abbas Araghchi.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-12T17:32:45+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/varlden/usa-och-iran-nara-avtal-/"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/d4kQ71/usa-iran-fred-har-aldrig-varit-sa-nara-som-nu"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Is the World's First Trillionaire",
+      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-06-12T18:46:40+00:00",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer"
+        },
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-12/elon-musk-is-the-world-s-first-trillionaire-video"
+        }
+      ]
+    },
+    {
+      "title": "Instagram extends Your Algorithm to the main feed",
+      "summary": "The feature allows users to customize their feeds and choose what topics they’re interested in based on individual in-app activity.",
+      "category": "social",
+      "importance": 2,
+      "published": "2026-06-10T21:11:39+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/instagram-extends-your-algorithm-to-the-main-feed/822576/"
+        }
+      ]
+    },
+    {
+      "title": "Pinterest adds Amazon Storefront linking",
+      "summary": "Eligible creators can now include affiliate links in the Pins, allowing their followers to easily shop products directly from the app.",
+      "category": "tech",
+      "importance": 2,
+      "published": "2026-06-10T21:17:49+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/pinterest-adds-amazon-storefront-linking/822578/"
+        }
+      ]
+    },
+    {
+      "title": "Snapchat announces activations for FIFA World Cup 2026",
+      "summary": "The app will offer new in-app fan gear, themed Lenses, exclusive player insights and creator coverage of the games.",
+      "category": "social",
+      "importance": 2,
+      "published": "2026-06-10T21:29:14+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/snapchat-announces-activations-for-fifa-world-cup-2026/822580/"
+        }
+      ]
+    },
+    {
+      "title": "From Content to Conversion: TikTok’s New All-in-One Funnel Tools",
+      "summary": "Looking for native TikTok tools to make marketing content faster? Wondering how to capture more traffic and direct sales from TikTok search? In this article, you'll discover how to use TikTok’s latest features to impr...",
+      "category": "social",
+      "importance": 2,
+      "published": "2026-06-11T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "Social Media Examiner",
+          "url": "https://www.socialmediaexaminer.com/from-content-to-conversion-tiktoks-new-all-in-one-funnel-tools/"
+        }
+      ]
+    },
+    {
+      "title": "(June 11) 2026 TikTok trends you can’t miss",
+      "summary": "The post (June 11) 2026 TikTok trends you can’t miss appeared first on SocialBee . The post (June 11) 2026 TikTok trends you can’t miss appeared first on SocialBee .",
+      "category": "memes",
+      "importance": 2,
+      "published": "2026-06-11T12:28:19+00:00",
+      "sources": [
+        {
+          "name": "SocialBee",
+          "url": "https://socialbee.com/blog/tiktok-trends/"
+        }
+      ]
+    },
+    {
+      "title": "Top 13 Customer Service Tools for a Successful 2026",
+      "summary": "In 2026 and beyond, excellent customer service is not just necessary for your business to thrive, but it can also be your most powerful brand asset.",
+      "category": "polis",
+      "importance": 2,
+      "published": "2026-06-11T13:37:41+00:00",
+      "sources": [
+        {
+          "name": "NapoleonCat",
+          "url": "https://napoleoncat.com/blog/customer-service-tools/"
+        }
+      ]
+    },
+    {
+      "title": "The 'Drooling Cat' Meme Explained",
+      "summary": "Subscribe to our channel https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw?sub_confirmation=1 #meme #memes #memesvideos",
+      "category": "memes",
+      "importance": 2,
+      "published": "2026-06-11T14:24:21+00:00",
+      "sources": [
+        {
+          "name": "KnowYourMeme",
+          "url": "https://knowyourmeme.com/videos/438792-drooling-cat-crowd-of-drooling-cats"
         }
       ]
     }
