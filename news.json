@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-06-22T20:10:43.675968+00:00",
+  "last_updated": "2026-06-23T08:22:17.780250+00:00",
   "article_count": 80,
   "articles": [
-    {
-      "title": "Chefskrisen på Sus växer – nytt upprop mot verksamhetschefen",
-      "summary": "Sjukhusprotesten på Skånes universitetssjukhus sprider sig. Nu protesterar även 27 medarbetare vid kliniska forskningsenheten inom hematologi, onkologi och strålningsfysik (HOS) mot verksamhetschefen Silke Engelholm.",
-      "category": "memes",
-      "importance": 5,
-      "published": "2026-06-22T06:57:49+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/skane/chefskrisen-pa-sus-vaxer-nytt-upprop-mot-verksamhetschefen"
-        }
-      ]
-    },
     {
       "title": "Ny rekommendation: Tillåtet att begravas med husdjurets aska",
       "summary": "Bakgrunden till den nya rekommendationen är bland annat pandemin, då många, särskilt äldre, skaffade husdjur som sällskap.",
@@ -25,19 +12,6 @@
         {
           "name": "TV4",
           "url": "https://www.tv4.se/artikel/dsvTJjWv8UnqojXlWane5/nu-blir-det-tillatet-att-begravas-med-husdjurets-aska"
-        }
-      ]
-    },
-    {
-      "title": "LKAB hjälper Kiruna kommun ur krisen – satsar 1,8 miljarder",
-      "summary": "LKAB går in med insatser värda 1,8 miljarder kronor för att hjälpa Kiruna kommun för att rädda den ekonomiska situationen i kommunen.",
-      "category": "lokalt",
-      "importance": 5,
-      "published": "2026-06-22T07:41:32+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/lkab-hjalper-kiruna-kommun-ur-krisen-satsar-18-miljarder"
         }
       ]
     },
@@ -55,45 +29,6 @@
       ]
     },
     {
-      "title": "Kristerssons dolda handikapp – och rädslan för hjärntumören",
-      "summary": "Kristersson om sitt dolda handikapp",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-22T13:55:28+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/vrwjnL/kristerssons-dolda-handikapp-och-radslan-for-hjarntumoren?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Håll i er – nu seglar Ebba Busch i väg",
-      "summary": "VISBY. Sin vana trogen tar Ebba Busch över showen innan den ens har börjat. Tidösamarbetets mor och anläggningstekniker tänker inte spela med i Ulf Kristerssons och Jimmie Åkessons dödsdömda valrörelse.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-22T14:27:53+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/hall-i-er-nu-seglar-ebba-busch-i-vag/"
-        }
-      ]
-    },
-    {
-      "title": "Buschs benhårda nej till Andersson: ”Skadlig för Sverige”",
-      "summary": "På måndagen samlade Kristdemokraterna till en pressträff på Donners plats i centrala Visby.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-22T14:28:33+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/2PTJEcmYUdq8CWyKFCOww2/buschs-benharda-nej-till-andersson-om-himlen-ramlar-ner"
-        }
-      ]
-    },
-    {
       "title": "How Remote Work Has Helped a Generation of Working Parents",
       "summary": "Post-pandemic, a new openness to accommodating family needs has made it possible for more mothers and fathers to balance work and parenting — particularly mothers of young children.",
       "category": "world",
@@ -103,75 +38,6 @@
         {
           "name": "New York Times",
           "url": "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"
-        }
-      ]
-    },
-    {
-      "title": "Alan Greenspan, Fed Chairman Through Prosperity and Crisis, Dies at 100",
-      "summary": "The pre-eminent economic policymaker of his time and a skilled political operator, he favored market-friendly stances that would later come to be associated with destructive financial forces.",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-06-22T15:04:07+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/22/us/alan-greenspan-dead.html"
-        }
-      ]
-    },
-    {
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-      "category": "world",
-      "importance": 5,
-      "published": "2026-06-22T15:15:42+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Helena Lindblad: Regeringen kastar bort filmutredningen – bara ideologi och floskler är kvar",
-      "summary": "Uteblivna satsningar och urvattnade löften är regeringens lösning på den djupaste svenska filmkrisen i mannaminne.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-22T15:16:05+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/kultur/helena-lindblad-regeringen-kastar-bort-filmutredningen-bara-ideologi-och-floskler-ar-kvar/"
-        }
-      ]
-    },
-    {
-      "title": "Långt fängelsestraff för spansk ex-minister – nyval rycker närmare",
-      "summary": "Spaniens högsta domstol dömde på måndagen två personer till stränga straff för sina roller i bedrägerier under coronapandemin.",
-      "category": "sverige",
-      "importance": 5,
-      "published": "2026-06-22T16:44:44+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/langt-fangelsestraff-for-spansk-ex-minister-nyval-rycker-narmare/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "summary": "SpaceX has inked a multibillion-dollar agreement to provide computing resources to artificial intelligence startup Reflection AI, the latest in a string deals from Elon Musk’s firm as it vies to become an AI infrastru...",
-      "category": "tech",
-      "importance": 5,
-      "published": "2026-06-22T16:51:29+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"
         }
       ]
     },
@@ -189,15 +55,114 @@
       ]
     },
     {
-      "title": "Man charged with terrorism-linked attempted murders in Edinburgh",
-      "summary": "Lewis Hawkes appeared at Edinburgh Sheriff Court charged with five counts of attempted murder.",
-      "category": "polis",
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more.",
+      "category": "tech",
       "importance": 5,
-      "published": "2026-06-22T18:28:43+00:00",
+      "published": "2026-06-22T21:07:14+00:00",
       "sources": [
         {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&at_campaign=rss"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis"
+        }
+      ]
+    },
+    {
+      "title": "Kristerssons dolda handikapp – och rädslan för hjärntumören",
+      "summary": "Kristersson om sitt dolda handikapp",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-22T22:20:38+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/vrwjnL/kristerssons-dolda-handikapp-och-radslan-for-hjarntumoren?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Säpo: Iran fortsätter värva unga för attentat",
+      "summary": "Terrorhotet mot Sverige är fortfarande förhöjt, enligt Säkerhetspolisen. Säpo varnar för att Iran fortsätter att rekrytera ungdomar med gängkopplingar för att slå mot mål i Sverige.",
+      "category": "polis",
+      "importance": 5,
+      "published": "2026-06-23T03:41:47+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/sapo-iran-fortsatter-varva-unga-for-attentat/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/OkWgmA/sapo-iran-fortsatter-varva-unga-for-attentat?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/43ROVe/sapo-iran-fortsatter-varva-unga-for-attentat"
+        }
+      ]
+    },
+    {
+      "title": "M:s skräcksiffra: Sämsta resultatet på över sju år",
+      "summary": "Moderaterna faller till sin lägsta nivå på över sju år, enligt nya siffror från SvD/Demoskop. Samtidigt fortsätter Kristdemokraterna att öka och når den högsta noteringen sedan strax före valet 2022.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-23T04:00:10+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/43RovV/matning-fran-svd-demoskop-moderaterna-far-samsta-resultatet-pa-over-sju-ar"
+        }
+      ]
+    },
+    {
+      "title": "Ulf Kristersson tappar i förtroende – Andersson drar ifrån",
+      "summary": "Väljarnas förtroende för statsminister Ulf Kristersson (M) sviktar. I Verians mätning i juni tappar Moderatledaren – medan Socialdemokraternas Magdalena Andersson drar iväg åt motsatt håll.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-23T04:02:46+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/inrikes/ulf-kristersson-tappar-i-fortroende-andersson-drar-ifran"
+        }
+      ]
+    },
+    {
+      "title": "Försprång för Andersson",
+      "summary": "Ny mätning: Förtroendet för Kristersson minskar",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-23T04:44:19+00:00",
+      "sources": [
+        {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=c7a2358b-cb53-4f8c-94b5-783b9a08f191"
+        }
+      ]
+    },
+    {
+      "title": "Kristofer Ahlström: Amanda Romare prickar in både det sämsta och näst sämsta med Sommar",
+      "summary": "När hon inte befinner sig i sitt eget huvud är Amanda Romare på Bjärehalvön, men båda delarna är lika utmattande. Bara berättelsen om systern ger lindring. DN:s Kristofer Ahlström har lyssnat.",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-23T05:01:14+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/kultur/kristofer-ahlstrom-amanda-romare-prickar-in-bade-det-samsta-och-nast-samsta-med-sommar/"
+        }
+      ]
+    },
+    {
+      "title": "KD vill lagstifta om minskade barngrupper",
+      "summary": "Kristdemokraterna vill lagstifta om ett maxtak på tolv barn för barngrupper mellan noll och tre år…",
+      "category": "sverige",
+      "importance": 5,
+      "published": "2026-06-23T05:50:42+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ln9Ky7/kd-vill-lagstifta-om-minskade-barngrupper?utm_medium=rss"
         }
       ]
     },
@@ -215,41 +180,15 @@
       ]
     },
     {
-      "title": "Åratal av larm – ändå skrev Region Skåne fem nya miljonavtal med Avarn",
-      "summary": "Gång på gång larmade medarbetare om allvarliga brister i bevakningen av de skånska sjukhusen.",
-      "category": "polis",
+      "title": "SpaceX Falls for Third Day, Erases $600 Billion in Market Value",
+      "summary": "SpaceX shares slipped for a third straight day, shedding hundreds of billions of dollars in market value, after the Elon Musk-led company said it is selling investment-grade bonds for the first time, part of what’s ex...",
+      "category": "tech",
       "importance": 4,
-      "published": "2026-06-22T03:30:06+00:00",
+      "published": "2026-06-22T08:52:07+00:00",
       "sources": [
         {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/helsingborg/trots-ar-av-larm-om-sakerhetsbrister-region-skane-forlangde-avtalet-med-avarn-fem-ganger"
-        }
-      ]
-    },
-    {
-      "title": "Guide: Almedalen 2026 – få koll på veckan",
-      "summary": "Det är bara månader kvar till valet och dags för den årliga Almedalsveckan i Visby. Måndag 22 juni invigs veckan med att ungdomsförbunden har debatt.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-22T07:24:22+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/inrikes/guide-almedalen-2026-fa-koll-pa-veckan"
-        }
-      ]
-    },
-    {
-      "title": "A defender's view on how to stop the World Cup's best strikers",
-      "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-22T08:10:21+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss"
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens"
         }
       ]
     },
@@ -280,32 +219,6 @@
       ]
     },
     {
-      "title": "How England's Madueke went from rejection by club fans to World Cup starter",
-      "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-22T10:47:17+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Readies Its $20 Billion Bond Debut to Fund AI Ambition",
-      "summary": "SpaceX is selling investment-grade bonds for the first time in what’s expected to be the start of a massive borrowing spree to fund the company’s AI ambitions following its record $75 billion IPO.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-22T12:15:49+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering"
-        }
-      ]
-    },
-    {
       "title": "Branschens reaktioner på regeringens nya filmpolitik",
       "summary": "Kritiken från branschen är hård efter att regeringen presenterat sitt förslag till ny filmpolitik. – Det betyder att vi cementerar oss i Europas bottenskikt, säger Eva Hamilton, ordförande för Film & tv-producenterna.",
       "category": "polis",
@@ -332,123 +245,6 @@
       ]
     },
     {
-      "title": "Sex avgångar på tio år – här är premiärministrarna som har lämnat Downing Street",
-      "summary": "Skandaler och dalande opinionssiffror har skakat Downing Street i ett decennium. Under måndagen blev Keir Starmer den sjätte premiärministern att lämna Downing Street sedan 2016.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-22T14:45:37+00:00",
-      "sources": [
-        {
-          "name": "Dagens Nyheter",
-          "url": "https://www.dn.se/varlden/sex-avgangar-pa-tio-ar-har-ar-premiarministrarna-som-har-lamnat-downing-street/"
-        }
-      ]
-    },
-    {
-      "title": "Kazakh $1 Billion Fund Backs Startups as Region Lures Investment",
-      "summary": "Kazakhstan’s Alem Capital Management anchored a regional venture capital fund backing technology startups across Central Asia and the Caucasus.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-22T15:19:03+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-22/kazakh-1-billion-fund-backs-startups-as-region-lures-investment"
-        }
-      ]
-    },
-    {
-      "title": "How AI Is Reshaping Retail Discounts",
-      "summary": "Upside Co-Founder and CEO Alex Kinnier joins Bloomberg Open Interest to explain why American consumers are feeling squeezed despite falling gas prices, reveals what transaction data says about spending habits.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-22T15:20:31+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-22/how-ai-is-reshaping-retail-discounts-video"
-        }
-      ]
-    },
-    {
-      "title": "Toppchef lämnar Sus efter läkarprotest",
-      "summary": "Silke Engelholm lämnar sitt uppdrag som verksamhetschef vid Skånes universitetssjukhus. Det efter att över hundra läkare krävt hennes avgång.",
-      "category": "memes",
-      "importance": 4,
-      "published": "2026-06-22T16:14:56+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/q6m6ym/silke-engelholm-lamnar-sus-efter-lakarprotester"
-        }
-      ]
-    },
-    {
-      "title": "Starmer's premiership in six charts",
-      "summary": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024.",
-      "category": "world",
-      "importance": 4,
-      "published": "2026-06-22T17:04:12+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nya höghastighetståg",
-      "summary": "SJ köper tåg för miljarder",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-22T17:07:19+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=d9e7d078-e387-4916-bbad-e3c7318bf1c7"
-        }
-      ]
-    },
-    {
-      "title": "AI-Services Startup Baseten Nabs $13 Billion Valuation",
-      "summary": "Baseten, which provides software and computing capacity to companies tapping into lower-cost AI models, just closed a $1.5 billion Series F round at a $13 billion valuation.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-22T18:02:10+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-22/ai-services-startup-baseten-nabs-13-billion-valuation-video"
-        }
-      ]
-    },
-    {
-      "title": "Efter lång väntan – är det här allt?",
-      "summary": "Under måndagen presenterades regeringens nya filmpolitiska proposition. Men frågan om en ny finansieringsmodell för svensk film fortsätter att skjutas på framtiden.",
-      "category": "sverige",
-      "importance": 4,
-      "published": "2026-06-22T18:05:14+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/V6j61J/parisa-liljestrands-kapphast-raddar-inte-svenska-filmkrisen"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Kicks Off High-Grade Bond Sale | Bloomberg Tech 6/22/2026",
-      "summary": "Bloomberg’s Ed Ludlow breaks down SpaceX's first-ever investment-grade bond offering following its record-breaking IPO. Plus, Micron strikes an AI Infrastructure agreement with Anthropic to drive enterprise AI adoption.",
-      "category": "tech",
-      "importance": 4,
-      "published": "2026-06-22T18:06:49+00:00",
-      "sources": [
-        {
-          "name": "Bloomberg Tech",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-22/bloomberg-tech-6-22-2026-video"
-        }
-      ]
-    },
-    {
       "title": "Två män åtalas för hot – kopplas till nazistiska Aktivklubb",
       "summary": "Nazistiska Aktivklubb Sverige kopplas till ett nytt brott i Stockholms tunnelbana.",
       "category": "polis",
@@ -462,28 +258,236 @@
       ]
     },
     {
-      "title": "Uppdaterad 2026-06-21 07:04:21 21 juni 00.50, Brand, Svenljunga",
-      "summary": "Våldsam brand i villa",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-21T00:44:54+00:00",
+      "title": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.",
+      "summary": "Artificial intelligence programs can spot patterns in electrocardiograms that humans miss. Now, one program is going to be widely available — for free — to doctors.",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-22T21:00:06+00:00",
       "sources": [
         {
-          "name": "Polisen VGR",
-          "url": "https://polisen.se/aktuellt/handelser/2026/juni/21/21-juni-00.50-brand-svenljunga/"
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/health/artificial-intelligence-heart-damage.html"
         }
       ]
     },
     {
-      "title": "21 juni 07.06, Sammanfattning kväll och natt, Västra Götalands län",
-      "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-21T05:06:40+00:00",
+      "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
+      "summary": "Qualcomm Inc. is in advanced talks to acquire Modular Inc. in a transaction valuing the artificial intelligence infrastructure software company at about $4 billion, according to people familiar with the matter.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-22T21:03:00+00:00",
       "sources": [
         {
-          "name": "Polisen VGR",
-          "url": "https://polisen.se/aktuellt/handelser/2026/juni/21/21-juni-07.06-sammanfattning-kvall-och-natt-vastra-gotalands-lan/"
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular"
+        }
+      ]
+    },
+    {
+      "title": "Media Consolidation in Its ‘Middle Innings’: Tom Ara",
+      "summary": "Tom Ara, Weil, Gotshal & Manges Entertainment, Sport & Media Head, discusses significant mergers and acquisitions in Hollywood during the first half of 2026.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-22T21:05:15+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-22/media-consolidation-in-its-middle-innings-tom-ara-video"
+        }
+      ]
+    },
+    {
+      "title": "Vimeo Parent Bending Spoons, Backers Seek $1.62 Billion in IPO",
+      "summary": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers are seeking to raise as much as $1.62 billion in an initial public offering.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-22T21:40:10+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-22/vimeo-parent-bending-spoons-backers-seek-1-62-billion-in-ipo"
+        }
+      ]
+    },
+    {
+      "title": "WiseTech Chairman White Denies Human Trafficking Involvement",
+      "summary": "WiseTech Global Ltd. said Chairman Richard White has denied being involved in human trafficking after reports that the billionaire is being investigated by police over claims he used a woman’s immigration status for sex.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-22T22:48:41+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-22/wisetech-says-founder-white-denies-human-trafficking-involvement"
+        }
+      ]
+    },
+    {
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-22T22:59:57+00:00",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Fall Continues, Erasing Billions in Market Value",
+      "summary": "SpaceX shares slipped for a third straight day, shedding hundreds of billions of dollars in market value, after the company said it is selling investment-grade bonds for the first time.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-23T00:40:26+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-23/spacex-fall-continues-erasing-billions-in-market-value-video"
+        }
+      ]
+    },
+    {
+      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+      "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-23T02:21:14+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Neita, 99, har gärna både män och kvinnor från hemtjänsten",
+      "summary": "Frågan om att äldre ska få välja hemtjänstpersonal utifrån kön är omdiskuterad i valrörelsen – inte minst efter vårdskandalen i Uppsala förra året.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-23T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "SVT",
+          "url": "https://www.svt.se/nyheter/lokalt/uppsala/neita-99-har-garna-bade-man-och-kvinnor-fran-hemtjansten"
+        }
+      ]
+    },
+    {
+      "title": "Skyldig 300 miljoner – blev idol på Tiktok",
+      "summary": "Efter Allraskandalen dömdes Alexander Ernstberger till sex års fängelse, tio års näringsförbud och hundratals miljoner i skadestånd. Då händer något oväntat.",
+      "category": "social",
+      "importance": 4,
+      "published": "2026-06-23T03:37:38+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/XMdxMo/skyldig-300-miljoner-blev-idol-pa-tiktok"
+        }
+      ]
+    },
+    {
+      "title": "”För vissa är han en farlig förebild”",
+      "summary": "Hur blir en dömd ekobrottsling en förebild för unga män? Det är frågan i fokus i SvD och Podmes nya Badfluence-serie om Alexander Ernstberger.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-23T03:38:09+00:00",
+      "sources": [
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/XMWbKg/alexander-ernstberger-fran-fangelse-till-grischikon"
+        }
+      ]
+    },
+    {
+      "title": "A Golden Boot race for the ages - but who will come out on top?",
+      "summary": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-23T03:56:28+00:00",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Europe Sees 6 Billion Reasons for New Levy on Online Shoppers",
+      "summary": "Bargain-hunting consumers across the European Union will start feeling the pinch of higher online shopping costs next week when a new levy primarily targeting China comes into force, adding a layer of trade friction b...",
+      "category": "world",
+      "importance": 4,
+      "published": "2026-06-23T04:00:00+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers"
+        }
+      ]
+    },
+    {
+      "title": "Billionaire Sex-For-Visa Claim at WiseTech Tests Investor Limits",
+      "summary": "Allegations that WiseTech Global Ltd.’s billionaire chairman, Richard White, took advantage of a woman’s immigration status for sex are testing the patience of the Australian software company’s shareholders.",
+      "category": "tech",
+      "importance": 4,
+      "published": "2026-06-23T05:02:29+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits"
+        }
+      ]
+    },
+    {
+      "title": "Mohamsson om usla läget: ”Släpper på valdagen”",
+      "summary": "Liberalerna har länge legat under riksdagsspärren i opinionsmätningarna, men partiledaren Simona Mohamsson tror att saker kommer att förändras i höst.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-23T07:05:36+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/OTrQYwdriLQDTiAhwithF/liberalerna-pressade-mohamsson-slaepper-pa-valdagen"
+        }
+      ]
+    },
+    {
+      "title": "Utländsk finansiering av trossamfund ska kunna stoppas",
+      "summary": "Regeringen vill få bättre kontroll över utländsk finansiering som kan kopplas till extremism eller andra antidemokratiska syften.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-23T07:39:10+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/6s88yhORnmNt1syeeGmOTn/foereslar-foerbud-mot-viss-utlaendsk-finansiering-av-trossamfund"
+        }
+      ]
+    },
+    {
+      "title": "Talibanerna på väg till Bryssel – på svenskt initiativ",
+      "summary": "BRYSSEL/STOCKHOLM. Efter påtryckningar av den svenska regeringen har EU bjudit in talibanregimen till Bryssel för samtal. Målet är att få fler brottsdömda afghaner utvisade.",
+      "category": "sverige",
+      "importance": 4,
+      "published": "2026-06-23T07:49:13+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/varlden/talibanerna-pa-vag-till-bryssel-pa-svenskt-initiativ/"
+        }
+      ]
+    },
+    {
+      "title": "Regeringen agerar efter TV4:s granskning: ”Bli mer rättssäkert”",
+      "summary": "Det är inte alltid rättssäkert när socialtjänsten omhändertar barn från sina föräldrar.",
+      "category": "polis",
+      "importance": 4,
+      "published": "2026-06-23T08:02:23+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/wDANVcaoMyFCxrtuCMeuP/regeringen-agerar-efter-tv4-s-granskning-mer-raettssaekert"
         }
       ]
     },
@@ -514,45 +518,6 @@
       ]
     },
     {
-      "title": "Sjuksköterska i Arvidsjaur blåste 1,84 promille på jobbet – varnas",
-      "summary": "En sjuksköterska i Arvidsjaurs kommun som blåste 1,84 promille under arbetstid får jobba kvar – men med en varning. – Som arbetsgivare har vi ett rehabiliteringsansvar, säger socialchefen Peter Öhman.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T03:30:06+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/lokalt/norrbotten/sjukskoterska-i-arvidsjaur-blaste-184-promille-pa-jobbet-varnas"
-        }
-      ]
-    },
-    {
-      "title": "22 juni 07.31, Sammanfattning natt, Jönköpings län",
-      "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-      "category": "polis",
-      "importance": 3,
-      "published": "2026-06-22T05:31:13+00:00",
-      "sources": [
-        {
-          "name": "Polisen Jonkoping",
-          "url": "https://polisen.se/aktuellt/handelser/2026/juni/22/22-juni-07.31-sammanfattning-natt-jonkopings-lan/"
-        }
-      ]
-    },
-    {
-      "title": "Värmebölja i Europa – följ senaste nytt",
-      "summary": "Det är värmebölja i Europa. Flera länder har utfärdat vädervarningar och på vissa håll väntas det bli uppemot 40 grader varmt. Följ senaste nytt i SVT:s liverapport.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T07:17:49+00:00",
-      "sources": [
-        {
-          "name": "SVT",
-          "url": "https://www.svt.se/nyheter/utrikes/varmebolja-i-europa-folj-senaste-nytt"
-        }
-      ]
-    },
-    {
       "title": "22 juni 09.36, Misshandel, Nässjö",
       "summary": "Man gripen efter larm från allmänheten.",
       "category": "polis",
@@ -575,19 +540,6 @@
         {
           "name": "SVT",
           "url": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-badgaster-drabbade-av-vattenloppor-i-granna-kommunen-varnar"
-        }
-      ]
-    },
-    {
-      "title": "SMHI varnar för höga temperaturer",
-      "summary": "SMHI har utfärdat varningar för höga temperaturer för delar av Kalmar län och större delen av…",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T10:17:49+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/3pRMp0/smhi-varnar-for-hoga-temperaturer?utm_medium=rss"
         }
       ]
     },
@@ -631,40 +583,6 @@
       ]
     },
     {
-      "title": "Värmebölja i Europa – två barn hittade döda i bil",
-      "summary": "En värmebölja hettar upp Västeuropa med temperaturer som väntas närma sig 40 grader. I södra Frankrike har två barn hittats döda i en bil.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T14:19:07+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/varlden/varmebolja-i-europa-tva-barn-hittade-doda-i-bil/"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/k0m0Rj/tva-barn-hittade-doda-i-bil-i-frankrike"
-        }
-      ]
-    },
-    {
-      "title": "Busch: ”Valet är i fara för det blågula laget”",
-      "summary": "Ebba Busch inleder Almedalsveckan i Visby med ett löfte om ”Sverigedrömmen”. Hon anser att Tidöpartierna behöver bli mer visionära – och säger att folket efterfrågar ”en annan sorts politiskt ledarskap”.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T14:39:42+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Exzy35/busch-tror-pa-rekordstor-blagul-comeback?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/QJ9JlV/ebba-busch-valet-ar-i-fara-for-det-blagula-laget"
-        }
-      ]
-    },
-    {
       "title": "High Jump Athlete 'Jasmine Begalinova' From Kazakhstan Blows Up On Social Media Thanks To Viral Photographs",
       "summary": "Jasmine Begalinova, also known online as Hay_Nyash, is a high jump athlete from Kazakhstan.",
       "category": "memes",
@@ -691,70 +609,6 @@
       ]
     },
     {
-      "title": "Efter pappans attack – Alvesta kommun anmäler sig själv",
-      "summary": "Flickornas mamma varnade socialtjänsten för pappans aggressiva beteende. Dagen efter skolavslutningen gick pappan till attack mot döttrarna. Nu anmäler kommunen sig själv, skriver Smålandsposten .",
-      "category": "lokalt",
-      "importance": 3,
-      "published": "2026-06-22T16:57:06+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/efter-pappans-attack-alvesta-kommun-anmaler-sig-sjalv/"
-        },
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Rjojlr/efter-dadet-i-alvesta-kommunen-anmaler-sig-sjalv?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/ln9nl3/efter-dadet-i-alvesta-kommunen-anmaler-sig-sjalv"
-        }
-      ]
-    },
-    {
-      "title": "SJ miljardsatsar – köper höghastighetståg",
-      "summary": "SJ köper höghastighetståg i ny miljardsatsning, rapporterar Dagens industri. Totalt köper tågbolaget 30 nya tåg från Tyskland.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T17:23:38+00:00",
-      "sources": [
-        {
-          "name": "Expressen",
-          "url": "https://www.expressen.se/nyheter/sverige/sj-miljardsatsar-koper-hoghastighetstag-/"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/q6m6bg/sj-koper-nya-hoghastighetstag"
-        }
-      ]
-    },
-    {
-      "title": "Värmekupol över Europa – länder slår värmerekord",
-      "summary": "Kan bli tio dagars extremhetta",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T17:54:51+00:00",
-      "sources": [
-        {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/rrmlq3/extremhetta-i-sodra-europa-flera-lander-slar-rekord?utm_medium=rss"
-        }
-      ]
-    },
-    {
-      "title": "Stockholm brädar Köpenhamn och Oslo",
-      "summary": "Förra året slogs rekord för antal gästnätter i Stockholms län. Nu vill stockholmarna ha ännu fler turister. Något som en världsartist ser ut att ordna – med besökare från över 120 olika länder.",
-      "category": "sverige",
-      "importance": 3,
-      "published": "2026-06-22T18:03:38+00:00",
-      "sources": [
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/2pmLvB/bad-bunny-lockar-turisterna-till-stockholm"
-        }
-      ]
-    },
-    {
       "title": "Uppdaterad 2026-06-22 21:17:51 22 juni 19.10, Brand, Färgelanda",
       "summary": "Larm inkommer via SOS om en brand i en sommarstuga i närheten av Råggärd.",
       "category": "polis",
@@ -768,19 +622,15 @@
       ]
     },
     {
-      "title": "Talibaner på väg till Bryssel-möte om utvisningar",
-      "summary": "Fem företrädare för talibanregimen i Afghanistan har beviljats visum till Belgien för att träffa EU-representanter i Bryssel, rapporterar nyhetssajten Euractiv.",
-      "category": "sverige",
+      "title": "What Is The 'Mi Mug Tea' Meme? The Meaning Of TikTok's Viral 'Despicable Me OC' Memes Explained",
+      "summary": "An edited image of the \"Despicable Me\" character Lucy Wilde is going viral on TikTok, and she's got everyone saying, \"Mi mug tea.\" Here's what that means.",
+      "category": "memes",
       "importance": 3,
-      "published": "2026-06-22T18:57:46+00:00",
+      "published": "2026-06-22T19:05:18+00:00",
       "sources": [
         {
-          "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/Rjojp5/talibaner-pa-vag-till-bryssel-mote-om-utvisningar?utm_medium=rss"
-        },
-        {
-          "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/ln9n5M/talibaner-pa-vag-till-bryssel-mote-om-utvisningar"
+          "name": "KnowYourMeme",
+          "url": "https://knowyourmeme.com/editorials/guides/what-is-the-mi-mug-tea-meme-the-meaning-of-tiktoks-viral-despicable-me-oc-memes-explained"
         }
       ]
     },
@@ -794,32 +644,6 @@
         {
           "name": "Polisen VGR",
           "url": "https://polisen.se/aktuellt/handelser/2026/juni/22/22-juni-21.06-brand-goteborg/"
-        }
-      ]
-    },
-    {
-      "title": "Temperatures could hit 40C in UK as rare red heat warning issued",
-      "summary": "The Met Office has issued a red weather warning over the coming days with the peak due on Wednesday and Thursday.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-06-22T19:32:00+00:00",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c982l60v0z7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Clive Davis, Music Industry Titan Who Signed Whitney Houston, Dies at 94",
-      "summary": "He rose from a midlevel position at Columbia Records to become one of music’s most powerful executives, shepherding stars like Barry Manilow and Whitney Houston.",
-      "category": "world",
-      "importance": 3,
-      "published": "2026-06-22T19:41:19+00:00",
-      "sources": [
-        {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
         }
       ]
     },
@@ -850,97 +674,271 @@
       ]
     },
     {
-      "title": "Tre döda efter skottlossning i Montreal",
-      "summary": "Tre personer har dödats i en skottlossning i Montréal i Kanada, däribland gärningsmannen, skriver The Gazette.",
+      "title": "Clive Davis, Music Industry Titan Who Signed Whitney Houston, Dies at 94",
+      "summary": "He rose from a midlevel position at Columbia Records to become one of music’s most powerful executives, shepherding stars like Barry Manilow and Whitney Houston.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-06-22T20:21:15+00:00",
+      "sources": [
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
+        }
+      ]
+    },
+    {
+      "title": "Varningen till ryska turister på Krim: ”Badsäsongen är över”",
+      "summary": "”Vi avslutar badsäsongen på Krim”. Det uppgav Ukrainas försvarsdepartement i ett uttalande efter att man attackerat flera mål på den ryskockuperade Krimhalvön.",
       "category": "sverige",
       "importance": 3,
-      "published": "2026-06-22T19:57:53+00:00",
+      "published": "2026-06-22T20:39:43+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/5QOYYQE48x3Ab8iE7tr6Mk/varningen-till-ryska-turister-pa-krim-badsaesongen-aer-oever"
+        }
+      ]
+    },
+    {
+      "title": "TikTok adds new AI creation tools for marketers",
+      "summary": "The company’s artificial intelligence-powered Symphony Agent will generate new promotions based on trending campaigns, text and visual prompts.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-06-22T21:01:15+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463/"
+        }
+      ]
+    },
+    {
+      "title": "Reddit launches more integrated ad options to assure shoppers",
+      "summary": "Reddit's free-form ads will enable advertisers to create more organic, engaging in-stream promotions.",
+      "category": "social",
+      "importance": 3,
+      "published": "2026-06-22T21:25:00+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/reddit-launches-more-integrated-ad-options-to-assure-shoppers/823466/"
+        }
+      ]
+    },
+    {
+      "title": "Trump hotar att inte hjälpa Nato",
+      "summary": "USA:s president Donald Trump säger på nytt att USA skulle kunna vägra att hjälpa Nato-länder som hämnd för vad han anser varit brist på stöd från medlemsländerna i samband med Irankriget.",
+      "category": "world",
+      "importance": 3,
+      "published": "2026-06-22T23:00:02+00:00",
       "sources": [
         {
           "name": "Aftonbladet",
-          "url": "https://www.aftonbladet.se/nyheter/a/ln9nRo/tre-doda-efter-skottlossning-i-montreal?utm_medium=rss"
+          "url": "https://www.aftonbladet.se/nyheter/a/m03KR0/trump-hotar-att-inte-hjalpa-nato?utm_medium=rss"
         },
         {
           "name": "Svenska Dagbladet",
-          "url": "https://www.svd.se/a/8pRpdQ/tre-doda-efter-skottlossning-i-kanada"
+          "url": "https://www.svd.se/a/ExzlWl/trump-hotar-att-inte-hjalpa-nato"
         }
       ]
     },
     {
-      "title": "En kölhalning Sverige bjöd på",
-      "summary": "",
-      "category": "sverige",
-      "importance": 2,
-      "published": "2026-06-20T20:27:50+00:00",
-      "sources": [
-        {
-          "name": "TV4",
-          "url": "https://www.tv4.se/artikel/2OQuNuum22ofZ96oFaIzG8/lundh-en-koelhalning-sverige-bjoed-pa"
-        }
-      ]
-    },
-    {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
       "category": "tech",
-      "importance": 2,
-      "published": "2026-06-20T20:32:29+00:00",
+      "importance": 3,
+      "published": "2026-06-23T00:11:31+00:00",
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
         }
       ]
     },
     {
-      "title": "Before There Was Chimptopia, There Was All Or Nothing",
-      "summary": "All Or Nothing refers to an infamous Tumblr post and eventual crowdfunding project centered around a proposed sitcom called All Or Nothing, which would follow a pair of roommates who identify as asexual and pansexual.",
-      "category": "memes",
-      "importance": 2,
-      "published": "2026-06-21T00:38:32+00:00",
-      "sources": [
-        {
-          "name": "KnowYourMeme",
-          "url": "https://knowyourmeme.com/memes/all-or-nothing"
-        }
-      ]
-    },
-    {
-      "title": "Polisen är säker: Hon mördade Marie Johansson i Stuvkällaren",
-      "summary": "Hon är utpekad som Stuvkällarkvinnan – mördaren som aldrig kan dömas. Den 38-åriga sjubarnsmammans liv är marinerat i gängvåld och hennes svärmor, systerns son och den egna förekommer alla i mordärenden.",
-      "category": "polis",
-      "importance": 2,
-      "published": "2026-06-21T03:00:00+00:00",
-      "sources": [
-        {
-          "name": "GT",
-          "url": "https://www.expressen.se/nyheter/krim/polisen-ar-saker-hon-mordade-marie-johansson-i-stuvkallaren/"
-        }
-      ]
-    },
-    {
-      "title": "Svenska fansens frustration efter storförlusten: ”Är så dåligt”",
-      "summary": "Skyhöga förhoppningarna sprack fort • ”Ingen vilja, ingen glöd, ingenting”",
+      "title": "Vance: Samtalen har lagt en bra grund",
+      "summary": "USA och Iran har lagt ”en bra grund” för fortsatta förhandlingar, anser USA:s vice president JD Vance. Han har fört ytterligare samtal med parter i Libanon, där hela förhandlingsläget ställs på sin spets.",
       "category": "sverige",
-      "importance": 2,
-      "published": "2026-06-21T05:56:56+00:00",
+      "importance": 3,
+      "published": "2026-06-23T02:31:43+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/ExzlvG/vance-i-samtal-med-libanons-president?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/rrmM5w/vance-i-samtal-med-libanons-president"
+        }
+      ]
+    },
+    {
+      "title": "Flera skadade efter ryska attacker",
+      "summary": "Ryssland har riktat attacker mot flera platser i Ukraina under måndagskvällen och natten mot…",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T03:05:31+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/V6jgz6/flera-skadade-efter-ryska-attacker?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/k0mvya/flera-skadade-efter-ryska-attacker"
+        }
+      ]
+    },
+    {
+      "title": "Norge klara för slutspel – Haaland hjälte igen",
+      "summary": "Norge fortsätter att ånga på i VM. Efter 3–2-segern mot Senegal i New Jersey har landet avancerat till slutspel.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T03:30:39+00:00",
       "sources": [
         {
           "name": "TV4",
-          "url": "https://www.tv4.se/artikel/5ZxQea3TCT5NycYBd2TxNF/svenska-fansens-frustration-efter-storfoerlusten-aer-sa-daligt"
+          "url": "https://www.tv4.se/artikel/tt-260623-fotvmnorge1-9b6480ca/norge-klara-for-slutspel-haaland-hjalte-igen"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/L4W3qP/norge-klara-for-slutspel-haaland-hjalte-igen"
         }
       ]
     },
     {
-      "title": "Kraftig villabrand i Svenljunga – tonåringar till sjukhus",
-      "summary": "En person har hittats död efter att en kraftig brand brutit ut i en villa utanför Svenljunga natten till söndag. Två unga kvinnor har förts till sjukhus.",
+      "title": "Gunnar Strömmer om Stuvkällarmordet: ”Förstår de anhöriga”",
+      "summary": "Stuvkällarmordet ledde till nya regler för preskription – i dag skulle en ung mördare inte kunna komma undan som den utpekade 38-åringen.",
       "category": "polis",
-      "importance": 2,
-      "published": "2026-06-21T07:33:40+00:00",
+      "importance": 3,
+      "published": "2026-06-23T04:01:23+00:00",
       "sources": [
         {
+          "name": "Expressen",
+          "url": "https://www.expressen.se/nyheter/sverige/gunnar-strommer-om-stuvkallarmordet-forstar-de-anhoriga/"
+        },
+        {
           "name": "GT",
-          "url": "https://www.expressen.se/nyheter/sverige/kraftig-villabrand-i-svenljunga-tonaringar-till-sjukhus/"
+          "url": "https://www.expressen.se/nyheter/sverige/gunnar-strommer-om-stuvkallarmordet-forstar-de-anhoriga/"
+        }
+      ]
+    },
+    {
+      "title": "Mördarsnigelns framfart avgörs kommande veckor",
+      "summary": "Det kan bli en lugnare sommar än vanligt för landets trädgårdsentusiaster – antalet mördarsniglar ser nämligen ut att bli färre än tidigare år. Men kommande veckors väder kan bli avgörande.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T04:26:15+00:00",
+      "sources": [
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/mordarsnigelns-framfart-avgors-kommande-veckor/"
+        },
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/m03Ka4/mordarsnigelns-framfart-avgors-kommande-veckor?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/Exzl5A/mordarsnigelns-framfart-avgors-kommande-veckor"
+        }
+      ]
+    },
+    {
+      "title": "23 juni 07.00, Sammanfattning natt, Västra Götalands län",
+      "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+      "category": "polis",
+      "importance": 3,
+      "published": "2026-06-23T05:32:10+00:00",
+      "sources": [
+        {
+          "name": "Polisen Jonkoping",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/23/23-juni-07.32-sammanfattning-natt-jonkopings-lan/"
+        },
+        {
+          "name": "Polisen VGR",
+          "url": "https://polisen.se/aktuellt/handelser/2026/juni/23/23-juni-07.00-sammanfattning-natt-vastra-gotalands-lan/"
+        }
+      ]
+    },
+    {
+      "title": "Industrisemestern startar – då laddar Sveriges största partier upp",
+      "summary": "Lanserar – mitt i semestern",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T05:54:13+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/6ql3Me/s-sd-och-m-laddar-upp-infor-valet-mitt-i-semestern?utm_medium=rss"
+        }
+      ]
+    },
+    {
+      "title": "Hettan ger skyhöga elpriser",
+      "summary": "Elpriserna når i dagarna nivåer på uppemot 6 kronor per kilowattimme (kWh) kvällstid i Tyskland, Danmark och flera andra delar av norra kontinenten – priser som även smittar Sydsverige till viss del.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T07:10:35+00:00",
+      "sources": [
+        {
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/tt-260623-elpris1-50fb0aba/hettan-ger-skyhoga-elpriser"
+        },
+        {
+          "name": "Dagens Nyheter",
+          "url": "https://www.dn.se/ekonomi/hettan-ger-skyhoga-elpriser/"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/K8Wr5y/hettan-ger-skyhoga-elpriser"
+        }
+      ]
+    },
+    {
+      "title": "Utländska bidrag till trossamfund ska kunna stoppas",
+      "summary": "Trossamfund i Sverige tar emot stora belopp från utländska finansiärer. Nu föreslås att en ny myndighet ska kunna stoppa sådana bidrag om de går till radikalisering och extremism.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T07:33:16+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/K8WLn4/utlandska-bidrag-till-trossamfund-ska-kunna-stoppas?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/OkWy8O/utlandska-bidrag-till-trossamfund-ska-kunna-stoppas"
+        }
+      ]
+    },
+    {
+      "title": "Korean Stocks Fall 10% From Record",
+      "summary": "South Korean stocks tumbled from a record high as investors sold off chip heavyweights on renewed concern that the rally has become overstretched.",
+      "category": "tech",
+      "importance": 3,
+      "published": "2026-06-23T07:55:53+00:00",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-23/korean-stocks-fall-10-from-record-video"
+        }
+      ]
+    },
+    {
+      "title": "Mörklagt talibanmöte i Bryssel",
+      "summary": "En delegation från talibanregimen i Afghanistan väntas till Bryssel under dagen – men när, var och hur är högst oklart. Från både EU och medlemsländer är tystnaden närmast total.",
+      "category": "sverige",
+      "importance": 3,
+      "published": "2026-06-23T08:10:22+00:00",
+      "sources": [
+        {
+          "name": "Aftonbladet",
+          "url": "https://www.aftonbladet.se/nyheter/a/WvomkQ/morklagt-talibanmote-i-bryssel?utm_medium=rss"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/a/n1mL45/morklagt-talibanmote-i-bryssel"
         }
       ]
     },
@@ -1049,28 +1047,54 @@
       ]
     },
     {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-      "category": "tech",
+      "title": "Fyra bilar i olycka på E6",
+      "summary": "Stor påverkan: ”Mycket skräp på vägen”",
+      "category": "polis",
       "importance": 2,
-      "published": "2026-06-21T14:40:28+00:00",
+      "published": "2026-06-21T15:54:17+00:00",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
+          "name": "GT",
+          "url": "https://www.expressen.se/nyheter/expressen-direkt/?post=acd8c4a1-d275-4a26-93b7-72f0970fb873"
         }
       ]
     },
     {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-      "category": "tech",
+      "title": "Dubbla känslor när Iran spelar i VM: ”Vi har större problem”",
+      "summary": "Vägrar köpa tröjan • Pekar ut sporten som politiskt verktyg",
+      "category": "polis",
       "importance": 2,
-      "published": "2026-06-21T15:28:17+00:00",
+      "published": "2026-06-21T18:32:16+00:00",
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/"
+          "name": "TV4",
+          "url": "https://www.tv4.se/artikel/owvp3Ntvr3MW7jGtF2jd7/dubbla-kaenslor-naer-iran-spelar-i-vm-vi-har-stoerre-problem"
+        }
+      ]
+    },
+    {
+      "title": "YouTube updates mobile UI and channel membership pricing",
+      "summary": "Like, dislike, share and ask icons get a new format.",
+      "category": "social",
+      "importance": 2,
+      "published": "2026-06-21T21:34:30+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/youtube-updates-mobile-ui-and-channel-membership-pricing/823349/"
+        }
+      ]
+    },
+    {
+      "title": "LinkedIn lets users set core brand rules",
+      "summary": "Colors, fonts and even brand voice can all be created using the platform’s brand kit, which will use these selections for artificial intelligence-generated content.",
+      "category": "polis",
+      "importance": 2,
+      "published": "2026-06-21T21:39:35+00:00",
+      "sources": [
+        {
+          "name": "Social Media Today",
+          "url": "https://www.socialmediatoday.com/news/linkedin-lets-users-set-core-brand-rules/823351/"
         }
       ]
     }
